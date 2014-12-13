@@ -16,7 +16,7 @@
 }
 
 .remark-slide-container {
-  background-color: #101010;
+  background-color: #050505;
 }
 
 .remark-slide-content {
@@ -53,4 +53,14 @@ div.small p {
 div.big p {
   line-height: 1.30;
   font-size: 1.1em;
+}
+
+.logo {
+  background-image: url("../img/logo.jpg");
+  background-size: 500px 500px !important;
+  background-position: 50% 50% !important;
+}
+
+.logo .remark-slide-number {
+  display: none;
 }
