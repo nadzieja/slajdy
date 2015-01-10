@@ -50,6 +50,11 @@ div.small p {
   font-size: 0.96em;
 }
 
+div.tiny p {
+  line-height: 1.10;
+  font-size: 0.88em;
+}
+
 div.big p {
   line-height: 1.30;
   font-size: 1.1em;
