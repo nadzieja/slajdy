@@ -69,3 +69,14 @@ div.big p {
 .logo .remark-slide-number {
   display: none;
 }
+
+.logo-tb {
+  background-image: url("../img/logo-tb.jpg");
+  background-size: 850px !important;
+  background-position: 50% 50% !important;
+  background-color: black;
+}
+
+.logo-tb .remark-slide-number {
+  display: none;
+}
