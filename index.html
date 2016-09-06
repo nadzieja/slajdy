@@ -21,6 +21,8 @@
         return result;
       }
       var data = getQueryString()['data'] || '2016-09-11';
+      document.title = 'Slajdy ' + data + ' - Tchnienie Boga';
+      
       var slideshow = remark.create({
         ratio: '3:2',
         sourceUrl: 'md/' + data + '.md'
