@@ -10,9 +10,20 @@
   </head>
   <body>
     <script>
+      function getQueryString() {
+        var result = {}, queryString = location.search.slice(1),
+        re = /([^&=]+)=([^&]*)/g, m;
+
+        while (m = re.exec(queryString)) {
+          result[decodeURIComponent(m[1])] = decodeURIComponent(m[2]);
+        }
+
+        return result;
+      }
+      var data = getQueryString()['data'] || '2016-09-11';
       var slideshow = remark.create({
         ratio: '3:2',
-        sourceUrl: 'md/2016-06-12.md'
+        sourceUrl: 'md/' + data + '.md'
       });
     </script>
   </body>
