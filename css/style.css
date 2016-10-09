@@ -59,6 +59,11 @@ div.tiny p {
   font-size: 0.88em;
 }
 
+div.pico p {
+  line-height: 1.10;
+  font-size: 0.70em;
+}
+
 div.big p {
   line-height: 1.30;
   font-size: 1.1em;
