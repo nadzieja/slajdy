@@ -10,6 +10,39 @@
   </head>
   <body>
     <script>
+      var slideshow = remark.create({
+        ratio: '3:2',
+        sourceUrl: 'md/all-slides.md'
+      });
+
+      var allNames = slideshow.getSlides()
+        .map(function(slide) {
+          return slide.properties.name;
+        })
+        .filter(function(name) {
+          return name;
+        });
+
+      var names = [];
+      function addDotHandler(slideNames) {
+        function cycleArray(values) {
+          var idx = 0;
+          return function() {
+            var value = values[idx];
+            idx = idx + 1 < values.length ? idx + 1 : 0;
+            return value;
+          };
+        }
+        var nextSlideName = cycleArray(slideNames);
+
+        document.body.addEventListener('keypress', function(event) {
+          if (event.key === '.') {
+            slideshow.gotoSlide(nextSlideName());
+          }
+        });
+      }
+      addDotHandler(names);
+
       function getQueryString() {
         var result = {}, queryString = location.search.slice(1),
         re = /([^&=]+)=([^&]*)/g, m;
@@ -20,13 +53,46 @@
 
         return result;
       }
-      var data = getQueryString()['data'] || '2016-10-09';
-      document.title = 'Slajdy ' + data + ' - Tchnienie Boga';
-      
-      var slideshow = remark.create({
-        ratio: '3:2',
-        sourceUrl: 'md/' + data + '.md'
+
+      function getSlideNames(url, callback) {
+        if (!url) {
+          callback();
+          return;
+        }
+        var xhr = new XMLHttpRequest();
+        xhr.responseType = 'text';
+        xhr.onreadystatechange = function() {
+          if (xhr.readyState === 4) {
+            if (xhr.status === 200) {
+              var slideNames = xhr.response.split(/\s+/);
+              callback(slideNames);
+            } else {
+              callback();
+            }
+          }
+        }
+        xhr.open('GET', url, true);
+        xhr.send(null);
+      }
+
+      var data = getQueryString()['data'];
+      var url = data && 'md/' + data + '.txt';
+      document.title = data && 'Slajdy ' + data + ' - Tchnienie Boga' || 'Slajdy - Tchnienie Boga';
+
+      getSlideNames(url, function(slideNames) {
+        if (!slideNames) {
+          allNames.forEach(function(name) {
+            names.push(name);
+          }); 
+        } else {
+          slideNames.forEach(function(name) {
+            if (allNames.indexOf(name) >= 0) {
+              names.push(name);
+            }
+          });
+        }
       });
+
     </script>
   </body>
 </html>
