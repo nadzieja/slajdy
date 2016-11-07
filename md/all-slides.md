@@ -4,8 +4,6 @@ class:logo
 name:logo-tb
 class:logo-tb
 ---
-class:black
----
 name:panie
 class:small
 Panie, który za nas umarłeś,   
@@ -40,14 +38,10 @@ drogi nasze uprości.
 Niech Twe przebaczenie   
 miłość wielką rozbudzi w nas.   
 ---
-class:black
----
 name:psalm
 class:big,center,middle
 Gdy zmartwychwstanę,  
 będę widział Boga.
----
-class:black
 ---
 name:jozef
 class:pico
@@ -61,8 +55,6 @@ sprawę remontu naszej świątyni. Patronie robotników, czuwaj nad nami!
 tak dzisiaj bądź przy nas, by nam towarzyszyć w tym trudzie pracy 
 radź nam i wspieraj, aby jej skutek był na chwałę Bożą i na
 pożytek naszych dusz. Amen.
----
-class:black
 ---
 name:#051
 Ref. 1. Będziemy tańczyć,  
@@ -102,8 +94,6 @@ kiedy nasz Pan
 w białych szatach stawi nas  
 przed Ojcem swym, przed Adonai.  
 ---
-class:black
----
 name:#082
 class:small
 Miałem Pana zawsze  
@@ -127,8 +117,6 @@ Dajesz mi poznać wszystkie drogi
 i napełniasz mnie radością  
 Swoją przed obliczem Twoim.
 ---
-class:black
----
 name:#102
 class:middle
 Ofiaruję Tobie, Panie mój,  
@@ -136,8 +124,6 @@ całe życie me,
 cały jestem Twój,  aż na wieki.  
 Oto moje serce, przecież wiesz,  
 Tyś miłością mą jedyną jest.  
----
-class:black
 ---
 name:#119
 class:small
@@ -149,8 +135,6 @@ Wzywasz nas, Panie, do Siebie
 przed Twój w niebie tron  
 My łaską obdarzeni  
 Tobie składamy hołd.  
----
-class:black
 ---
 name:#180
 class:small

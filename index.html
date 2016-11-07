@@ -23,8 +23,18 @@
           return name;
         });
 
+      function addKeydown(code, callback) {
+        document.body.addEventListener('keydown', function(event) {
+          var keyCode = event.which || event.keyCode;
+          if (keyCode === code) {
+            event.preventDefault();
+            callback();
+          }
+        });
+      }
+
       var names = [];
-      function addDotHandler(slideNames) {
+      function addNamedSlidesHandler(slideNames) {
         function cycleArray(values) {
           var idx = 0;
           return function() {
@@ -34,14 +44,15 @@
           };
         }
         var nextSlideName = cycleArray(slideNames);
-
-        document.body.addEventListener('keypress', function(event) {
-          if (event.key === '.') {
-            slideshow.gotoSlide(nextSlideName());
-          }
+        addKeydown(116, function() { // F5
+          slideshow.gotoSlide(nextSlideName());
         });
       }
-      addDotHandler(names);
+      addNamedSlidesHandler(names);
+
+      addKeydown(190, function() { // dot
+        slideshow.toggleBlackout();
+      });
 
       function getQueryString() {
         var result = {}, queryString = location.search.slice(1),
