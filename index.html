@@ -44,6 +44,7 @@
           };
         }
         var nextSlideName = cycleArray(slideNames);
+
         addKeydown(116, function() { // F5
           slideshow.gotoSlide(nextSlideName());
         });
