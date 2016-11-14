@@ -178,6 +178,12 @@ tak dzisiaj bądź przy nas, by nam towarzyszyć w tym trudzie pracy
 radź nam i wspieraj, aby jej skutek był na chwałę Bożą i na
 pożytek naszych dusz. Amen.
 ---
+name:michal
+class:tiny
+Święty Michale Archaniele!   
+Wspomagaj nas w walce, a przeciw niegodziwości i zasadzkom złego ducha bądź naszą obroną. Oby go Bóg pogromić raczył, pokornie o to prosimy. A Ty, Wodzu niebieskich zastępów, szatana i inne duchy złe, które na zgubę dusz ludzkich po tym świecie krążą, mocą Bożą strąć do piekła.
+Amen.  
+---
 name:#009
 class:small
 1\. Tryumfy Króla Niebieskiego  
@@ -573,106 +579,140 @@ Pokój ludziom dobrej woli,
 przyniósł Chrystus w Swej osobie.  
 ---
 name:#022
-1\. Prawda jedyna słowa Jezusa z Nazaretu,  
-że Swego Syna posłał z niebios Bóg na świat.  
-Aby niewinnie cierpiąc zmarł za nasze grzechy  
-i w pohańbieniu przyjął winy wszystkich nas.  
+class:tiny
+1\. Prawda jedyna słowa Jezusa  
+z Nazaretu, że Swego Syna posłał  
+z niebios Bóg na świat.  
+Aby, niewinnie cierpiąc, zmarł za  
+nasze grzechy i w pohańbieniu  
+przyjął winy wszystkich nas.  
   
-Ref. Dzięki Ci, Boże mój, za ten krzyż, który Jezus  
-cierpiał za mnie, Jezus cierpiał za mnie.  
-  
-2\. Uwierz w Jezusa, przecież On za ciebie umarł  
-i z miłości do nas przyszedł z nieba na ten świat.  
-Błogosławiony ten, kto wierzy, choć nie widział  
-zaufaj dziś Bogu, a na wieki będziesz żył.  
+Ref. Dzięki Ci, Boże mój, za ten krzyż,  
+który Jezus cierpiał za mnie,  
+Jezus cierpiał za mnie.  
+---
+class:tiny
+2\. Uwierz w Jezusa, przecież On za  
+ciebie umarł i z miłości do nas  
+przyszedł z nieba na ten świat.  
+Błogosławiony ten, kto wierzy,  
+choć nie widział. Zaufaj dziś Bogu, 
+a na wieki będziesz żył.  
+
+Ref. Dzięki Ci, Boże mój, za ten krzyż,  
+który Jezus cierpiał za mnie,  
+Jezus cierpiał za mnie.  
 ---
 name:#023
+class:middle
 1\. Drzewo krzyża surowe,  
-Tyś Ciało Chrystusowe dźwigało.  
+Tyś ciało Chrystusowe dźwigało.  
 Marii Panny lamenty  
-i bok święty rozcięty widziało.  
-  
+I bok święty rozcięty widziało.
+---
+class:middle
 2\. Na Ciebie krew i woda  
 i łaska Chrystusowa spłynęły.  
 Na Tobie Kościół święty  
 i wiary fundamenty stanęły.  
-  
+---
+class:middle
 3\. Potężnym majestatem  
 wysoko ponad światem górujesz.  
 Przemija postać świata,  
-a Ty po wszystkie lata królujesz.  
+A Ty po wszystkie lata królujesz.  
 ---
 name:#024
 Dzięki za Twój krzyż  
 Dzięki za zwycięstwo Twe  
 Niech Twa Krew oczyszcza mnie  
 Dzięki za miłosierdzie Twe  
-  
-  
 ---
 name:#025
 1\. Golgoto, Golgoto, Golgoto!  
 W tej ciszy przebywam wciąż rad,  
 W tej ciszy daleki jest świat.  
-Ty koisz mój ból, usuwasz mój strach,  
+Ty koisz mój ból,  
+usuwasz mój strach,  
 Gdy widzę Cię Zbawco przez łzy.  
-  
+---
+class:small
 Ref. To nie gwoździe Cię przybiły,  
-lecz mój grzech  
+lecz mój grzech.  
 To nie ludzie Cię skrzywdzili,  
-lecz mój grzech  
+lecz mój grzech.  
 To nie gwoździe Cię trzymały,  
-lecz mój grzech  
+lecz mój grzech.  
 Choć tak dawno to się stało,  
 widziałeś mnie.  
-  
+---
 2\. Golgoto, Golgoto, Golgoto!  
 Ja widzę Cię Jezu mój tam,  
 Jak wiele masz sińców i ran.  
-Miłości Twej moc, zawiodła Cię tam,  
+Miłości Twej moc,  
+zawiodła Cię tam,  
 Uwolnić mnie z grzechów i win.  
-  
-Ref. To nie gwoździe Cię przybiły...  
-  
-3\. Golgoto, Golgoto, Golgoto!  
+---
+class:small
+Ref. To nie gwoździe Cię przybiły,  
+lecz mój grzech.  
+To nie ludzie Cię skrzywdzili,  
+lecz mój grzech.  
+To nie gwoździe Cię trzymały,  
+lecz mój grzech.  
+Choć tak dawno to się stało,  
+widziałeś mnie.  
+---
+3\. Golgoto, Golgoto, Golgoto !  
 Wspominam tak często ten dzień,  
 Golgotę i słodki jej cień.  
-Przyszedłem pod Krzyż z ciężarem mych win,  
+Przyszedłem pod Krzyż  
+z ciężarem mych win,  
 Uwolnił mnie tam Boży Syn.  
-  
-Ref. To nie gwoździe Cię przybiły…  
-  
-  
-  
+---
+class:small
+Ref. To nie gwoździe Cię przybiły,  
+lecz mój grzech.  
+To nie ludzie Cię skrzywdzili,  
+lecz mój grzech.  
+To nie gwoździe Cię trzymały,  
+lecz mój grzech.  
+Choć tak dawno to się stało,  
+widziałeś mnie.  
 ---
 name:#026
-  
+class:tiny
 1\. Zbawienie przyszło przez krzyż,  
 Ogromna to tajemnica.  
 Każde cierpienie ma sens,  
 Prowadzi do pełni życia.  
-  
+
 Ref.2x Jeżeli chcesz Mnie naśladować,  
 To weź swój krzyż na każdy dzień  
 I chodź ze Mną zbawiać świat  
 Kolejny już wiek.  
-  
+---
+class:tiny
 2\. Codzienność wiedzie przez Krzyż,  
 Większy im kochasz goręcej.  
 Nie musisz ginąć już dziś,  
 Lecz ukrzyżować swe serce.  
-  
-Ref.2x Jeżeli chcesz Mnie naśladować...  
-  
+
+Ref.2x Jeżeli chcesz Mnie naśladować,  
+To weź swój krzyż na każdy dzień  
+I chodź ze Mną zbawiać świat  
+Kolejny już wiek.  
+---
+class:tiny
 3\. Każde spojrzenie na krzyż  
 Niech niepokojem zagości,  
 Bo wszystko w życiu to nic  
 Wobec tak wielkiej miłości.  
-  
-Ref.2x Jeżeli chcesz Mnie naśladować...  
-  
-  
-  
+
+Ref.2x Jeżeli chcesz Mnie naśladować,  
+To weź swój krzyż na każdy dzień  
+I chodź ze Mną zbawiać świat  
+Kolejny już wiek.  
 ---
 name:#027
 1\. Ten którego pocałuję w twarz,  
@@ -801,59 +841,74 @@ Dajesz mi siebie, bym na wieki żył!
   
 ---
 name:#032
-Ref. Zaśpiewajcie Panu pieśń nową  
-Bo Sam wielkich cudów dokonał  
+class:tiny
+Ref. Zaśpiewajcie Panu pieśń nową,  
+bo Sam wielkich cudów dokonał.  
 Przyniosła Mu pewne zwycięstwo  
 Jego prawica i święte ramię.  
-  
-1\. Oznajmił Pan Swoje zwycięstwo  
-Wyjawił Swą sprawiedliwość  
-w oczach narodów  
-Wspomniał na Swą łaskawość i wierność  
-Ujrzały wszystkie krańce ziemi Jego zbawienie  
-  
-Ref. Zaśpiewajcie Panu pieśń nową...  
-  
-2\. Wykrzykuj Panu, cała ziemio  
-Weselcie się, radujcie, śpiewajcie  
-Chwalcie Pana przy wtórze cytry  
-Przy wtórze liry i pieśni głosem  
-  
-Ref. Zaśpiewajcie Panu pieśń nową...  
-  
-3\. Niech zabrzmi morze i co je napełnia  
-I okrąg świata i jego mieszkańcy  
-Rzeki niechaj klaszczą w dłonie  
-Góry niech z radości śpiewają  
-  
-Ref. Zaśpiewajcie Panu pieśń nową…  
-  
-  
-  
+
+1\. Oznajmił Pan Swoje zwycięstwo.  
+Wyjawił Swą sprawiedliwość w oczach  
+narodów. Wspomniał na Swą  
+łaskawość i wierność. Ujrzały  
+wszystkie krańce ziemi Jego zbawienie.  
+---
+class:tiny
+Ref. Zaśpiewajcie Panu pieśń nową,  
+bo Sam wielkich cudów dokonał.  
+Przyniosła Mu pewne zwycięstwo  
+Jego prawica i święte ramię.  
+
+2\. Wykrzykuj Panu, cała ziemio!  
+Weselcie się, radujcie, śpiewajcie!  
+Chwalcie Pana przy wtórze cytry,  
+przy wtórze liry i pieśni głosem!  
+---
+class:tiny
+Ref. Zaśpiewajcie Panu pieśń nową,  
+bo Sam wielkich cudów dokonał.  
+Przyniosła Mu pewne zwycięstwo  
+Jego prawica i święte ramię.  
+
+3\. Niech zabrzmi morze i co je napełnia,  
+i okrąg świata i jego mieszkańcy.  
+Rzeki niechaj klaszczą w dłonie,  
+góry niech z radości śpiewają!  
 ---
 name:#033
+class:tiny,middle
 1\. Po szabacie pierwszego dnia z rana  
-Biegła Maria z Magdali do grobu, do Pana  
-Właśnie słońce wschodziło i rzęsy złotymi  
-Budziło ze snu to, co żyje na ziemi.  
-Swym ciepłym tchnieniem, suszyło trawę  
-Całowało litośnie oczy łzawe.  
-  
-Ref.  
-To dzień, dzień, dzień zmartwychwstania  
-To dzień, dzień, dzień ukazania się  
-Dzień, dzień, dzień zmartwychwstania  
-To dzień.  
-  
-  
-2\. I spiesząc odurzona rankiem, tęsknotą  
-stanęła przed żałobną grotą.  
-Zdziwiona spostrzegła, że właśnie tym razem  
-grób nie jest zamknięty jak zawsze głazem.  
+biegła Maria z Magdali  
+do grobu, do Pana.  
+Właśnie słońce wschodziło  
+i rzęsy złotymi budziło ze snu  
+to, co żyje na ziemi.  
+Swym ciepłym tchnieniem  
+suszyło trawę,  
+całowało litośnie oczy łzawe.  
+---
+class:small,middle
+Ref. To dzień, dzień, dzień  
+zmartwychwstania.  
+To dzień, dzień, dzień ukazania się.  
+Dzień, dzień, dzień  
+zmartwychwstania to dzień.  
+---
+class:tiny,middle
+2\. I spiesząc odurzona rankiem,  
+tęsknotą, stanęła przed żałobną grotą.  
+Zdziwiona spostrzegła, że właśnie  
+tym razem grób nie jest zamkniety  
+jak zawsze głazem.  
 Niemało strwożona, z pobladłymi usty,  
 zagląda do wnętrza, grób cały pusty.  
-  
-Ref. To dzień, dzień, dzień zmartwychwstania…  
+---
+class:small,middle
+Ref. To dzień, dzień, dzień  
+zmartwychwstania.  
+To dzień, dzień, dzień ukazania się.  
+Dzień, dzień, dzień  
+zmartwychwstania to dzień.  
 ---
 name:#034
 Wody nie ugaszą jej,  
@@ -971,10 +1026,9 @@ Ty tylko mnie poprowadź
 Panie mój /2x  
 ---
 name:#038
-Swojego Ducha Panie, wylej na nas dziś!  
-  
-  
-  
+class:big,center,middle
+Swojego Ducha, Panie,  
+wylej na nas dziś!  
 ---
 name:#039
   
@@ -1081,6 +1135,7 @@ Ref. Takie jest prawo miłości…
   
 ---
 name:#044
+class:small,middle
 Pan jest Pasterzem moim,  
 niczego mi nie braknie,  
 na zielonych niwach pasie mnie.  
@@ -1089,17 +1144,14 @@ mnie prowadzi
 i duszę mą pokrzepia,  
 i wiedzie mnie ścieżkami  
 sprawiedliwości Swojej.  
-  
-Laj, la laj, la lala lala laj  
-  
+---
+class:tiny,middle
 Ref. Choćbym nawet szedł  
 ciemną doliną,  
 zła się nie ulęknę,  
 boś Ty ze mną,  
-laska Twoja  
-i kij Twój mnie  
+laska Twoja i kij Twój mnie  
 pocieszają.  
-  
 ---
 name:#045
 Do Ciebie, Panie  
@@ -1138,15 +1190,13 @@ Za mną proś i ze mną
 Bądź!  
 ---
 name:#047
-Nic, nie musisz mówić nic  
-Odpocznij we mnie  
-Czuj się bezpiecznie  
+class:middle
+Nic, nie musisz mówić nic,  
+odpocznij we Mnie,  
+czuj się bezpiecznie.  
   
-Ref. Pozwól kochać się  
-Miłość pragnie Ciebie  
-  
-  
-  
+Ref. Pozwól kochać się,  
+Miłość pragnie Ciebie.  
 ---
 name:#048
 Ref. Wszystko, co dziś mamy  
@@ -1404,70 +1454,81 @@ Twoje ręce to mój ląd
   
 ---
 name:#059
-1\. Schowaj mnie  
-pod skrzydła Twe.  
-Ukryj mnie  
-w silnej dłoni Swej.  
+class:tiny,middle
+1\. Schowaj mnie pod skrzydła Twe.  
+Ukryj mnie w silnej dłoni Swej.  
   
-Ref. Kiedy fale mórz  
-chcą porwać mnie,  
-z Tobą wzniosę się,  
-podniesiesz mnie.  
-Panie, Królem Tyś  
-spienionych wód.  
+Ref. Kiedy fale mórz chcą porwać mnie,  
+z Tobą wzniosę się, podniesiesz mnie.  
+Panie, królem Tyś spienionych wód.  
 Ja ufam Ci, Ty jesteś Bóg.  
 Ja ufam Ci, Ty jesteś Bóg.  
-  
+---
+class:tiny,middle
 2\. Odpocznę dziś, w ramionach Twych.  
 Dusza ma, w Tobie będzie trwać.  
+  
+Ref. Kiedy fale mórz chcą porwać mnie,  
+z Tobą wzniosę się, podniesiesz mnie.  
+Panie, królem Tyś spienionych wód.  
+Ja ufam Ci, Ty jesteś Bóg.  
+Ja ufam Ci, Ty jesteś Bóg.  
 ---
 name:#060
-Niechaj zstąpi Duch Twój i odnowi ziemię  
-Życiodajny spłynie deszcz  
-Na spragnione serca  
-Obmyj mnie i uświęć mnie  
-Uwielbienia niech popłynie pieśń  
-  
-Chwała Jezusowi, który za mnie życie dał  
-Chwała Temu, który  
-pierwszy umiłował mnie  
+class:small
+Niechaj zstąpi Duch Twój i odnowi 
+ziemię, życiodajny spłynie deszcz  
+na spragnione serca. Obmyj mnie  
+i uświęć mnie, uwielbienia niech  
+popłynie pieśń.  
+Ref. Chwała Jezusowi, który za  
+mnie życie dał. Chwała Temu, który  
+pierwszy umiłował mnie.  
 Jezus, tylko Jezus Panem jest!  
-  
-  
-  
-  
 ---
 name:#061
+class:tiny,middle
 1\. Wznoszę swe oczy ku górom,  
 skąd przyjdzie mi pomoc;  
 Pomoc od Pana, wszak Bogiem On  
 Miłosiernym jest!  
   
-2\. Kiedy zbłądzimy, sam szuka nas, by w Swe ramiona wziąć,  
-Rany uleczyć Krwią Swoich ran, nowe życie tchnąć!  
-  
-Ref. Błogosławieni miłosierni,  
-albowiem oni miłosierdzia dostąpią! x2  
-  
-3\. Gdyby nam Pan nie odpuścił win, któż ostać by się mógł?  
-Lecz On przebacza, przeto i my czyńmy jak nasz Bóg!  
-  
-4\. Pan Syna Krwią zmazał wszelki dług, Syn z grobu żywy wstał;  
-„Panem jest Jezus” – mówi w nas Duch. Niech to widzi świat!  
-  
-Ref. Błogosławieni miłosierni...  
-  
-Bridge: Więc odrzuć lęk i wiernym bądź,  
-Swe troski w Panu złóż  
-I ufaj, bo zmartwychwstał i wciąż  
-Żyje Pan, Twój Bóg!  
-  
+2\. Kiedy zbłądzimy, sam szuka nas,  
+By w swe ramiona wziąć,  
+Rany uleczyć Krwią swoich ran,  
+Nowe życie tchnąć!  
+---
+class:big,center,middle
 Ref. Błogosławieni miłosierni,  
 albowiem oni  
 miłosierdzia dostąpią! x2  
 ---
+class:tiny,middle
+3\. Gdyby nam Pan nie odpuścił win,  
+Któż ostać by się mógł?  
+Lecz On przebacza, przeto i my  
+Czyńmy jak nasz Bóg!  
+
+4\. Pan Syna Krwią zmazał wszelki dług,  
+Syn z grobu żywy wstał;  
+„Panem jest Jezus” – mówi w nas Duch.  
+Niech to widzi świat!  
+---
+class:tiny,middle
+Ref. Błogosławieni miłosierni,  
+albowiem oni  
+miłosierdzia dostąpią! x2  
+
+Więc odrzuć lęk i wiernym bądź,  
+Swe troski w Panu złóż  
+i ufaj, bo zmartwychwstał i wciąż  
+żyje Pan, Twój Bóg!  
+
+Ref. Błogosławieni miłosierni...
+---
 name:#062
-Stoję dziś, moje serce, ręce tak wyciągam  
+Stoję dziś,  
+moje serce, ręce tak wyciągam  
 w podziwie dla Tego,  
 który wszystko dał.  
 Stoję dziś,  
@@ -1475,20 +1536,16 @@ moją duszę, Panie, Tobie składam.
 Ja chcę być jak Ty.  
 ---
 name:#063
-Mów do mnie, Panie,  
-chcę słyszeć Cię,  
-Przyjąć od Ciebie,  
-co masz dla mnie.  
-Nie chcę się chować,  
-lecz w Tobie skryć.  
-W cieniu Twym, Panie,  
-chcę iść.  
-  
-Ref. 2x Święty,  
+class:tiny
+Mów do mnie, Panie, chcę słyszeć Cię,  
+Przyjąć od Ciebie, co masz dla mnie.  
+Nie chcę się chować, lecz w Tobie skryć. 
+W cieniu Twym, Panie, chcę iść.  
+
+Ref. Święty,  
 potężny jesteś, Panie nasz,  
 Przed Tobą dziś możemy stać  
-Dzięki łasce,  
-nie dzięki nam samym.  
+Dzięki łasce, nie dzięki nam samym.  
 ---
 name:#064
 Dotknij Panie moich oczu,  
@@ -1542,61 +1599,59 @@ Ref. Oto ja, poślij mnie…
 ---
 name:#067
 W ciele Chrystusa  
-Tworzymy jedno  
-chociaż tak wielu nas jest x2  
+tworzymy jedno,  
+chociaż tak wielu nas jest. x2  
   
-Ref. Jeden duch, jedna wiara  
-Jedna nadzieja w nas jest  
-Jeden duch, jedna wiara  
-Jeden Bóg i Ojciec nasz  
+Ref. Jeden duch, jedna wiara,  
+jedna nadzieja w nas jest.  
+Jeden duch, jedna wiara,  
+jeden Bóg i Ojciec nasz.  
 ---
 name:#068
+class:tiny,middle
 1\. Tylko w Bogu moje jest zbawienie.  
 W Nim jedynie duszy ukojenie.  
 Moja chwała i skała,  
 w Nim pokładam mą nadzieję.  
-  
-2\. Ufaj Mu, kościele w każdym czasie.  
-Wylewajcie przed Nim serca wasze.  
-Ludzie lżejsi, niż tchnienie, tylko w Bogu jest zbawienie.  
-  
-Ref. x4 Sprawiedliwy jest nasz Pan  
-Każdy zbierze to, co siał  
-Kto uwierzy, nie zawiedzie się.  
+
+2\. Ufaj mu, Kościele, w każdym czasie.  
+Wylewajcie przed Nim serca Wasze.  
+Ludzie lżejsi niż tchnienie,  
+tylko w Bogu jest zbawienie.  
+---
+class:middle
+Ref. Sprawiedliwy jest nasz Pan,  
+każdy zbierze to co siał,  
+kto uwierzy nie zawiedzie się.  
 Przychodzimy przed Twój tron,  
 chcemy widzieć Twoją moc  
 i doświadczyć, Panie, łaski Twej.  
-  
-Tylko w Bogu moje jest zbawienie.  
-  
-  
-  
 ---
 name:#069
-Więcej miłości, więcej mocy  
-Więcej Ciebie w życiu mym  
+class:tiny,middle
+Więcej miłości! Więcej mocy!  
+Więcej Ciebie w życiu mym!  
   
-Ref. Bo całym swoim sercem  
-uwielbiam Ciebie  
-Całą swoją duszą  
-uwielbiam Ciebie  
-Całym swoim życiem  
-uwielbiam Ciebie  
-Tyś jest Bogiem mym  
-Tyś Panem moim jest  
+Ref. Bo całym swoim sercem uwielbiam  
+Ciebie! Całą swoją duszą uwielbiam  
+Ciebie! Całym swoim życiem uwielbiam  
+Ciebie! Tyś jest Bogiem mym,  
+Tyś Panem moim jest!  
 ---
 name:#070
-Duchu Święty, Stworzycielu  
-Ożywiaj moją modlitwę,  
-Ożywiaj moje pragnienie  
-Pełnienia woli Ojca.  
+class:small
+Duchu Święty, Stworzycielu,
+ożywiaj moją modlitwę,  
+ożywiaj moje pragnienie  
+pełnienia woli Ojca.  
 Duchu Święty, Stworzycielu,  
-Otwieraj moje oczy, by widziały,  
-Otwieraj moje uszy, by słyszały,  
-Serce, aby czuło  
-Duchu Święty, Ożywicielu – przyjdź!  
+otwieraj moje oczy, by widziały,  
+otwieraj moje uszy, by słyszały,  
+serce, aby czuło.  
+Duchu Święty, Ożywicielu, przyjdź!  
 ---
 name:#071
+class:small
 Jezus, najwyższe Imię  
 nasz Zbawiciel, Książę Pokoju  
 Emmanuel, Bóg jest z nami  
@@ -1605,9 +1660,6 @@ Odkupiciel, Słowo żywota
 jedyny Ojca Syn, Umiłowany.  
 Zgładził grzech, Baranek na wieki,  
 Królów Król i Panów Pan.  
-  
-  
-  
 ---
 name:#072
 1\. Duchu Święty, obiecany nam  
@@ -1647,13 +1699,12 @@ chcę iść za Tobą Duchu Święty.
   
 ---
 name:#075
-  
+class:middle
 Nasz Pan jest potężny  
 w mocy Swej,  
 króluje nad nami dziś.  
 Z nieba rządzi w mocy,  
 miłości, mądrości Swej.  
-  
 ---
 name:#076
 Jesteśmy piękni  
@@ -1669,89 +1720,111 @@ Ty otwierasz nasze oczy, Panie,
 na Twoje piękno!  
 ---
 name:#077
-  
-1\. Godzien o godzien jest Bóg  
+class:tiny
+1\. Godzien o godzien jest Bóg,  
 siedzący na tronie,  
 Baranek wśród chwał,  
 przyjąć wdzięczność, siłę i moc,  
 błogosławieństwo i cześć.  
   
 Ref. On Panem jest  
-od wieków na wieki. / x3  
+od wieków na wieki.  
 Amen.  
-  
+---
+class:tiny
 2\. Będziemy niezmiennie wciąż trwać  
-w miłości i w prawdzie, oddając Mu hołd,  
-miłość, wdzięczność, siłę i moc, błogosławieństwo i cześć.  
-  
+w miłości i w prawdzie,  
+oddając Mu hołd,  
+miłość, wdzięczność, siłę i moc,  
+błogosławieństwo i cześć.  
+
+Ref. On Panem jest  
+od wieków na wieki.  
+Amen.
 ---
 name:#078
-1\. Wodę zamieniłeś w wino  
-Ślepi przy Tobie znów widzą  
+class:small,middle
+1\. Wodę zamieniłeś w wino.  
+Ślepi przy Tobie znów widzą.  
 Któż jest jak Ty? Tylko Ty!  
-  
-2\. Blaskiem rozświetlasz ciemności  
-Człowiek powstaje z marności  
+
+2\. Blaskiem rozświetlasz ciemności.  
+Człowiek powstaje z marności.  
 Któż jest jak Ty? Tylko Ty!  
-  
-Ref. Nasz Bóg jest wielki  
-Nasz Bóg jest silny  
-Boże, nikt inny nie równa się z Tobą  
-Nasz Bóg uzdrawia  
-Jest Wszechmogący nasz Bóg, nasz Bóg.  
-  
-2\. Blaskiem rozświetlasz ciemności...  
-  
-Ref. x2 Nasz Bóg jest wielki...  
-  
-Jeśli nasz Bóg jest przy nas  
-Już nic nas nie zatrzyma  
-Jeśli nasz Bóg jest z nami  
-Któż jest przeciwko nam? (x2)  
-  
-Któż jest przeciwko nam?  
-  
-Ref. x2 Nasz Bóg jest wielki...  
-Jeśli nasz Bóg jest przy nas…  
+---
+class:middle
+Ref. Nasz Bóg jest wielki,  
+nasz Bóg jest silny.  
+Boże, nikt inny  
+nie równa się z Tobą.  
+Nasz Bóg uzdrawia,  
+jest Wszechmogący
+Nasz Bóg, nasz Bóg!  
+---
+class:middle
+Jeśli nasz Bóg jest przy nas,  
+już nic nas nie zatrzyma.  
+Jeśli nasz Bóg jest z nami,  
+któż jest przeciwko nam?  
 ---
 name:#079
-Będę śpiewał Tobie  
-mocy moja  
-Ty, Panie, jesteś mą nadzieją  
-Tobie ufam i bać się nie będę  
-  
-  
+class:middle
+Będę śpiewał Tobie, mocy moja.  
+Ty, Panie, jesteś mą nadzieją.  
+Tobie ufam i bać się nie będę.  
 ---
 name:#080
-Wszyscy ludzie klaszczą w dłonie  
-cała ziemia śpiewa, śpiewa  
-Wielka radość na Syjonie, Król zstępuje z nieba, z nieba x2  
-  
-Nadejdzie dzień, (nadejdzie dzień) x2  
-Zobaczy to (zobaczy to) każdy z nas  
-Nadejdzie dzień, (nadejdzie dzień) x2  
-Uwielbi Go (uwielbi Go) cały świat  
-  
-Wszyscy ludzie...  
-  
-Nasz Pan, potężny i groźny  
+class:small
+Wszyscy ludzie klaszczą w dłonie,  
+cała ziemia śpiewa, śpiewa.  
+Wielka radość na Syjonie,  
+Król zstępuje z nieba, z nieba.  
+
+Nadejdzie dzień, nadejdzie dzień,  
+zobaczy to każdy z nas.  
+Nadejdzie dzień, nadejdzie dzień,  
+uwielbi Go cały świat!  
+---
+class:small
+Nasz Pan potężny i groźny  
 Królem całej ziemi jest  
-A nam oddaje narody słychać już zwycięstwa pieśń  
-  
-Nasz Pan (o tak!) potężny (o tak!) i groźny (o tak!)  
+A nam oddaje narody  
+słychać już zwycięstwa pieśń  
+
+Nasz Pan potężny i groźny  
 Królem całej ziemi jest  
-O tak, (o tak!) Królestwo (o tak!) nadchodzi (o tak!)  
+O tak, Królestwo nadchodzi  
 Słychać już zwycięstwa pieśń  
-  
-Wszyscy ludzie…    Nadejdzie dzień...  
-  
-To Król nasz  
-przybywa przy dźwiękach trąb  
-Wśród radosnych okrzyków zajmuje tron  
-Wszystkie świata korony u Jego stóp  
+---
+class:small
+Wszyscy ludzie klaszczą w dłonie,  
+cała ziemia śpiewa, śpiewa.  
+Wielka radość na Syjonie,  
+Król zstępuje z nieba, z nieba.  
+
+Nadejdzie dzień, nadejdzie dzień,  
+zobaczy to każdy z nas.  
+Nadejdzie dzień, nadejdzie dzień,  
+uwielbi Go cały świat!  
+---
+To Król nasz przybywa  
+przy dźwiękach trąb.  
+Wśród radosnych okrzyków  
+zajmuje tron.  
+Wszystkie świata korony  
+u Jego stóp.  
 To Pan wywyższony, jedyny Bóg!  
-  
-Wszyscy ludzie… Nadejdzie dzień…  
+---
+class:small
+Wszyscy ludzie klaszczą w dłonie,  
+cała ziemia śpiewa, śpiewa.  
+Wielka radość na Syjonie,  
+Król zstępuje z nieba, z nieba.  
+
+Nadejdzie dzień, nadejdzie dzień,  
+zobaczy to każdy z nas.  
+Nadejdzie dzień, nadejdzie dzień,  
+uwielbi Go cały świat!  
 ---
 name:#081
 /x2/ Duchu Święty, Duchu Święty  
@@ -1850,17 +1923,17 @@ Solo gitara
   
 ---
 name:#089
+class:tiny
 Ref. Jezus uzdrawia dziś. Alleluja!  
 Jezus obecny tu. Pan obecny tu.  
-Jezus uzdrawia dziś. Alleluja! Jezus obecny tu.  
-  
+Jezus uzdrawia dziś. Alleluja!  
+Jezus obecny tu.  
 Z każdej nędzy wydobywa.  
-Pan miłosierdzie Swoje  
-Dziś wylewa na zebrany  
-Lud - Swoje dzieci.  
+Pan miłosierdzie swoje dziś wylewa  
+na zebrany lud, swoje dzieci.  
 Wolność daje, więzy zrywa.  
-Jezus, Pan poprowadzi  
-Drogą prostą. On nie zawiedzie mnie.  
+Jezus, Pan poprowadzi drogą prostą.  
+On nie zawiedzie mnie.
 ---
 name:#090
 Jak dobrze jest dziękować Ci Panie  
@@ -1902,16 +1975,16 @@ Idziemy więc, by radość nieść tam, gdzie jej światu brak.
 Ref. Ty jesteś Bogiem wiernym... /2x  
 ---
 name:#093
+class:small
 Boże, Ojcze na niebie,  
 przez Syna Twego, Jezusa,  
 poślij nam Ducha Świętego. x2  
-  
+
 Ref. Niech umacnia nas,  
 niech prowadzi nas,  
-niech wyzwala nas i niech strzeże nas.  
+niech wyzwala nas  
+i niech strzeże nas.  
 Niech ogarnia nas Jego moc! x2  
-  
-  
 ---
 name:#094
 Przed Tobą, Wszechmocny,  
@@ -1950,51 +2023,49 @@ Ref. x2 Wszystko, co mam…
   
 ---
 name:#095
-Ref. x2 Szukam Cię, Panie,  
-o wschodzie  
-wzywam, gdy noc się przybliża  
-pragnienie moje to Ty  
-jak ziemia bez wody  
-moja dusza usycha  
-  
-1\. Nie zatrzymam się  
-chcę znaleźć Ciebie  
-zawsze będę śpiewał  
-o Twojej chwale  
-jesteś moim Bogiem  
-moim schronieniem  
-Boże mój obrońco  
-ukryj mnie w cieniu Twych  
-skrzydeł  
-  
-Ref. Szukam Cię, Panie, o wschodzie...  
-  
-2\. Nie zatrzymam się, chcę znaleźć Ciebie  
-będę opowiadał o Twoich dziełach  
-Jesteś moim Bogiem, jedynym Dobrym  
-żadna ciemna noc nie może już mnie pochłonąć  
-  
-Ref. x2 Szukam Cię, Panie, o wschodzie…  
-  
-  
-  
+class:tiny
+Ref. Szukam Cię, Panie, o wschodzie.  
+Wzywam, gdy noc się przybliża.  
+Pragnienie moje to Ty, jak ziemia  
+bez wody moja dusza usycha.  
+
+1\. Nie zatrzymam się, chcę znaleźć  
+Ciebie. Zawsze będę śpiewał o Twojej  
+chwale. Jesteś moim Bogiem, moim  
+schronieniem. Boże, mój obrońco,  
+ukryj mnie w cieniu Twych skrzydeł.  
+---
+class:tiny
+Ref. Szukam Cię, Panie, o wschodzie.  
+Wzywam, gdy noc się przybliża.  
+Pragnienie moje to Ty, jak ziemia  
+bez wody moja dusza usycha.  
+
+2\. Nie zatrzymam się, chcę znaleźć  
+Ciebie. Będę opowiadał o Twoich  
+dziełach. Jesteś moim Bogiem,  
+jedynym Dobrym. Żadna ciemna noc  
+nie może już mnie pochłonąć.
 ---
 name:#096
+class:small
 1\. Śpiewaj Panu, swemu Bogu  
-serce daj, serce daj i wysławiaj  
+serce daj i wysławiaj  
 Jego uśmiech i skinienie głowy  
-którym daje tyle łask, tyle łask.  
+którym daje tyle łask.  
+
 Jeśli tylko sam spróbujesz  
-wsłuchać się w Jego głos,  
-Zabrzmi w duszy niby dzwon,  
-Będziesz wtedy się uśmiechać  
-tak, jak On.  
-  
-Ref. Śpiewaj Panu, swemu Bogu modlitwę,  
-Niby żagiel rozpiętą na dźwięków maszt.  
+wsłuchać się w Jego głos, zabrzmi  
+w duszy niby dzwon, będziesz wtedy  
+się uśmiechać tak, jak On.
+---
+Ref. Śpiewaj Panu, swemu Bogu  
+modlitwę, niby żagiel rozpiętą  
+na dźwięków maszt.  
 Czekaj wichru, co porwie  
 ją w niebo jak rybitwę,  
-Znów rozwiniesz swe skrzydła jak ten ptak.  
+Znów rozwiniesz swe skrzydła  
+jak ten ptak.  
 ---
 name:#097
 Ukaż mi, Panie, Swą twarz.  
@@ -2105,13 +2176,11 @@ i On zbawi Cię! x4
 Ref. x2 Jestem tu, by wielbić…  
 ---
 name:#104
+class:big
 Daję Ci serce moje, Panie,  
 daję Ci silne ręce moje.  
 Dodawaj sił mi nieustannie,  
-by udźwignęły świat (ku Tobie).  
-  
-  
-  
+by udźwignęły świat ku Tobie.  
 ---
 name:#105
 1\. Jezus daje nam zbawienie  
@@ -2133,21 +2202,16 @@ Jego krew to oczyszczenie, Jego życie chwałą nam.
 Ref. Jezus siłą mą…  
 ---
 name:#106
+class:small
 Boże Twa łaska nad nami jest  
 Twoja miłość przychodzi wciąż  
-Działasz w mocy pośród nas  
+Działasz w mocy pośród Nas  
 Przenikasz serca, gładzisz grzech  
   
 Ref. My chcemy  
-Więcej Ciebie, więcej łaski Twej  
+Więcej Ciebie więcej łaski Twej  
 Pragniemy  
-Więcej mocy, więcej miłości Twojej  
-  
-4x: Więcej Ciebie, więcej łaski...  
-  
-Ref. My chcemy...  
-  
-8x: Więcej Ciebie, więcej łaski... Twej!  
+Więcej mocy więcej miłości Twojej  
 ---
 name:#107
 1\. Szedłem kiedyś Jezu  
@@ -2296,21 +2360,25 @@ W Nim moja siła, nie jestem sam
   
 ---
 name:#118
+class:small,middle
 Ty masz moc uzdrowienia, Jezu.  
 Wierzę Tobie, bo obiecałeś:  
-"Przyjdźcie do Mnie, Ja was pokrzepię  
-Utrudzeni i chorzy"  
-Zbliżam się w nadziei wielkiej, nie zawodzisz Swoich dzieci.  
-Wspomóż łaską naszą wiarę, oddajemy się Tobie.  
-  
+"Przyjdźcie do Mnie, Ja was  
+pokrzepię, utrudzeni i chorzy".  
+Zbliżam się w nadziei wielkiej,  
+nie zawodzisz Swoich dzieci.  
+Wspomóż łaską naszą wiarę,  
+oddajemy się Tobie.  
+---
+class:tiny
 Ref. Jezu, uzdrów dzisiaj mnie,  
 Prowadź do wolności Twej.  
 Nie pomijaj żadnej ciemnej strony  
 duszy mojej.  
 Całkowicie Tobie oddaję się.  
-  
-Ufam Twojej dobroci na zawsze.  
-Wierzę, możesz wszystko, jesteś Bogiem.  
+ 
+Ufam Twojej dobroci na zawsze. Wierzę  
+możesz wszystko, jesteś Bogiem.  
 Kocham, prowadź mnie bezpiecznie.  
 Kocham, uzdrów dzisiaj mnie.  
 ---
@@ -2625,19 +2693,16 @@ Weź mnie, Weź mnie, do Swego łona,
 Bym bóstwem Jezusa zajaśniał jak Ty.  
 ---
 name:#137
+class:tiny
 Maryjo, wzorze prostoty,  
-Przez Ducha Świętego napełniona.  
+przez Ducha Świętego napełniona.  
 Radością wieczną  
-Wciąż i na zawsze przepełniona.  
-  
+wciąż i na zawsze przepełniona.  
+
 Ref. Świątynio Syna Bożego,  
-Prowadź nas ścieżką Ducha Świętego  
-Wszędzie tam,  
-gdzie człowiek czeka sam.  
-  
-  
-  
-  
+prowadź nas ścieżką Ducha Świętego  
+wszędzie tam, gdzie człowiek  
+czeka sam.  
 ---
 name:#138
 1\. Jestem dzieckiem Boga,  
@@ -2880,22 +2945,17 @@ To jest Baranka święta Krew
   
 ---
 name:#150
+class:tiny
 Przyodziałeś mnie Panie w Swoją moc,  
 Duch Twój na mnie spoczął.  
-/Wysławiam Jezu Twoje zwycięstwo  
-Nad mocami ciemności! /(x2)  
-  
-Ref. Sławię Cię, Panie mój,  
-bo mnie wybawiłeś.  
-Sławię Cię, Panie, bo mnie wybawiłeś.  
-/Dzięki Ci za to, żeś  
-Uchronił moje życie od śmierci,  
-Nogi od upadku i oczy od łez./ (x2)  
-  
-Przyodziałeś...  
-  
-Ref. chór: (Sławię Cię) Ty wybawiłeś mnie  
-(Dzięki Ci) Za to, żeś uchronił moje życie…  
+Wysławiam Jezu Twoje zwycięstwo  
+Nad mocami ciemności! (x2)  
+
+Ref. Sławię Cię, Panie mój, bo mnie  
+wybawiłeś. Sławię Cię, Panie, bo mnie  
+wybawiłeś. Dzięki Ci za to, żeś  
+uchronił moje życie od śmierci,  
+nogi od upadku i oczy od łez. (x2)  
 ---
 name:#151
 Jezus, Królem naszym jest  
