@@ -925,41 +925,81 @@ potężniejsza jest.
   
 ---
 name:#035
-Ref. Zmartwychwstał Pan i żyje dziś,  
-blaskiem jaśnieje noc  
+class:small
+Ref. Zmartwychwstał Pan i żyje  
+dziś, blaskiem jaśnieje noc.  
 Nie umrę, nie, lecz będę żył,  
-Bóg okazał Swą moc  
+Bóg okazał swą moc.  
 Krzyż to jest brama Pana,  
-jeśli chcesz przez nią wejdź  
+jeśli chcesz przez nią wejdź.  
 Zbliżmy się do ołtarza,  
 Bogu oddajmy cześć!  
-  
-  
-1\. Dzięki składajmy Mu, bo wieczna jest Jego łaska  
-Z grobu powstał dziś Pan, a noc jest pełna blasku  
-Chcę dziękować Mu i chcę Go dziś błogosławić  
-Jezus mój Pan i Bóg, On przyszedł, aby nas zbawić!  
-  
-Ref. Zmartwychwstał Pan i żyje dziś...  
-  
-2\. Lepiej się uciec do Pana niż zaufać książętom  
-Pan   moja moc i pieśń, podtrzymał, gdy mnie popchnięto  
-Już nie będę się bać, cóż może zrobić mi śmierć  
-Nie, nie lękam się i śpiewam chwały pieśń!  
-  
-Ref. Zmartwychwstał Pan i żyje dziś...  
-  
-3\. Odrzucony Pan, stał się kamieniem węgielnym  
-Pan wysłuchał mnie, On jest zbawieniem mym  
-Cudem staje się noc, gdy w dzień jest przemieniona  
-Tańczmy dla niego dziś prawica Pańska wzniesiona!  
-  
-Ref. Zmartwychwstał Pan, i żyje dziś...  
-Alleluja, alleluja!... Krzyż to jest brama…  
-  
-  
-  
-  
+
+---
+class:small
+1\. Dzięki składajmy Mu,  
+bo wieczna jest jego łaska.  
+Z grobu powstał dziś Pan,  
+a noc jest pełna blasku.  
+Chcę dziękować Mu  
+i chcę Go dziś błogosławić.  
+Jezus mój Pan i Bóg,  
+On przyszedł, aby nas zbawić!  
+
+---
+class:small
+Ref. Zmartwychwstał Pan i żyje  
+dziś, blaskiem jaśnieje noc.  
+Nie umrę, nie, lecz będę żył,  
+Bóg okazał swą moc.  
+Krzyż to jest brama Pana,  
+jeśli chcesz przez nią wejdź.  
+Zbliżmy się do ołtarza,  
+Bogu oddajmy cześć!  
+
+---
+class:small
+2\. Lepiej się uciec do Pana  
+niż zaufać książętom.  
+Pan - moja moc i pieśń,  
+podtrzymał gdy mnie popchnięto.  
+Już nie będę się bać,  
+cóż może zrobić mi śmierć?  
+Nie, nie lękam się  
+i śpiewam chwały pieśń!  
+
+---
+class:small
+Ref. Zmartwychwstał Pan i żyje  
+dziś, blaskiem jaśnieje noc.  
+Nie umrę, nie, lecz będę żył,  
+Bóg okazał swą moc.  
+Krzyż to jest brama Pana,  
+jeśli chcesz przez nią wejdź.  
+Zbliżmy się do ołtarza,  
+Bogu oddajmy cześć!  
+
+---
+class:small
+3\. Odrzucony Pan,  
+stał się kamieniem węgielnym.  
+Pan wysłuchał mnie,  
+On jest zbawieniem mym.  
+Cudem staje się noc,  
+gdy w dzień jest przemieniona.  
+Tańczmy dla niego dziś,  
+prawica Pańska wzniesiona!  
+
+---
+class:small
+Ref. Zmartwychwstał Pan i żyje  
+dziś, blaskiem jaśnieje noc.  
+Nie umrę, nie, lecz będę żył,  
+Bóg okazał swą moc.  
+Krzyż to jest brama Pana,  
+jeśli chcesz przez nią wejdź.  
+Zbliżmy się do ołtarza,  
+Bogu oddajmy cześć!  
 ---
 name:#036
 Ref. Oto są baranki młode, oto ci, co zawołali: alleluja!  
@@ -1051,25 +1091,28 @@ Prosimy Cię, wołając: Alleluja!
 Ref. Alleluja…  
 ---
 name:#040
-  
-1\. Maryjo, Matko mojego wezwania  
+class:small
+1\. Maryjo, Matko mojego wezwania,  
 chcę i pragnę idąc za Twym słowem,  
 czynić wszystko co powie mi Jezus,  
-miłować Jego wolę, a wszystko inne ze względu na Niego samego.  
-  
-Ref: Bo tak jest z tymi, którzy z Ducha narodzili się,  
-nikt nie wie dokąd pójdą za wolą Twą.  
-  
+miłować Jego wolę, a wszystko inne  
+ze względu na Niego samego.  
+
+Ref. Bo tak jest z tymi, którzy  
+z Ducha narodzili się, nikt nie wie  
+dokąd pójdą za wolą Twą.  
+
+---
+class:small
 2\. Słuchać Słowa całym sercem  
 i w Duchu Świętym je wypełnić.  
 Amen. Amen. Amen.  
   
-  
-  
+Ref. Bo tak jest z tymi, którzy  
+z Ducha narodzili się, nikt nie wie  
+dokąd pójdą za wolą Twą.  
 ---
 name:#041
-  
-  
 Jesteś blisko mnie  
 Tęsknię za Duchem Twym  
 Kocham kroki Twe  
@@ -1078,26 +1121,25 @@ Przychodzisz jak ciepły wiatr
 Otwieram się  
 I czuję znów, że:  
   
-Ref. Twoja miłość jak  ciepły deszcz  
-Twoja miłość jak morze gwiazd za dnia  
+---
+Ref. Twoja miłość jak  
+ciepły deszcz  
+Twoja miłość jak  
+morze gwiazd za dnia  
 Twoja miłość sprawia, że  
-Nieskończenie dobry  
-Święty Duch ogarnia mnie  
+nieskończenie dobry  
+Święty Duch ogarnia mnie.  
 ---
 name:#042
-Powietrzem moim Jest x2  
-Obecność Twoja  
-Święta w sercu mym  
+class:small
+Powietrzem moim jest x2  
+obecność Twoja  
+Święta w sercu mym.  
 Powszednim chlebem mym x2  
-Twe żywe słowo  
-dane mi dziś  
-  
-Ref. Bez Ciebie  
-nie mogę już żyć  
-Dla Ciebie me serce chce bić  
-  
-  
-  
+Twe żywe słowo dane mi dziś.  
+
+Ref. Bez Ciebie nie mogę już żyć.
+Dla Ciebie me serce chce bić.
 ---
 name:#043
 1\. Kochany bracie,  
@@ -1561,22 +1603,15 @@ dziś ogarnia mnie.
   
 ---
 name:#065
-Uwielbiajcie Pana  
-ludzkich serc bijące dzwony.  
-Padnij na kolana  
-przed Nim ludu utrudzony.  
-On osuszy twoje łzy,  
-On ratunkiem będzie Ci.  
-Tu u Jego stóp padnie wróg,  
-bo On Bóg niezwyciężony.  
-  
-2x: Niepojęty w Swej mądrości,  
-Święty, Święty Bóg Miłości.  
-Śpiewaj Panu Ziemio,  
-chwalcie wszystkie  
+class:tiny
+Uwielbiajcie Pana ludzkich serc bijące dzwony.
+Padnij na kolana przed Nim ludu utrudzony.
+On osuszy twoje łzy, On ratunkiem będzie ci.
+Tu u Jego stóp padnie wróg, bo On Bóg niezwyciężony.
+
+Niepojęty w Swej mądrości, Święty, Święty Bóg Miłości.
+Śpiewaj Panu Ziemio, chwalcie wszystkie  
 świata strony.  
-  
-Uwielbiajcie Pana…  
 ---
 name:#066
 Ref. Oto ja, poślij mnie.  
@@ -1857,11 +1892,14 @@ i napełniasz mnie radością
 Swoją przed obliczem Twoim.
 ---
 name:#083
+class:tiny
 Oddajmy cześć wiecznemu Panu chwał,  
 Pokłońmy się Temu, który  
-Rozpostarł niebiosa i utwierdził ziemi krąg,  
-Jego chwała wznosi się ponad szczyty gór,  
-Jego łaska nad nami jest, a niebo Jego tron.  
+Rozpostarł niebiosa  
+I utwierdził ziemi krąg,  
+Jego chwała wznosi się  
+Ponad szczyty gór, Jego łaska   
+Nad nami jest, a niebo Jego tron.  
   
 Ref. Bóg to nasz Pan i tylko On.  
 ---
@@ -1896,21 +1934,23 @@ Jesteś drogą, co nam przez Ojca jest dana
 Jesteś dla nas spragnionych…  
 ---
 name:#086
+class:small
 Przyjaciela mam, co pociesza mnie,  
 gdy o Jego ramię oprę się.  
-W nim nadzieję mam, uleciał strach.  
-On najbliżej jest, zawsze troszczy się.  
-  
-Ref. Królów Król, z nami Bóg.  
-Jezus, Jezus  
+W Nim nadzieję mam, uleciał strach. On najbliżej jest, zawsze troszczy się.  
+
+Ref. Królów Król, z nami Bóg x2  
+Jezus, Jezus x2  
 ---
 name:#087
-Jezus, Jezus, Jezus, Jezus, Jezus  
-  
-Ref. Pokonał śmierć, pokonał mój grzech  
-Zmartwychwstał Pan i Królem jest  
-  
-  
+class:big
+Jezus, Jezus,  
+Jezus, Jezus, Jezus.
+
+Ref. Pokonał śmierć,  
+pokonał mój grzech.  
+Zmartwychwstał Pan  
+i Królem jest.  
 ---
 name:#088
 Jedyny Pan, prawdziwy Bóg,  
@@ -1936,43 +1976,71 @@ Jezus, Pan poprowadzi drogą prostą.
 On nie zawiedzie mnie.
 ---
 name:#090
-Jak dobrze jest dziękować Ci Panie  
-i śpiewać psalm Twojemu Imieniu  
-i opowiadać rano Twoje miłosierdzie,  
+class:small
+Jak dobrze jest dziękować Ci, Panie,  
+i spiewać psalm Twojemu Imieniu,  
+i opowiadać rano  
+Twoje miłosierdzie,  
 a w nocy wierność Twoją  
-przy dziesięciostrunnej harfie i lutni  
-i dźwięcznej cytrze  
+przy dziesięciostrunnej harfie  
+i lutni, i dźwięcznej cytrze.  
 ---
 name:#091
-W Tobie jest światło, każdy mrok rozjaśni.  
-W Tobie jest życie, ono śmierć zwycięża.  
-Ufam Tobie, Miłosierny  
+class:big
+W Tobie jest światło,  
+każdy mrok rozjaśni.  
+W Tobie jest życie,  
+ono śmierć zwycięża.  
+Ufam Tobie, Miłosierny.  
 Jezu, wybaw nas!  
-  
 ---
 name:#092
+class:small
 1\. O, Panie, Ty nam dajesz  
-Ciało Swe i Krew. /2x  
+Ciało Swe i Krew.  
+O, Panie, Ty nam dajesz  
+Ciało Swe i Krew.  
 Do Ciebie więc idziemy wciąż,  
 radosną nucąc pieśń:  
-  
+
 Ref. Ty jesteś Bogiem wiernym  
 na wieczny czas. /2x  
-  
-2\. Przez dar Twojego Chleba, dobry Boże nasz, /2x  
-Rodzinę bratnią czynisz z nas, miłować uczysz nas.  
-  
-Ref. Ty jesteś Bogiem wiernym... /2x  
-  
-3\. To Twoje miłowanie dało wolność nam, /2x  
-Chwalimy Święte Imię Boga, jak uczyłeś nas.  
-  
-Ref. Ty jesteś Bogiem wiernym... /2x  
-  
-4\. Tyś nam wyznaczył drogę wiodącą na Twój szlak, /2x  
-Idziemy więc, by radość nieść tam, gdzie jej światu brak.  
-  
-Ref. Ty jesteś Bogiem wiernym... /2x  
+
+---
+class:small
+2\. Przez dar Twojego Chleba,  
+dobry Boże nasz,  
+Przez dar Twojego Chleba,  
+dobry Boże nasz,  
+Rodzinę bratnią czynisz z nas,  
+miłować uczysz nas.  
+
+Ref. Ty jesteś Bogiem wiernym  
+na wieczny czas. /2x  
+
+---
+class:small
+3\. To Twoje miłowanie  
+dało wolność nam,  
+To Twoje miłowanie  
+dało wolność nam,  
+Chwalimy Święte Imię Boga,  
+jak uczyłeś nas.  
+
+Ref. Ty jesteś Bogiem wiernym  
+na wieczny czas. /2x  
+
+---
+class:small
+4\. Tyś nam wyznaczył drogę  
+wiodącą na Twój szlak,  
+Tyś nam wyznaczył drogę  
+wiodącą na Twój szlak,  
+Idziemy więc, by radość nieść  
+tam, gdzie jej światu brak.  
+
+Ref. Ty jesteś Bogiem wiernym  
+na wieczny czas. /2x  
 ---
 name:#093
 class:small
@@ -2214,6 +2282,7 @@ Pragniemy
 Więcej mocy więcej miłości Twojej  
 ---
 name:#107
+class:small
 1\. Szedłem kiedyś Jezu  
 ciemną drogą wstecz,  
 Wówczas Cię spotkałem  
@@ -2222,20 +2291,30 @@ Wtedy zrozumiałem,
 co to znaczy mieć  
 Twoją miłość w sercu  
 i ją innym nieść  
-  
+---
 Ref. Znalazłem Cię  
-pośród wielu życia dróg  
+pośród wielu życia dróg.  
 W mym sercu dziś  
-ma mieszkanie Chrystus Bóg,  
-Jego miłość wciąż pokrzepia mnie.  
-W Eucharystii On nam daje się.  
-  
-2\. Bardzo chciałbym, Panie, sługą Twoim być.  
-Całym swoim życiem kochać Cię i czcić.  
-Z Tobą łatwiej przeżyć smutek, ból czy łzy,  
-Trzeba więc uwierzyć: Ty oddalisz strach!  
-  
-Ref. Znalazłem Cię…  
+ma mieszkanie Chrystus Bóg.  
+Jego miłość wciąż pokrzepia mnie,  
+w Eucharystii On nam daje się.  
+---
+class:small
+2\. Bardzo chciałbym, Panie,  
+sługą Twoim być.  
+Całym swoim życiem  
+kochać Cię i czcić.  
+Z Tobą łatwiej przeżyć  
+smutek, ból czy łzy,  
+Trzeba więc uwierzyć:  
+Ty oddalisz strach!  
+---
+Ref. Znalazłem Cię  
+pośród wielu życia dróg.  
+W mym sercu dziś  
+ma mieszkanie Chrystus Bóg.  
+Jego miłość wciąż pokrzepia mnie,  
+w Eucharystii On nam daje się.  
 ---
 name:#108
 2x: Pokorna Służebnico Pana  
@@ -2250,89 +2329,114 @@ Na wzór mego Mistrza i Pana
   
 ---
 name:#109
+class:small
 1\. Nie zastanawiał się długo,  
 kiedy stwarzał świat,  
 podpowiedzią była miłość.  
 Morza, jeziora i lasy,  
 potem deszcz i wiatr,  
-wszystko stworzył Swoją siłą.  
-Stworzył świat, bo nie chciał zostać sam.  
+wszystko stworzył swoją siłą.  
+Stworzył świat,  
+bo nie chciał zostać sam  
 "Uczyńmy kogoś podobnego Nam".  
-  
-Ref. Teraz jestem do Niego podobny,  
+---
+Ref. Teraz jestem  
+do Niego podobny,  
 te same oczy mam, co On,  
 a dłonie niosą miłość.  
 Jestem do Niego podobny,  
 wystarczy jeden krok, a On,  
 dokończy wszystko swoją siłą.  
-  
-2\. Zszedł bez wahania na ziemię, żeby zbawić świat,  
+---
+class:small
+2\. Zszedł bez wahania na ziemię,  
+żeby zbawić świat,  
 podpowiedzią była miłość.  
-Co dzień nauczał, że każdy człowiek to mój brat,  
+Co dzień nauczał, że każdy  
+człowiek to mój brat,  
 mogę kochać Jego siłą.  
-Blisko jest, bo nie chce, bym był sam  
+Blisko jest, bo nie chce bym był sam  
 Przejdziemy drogę razem – On i ja.  
-  
-Ref. Teraz jestem do Niego podobny…  
+---
+Ref. Teraz jestem  
+do Niego podobny,  
+te same oczy mam, co On,  
+a dłonie niosą miłość.  
+Jestem do Niego podobny,  
+wystarczy jeden krok, a On,  
+dokończy wszystko swoją siłą.  
 ---
 name:#110
 Będę z aniołami śpiewał: Alleluja!  
 Będę tańczył ze świętymi. Alleluja!  
-Radość duszy mojej chcę wyśpiewać światu.  
-Jezu, niesiesz pokój, prowadź mnie zawsze.  
+Radość duszy mojej chcę  
+wyśpiewać światu. Jezu, niesiesz  
+pokój, prowadź mnie zawsze.   
   
-Ref. Alleluja, radość duszy mojej!  
+Ref. Alleluja, radość duszy mojej!   
 Alleluja!  
-  
-  
 ---
 name:#111
+class:big
 Ref. Zbudowani na Chrystusie  
 W Nim zakorzenieni  
 Mocni w wierze i wdzięczni  
 Bo On jest Źródłem Życia  
-  
+---
+class:small
 Nic nas nie zdoła odłączyć od Ciebie  
 Ani śmierć, ani życie,  
 utrapienie i prześladowanie  
 Nic nas nie zdoła odłączyć od Ciebie  
 Ale we wszystkim tym  
 odnosimy pełnię zwycięstwa  
-Dzięki Temu, Który nas umiłował  
-  
-Ref. Zbudowani na Chrystusie...  
-  
-Alleluja, alleluja, alleluja, alleluja  
-Alleluja, alleluja, alleluja, alleluja  
+Dzięki temu, który nas umiłował  
+---
+class:big
+Ref. Zbudowani na Chrystusie  
+W Nim zakorzenieni  
+Mocni w wierze i wdzięczni  
+Bo On jest Źródłem Życia  
+
+Alleluja, alleluja!
 ---
 name:#112
-Duchu Miłości wylewaj się na nas  
-Z przebitego serca Jezusa, Jezusa.  
+class:big,center,middle
+Duchu Miłości  
+wylewaj się na nas  
+Z przebitego serca  
+Jezusa, Jezusa.  
 ---
 name:#113
-  
+class:small
 Albowiem tak Bóg umiłował świat,  
 Że Syna Jednorodzonego dał,  
 By każdy kto w Niego wierzy,  
 Nie zginął, ale życie wieczne miał  
-  
+
 Ref. Lecz by mógł żyć na wieki,  
 by mógł żyć na wieki,  
 Lecz by mógł żyć na wieki,  
 by mógł żyć na wieki.  
-  
 ---
 name:#114
+class:small
 1\. W kruszynie chleba Panie jesteś  
-Schowany, wielki Ty Pan  
-Przychodzisz do nas już od wieków  
-By ofiarować Siebie nam  
-  
-2\. W tych kroplach wina Twoja krew, przelana za nas Panie mój.  
-Tak wiele jej na krzyżu było by odkupić nas od win.  
-  
-3\. Ty, Panie miłością jesteś, Ty Panie kochasz nas.  
-I proszę Ciebie, by tak było, wciąż przez wiele lat.  
+schowany, wielki Ty Pan.  
+Przychodzisz do nas już od wieków,  
+by ofiarować siebie nam.  
+
+2\. W tych kroplach wina Twoja  
+krew, przelana za nas, Panie mój.  
+Tak wiele jej na krzyżu było,  
+by odkupić nas od win.  
+
+---
+class:big
+3\. Ty Panie miłością jesteś.  
+Ty Panie kochasz nas.  
+I proszę Ciebie, by tak było  
+wciąż, przez wiele lat.  
 ---
 name:#115
 Spocznij na nas, Duchu Pana,  
@@ -2394,24 +2498,24 @@ My łaską obdarzeni
 Tobie składamy hołd.  
 ---
 name:#120
-Ref: Kiedyś wino i chleb  
-Teraz Ciało i Krew  
-Możesz wierzyć lub nie  
-To naprawdę dzieje się  
-  
+class:small
+Ref. Kiedyś wino i chleb, teraz Ciało i Krew. Możesz wierzyć lub nie, to naprawdę dzieje się.  
+
 1\. Ciągle czekasz na cud  
 Niespokojny twój duch  
 A ja przypomnę, że  
 W ciszy i przy blasku świec  
 Cud największy dzieje się  
-  
-Ref: Kiedyś wino i chleb...  
-  
-2\. Wypatrujesz co dnia, czekasz na jakiś znak.  
-A ja przypomnę, że w ciszy i przy blasku świec  
-cud największy dzieje się.  
-  
-Ref: Kiedyś wino i chleb…  
+
+---
+class:small
+Ref. Kiedyś wino i chleb, teraz Ciało i Krew. Możesz wierzyć lub nie, to naprawdę dzieje się.  
+
+2\. Wypatrujesz co dnia  
+Czekasz na jakiś znak  
+A ja przypomnę, że  
+W ciszy i przy blasku świec  
+Cud największy dzieje się  
 ---
 name:#121
 Duchu Święty ogarnij mnie  
@@ -2423,7 +2527,6 @@ Niech Twa święta wola spełni się
   
 ---
 name:#122
-  
 Ref. Fundamentem jest miłość  
 Fundamentem miłosierdzie  
 Fundamentem jest miłość  
@@ -2431,7 +2534,9 @@ On zawsze przebacza mi
 Chcę Go chwalić, chcę go czcić  
 Służyć Mu. Życie oddaję Ci,  
 W swych dłoniach trzymaj mnie  
-  
+
+---
+class:small
 1\. Nosisz rany, popękany,  
 Życie dawno rozsypało się  
 Przez naczynia twarde ściany  
@@ -2441,55 +2546,67 @@ Słowa prawdy, dobrą treść
 Dociśnięty jak do ściany  
 W cudzą rolę próbowałeś  
 Wcisnąć się  
-  
-Ref. Fundamentem jest miłość...  
-  
-2\. Stała sama w wielkim tłumie i nikt nie mógł dotknąć jej.  
-W nieczystości uciekała, "Córko, wiara twoja ocaliła cię".  
-  
+
+---
+Ref. Fundamentem jest miłość  
+Fundamentem miłosierdzie  
+Fundamentem jest miłość  
+On zawsze przebacza mi  
+Chcę Go chwalić, chcę go czcić  
+Służyć Mu. Życie oddaję Ci,  
+W swych dłoniach trzymaj mnie  
+
+---
+2\. Stała sama w wielkim tłumie  
+I nikt nie mógł dotknąć jej  
+W nieczystości uciekała  
+"Córko, wiara twoja ocaliła cię"  
+
 Ref. Fundamentem jest miłość  
 Fundamentem miłosierdzie  
 Fundamentem jest miłość.  
-  
-  
-  
-  
 ---
 name:#123
 1\. Czekam na Ciebie, dobry Boże,  
-przyjdź do mnie, Panie, pospiesz się.  
+przyjdź do mnie, Panie,  
+pospiesz się.  
 Niechaj mi łaska Twa pomoże,  
 chcę czystym sercem przyjąć Cię.  
   
+---
 Ref. Przyjdź do mnie, Panie,  
 mój dobry Boże,  
-Przyjdź i nie spóźniaj się.  
+przyjdź i nie spóźniaj się.  
 Przyjdź do mnie, Panie,  
-przyjdź z łaską Swoją,  
-Przyjdź i nie spóźniaj się  
+przyjdź z łaską swoją,  
+przyjdź i nie spóźniaj się.  
   
-2\. Wśród licznych trosk i niepokojów,  
+---
+2\. Wśród licznych trosk  
+i niepokojów,  
 kiedy już sił nie starcza nam,  
-Karmisz nas, Panie, Swoim Ciałem,  
+karmisz nas, Panie, swoim Ciałem.  
 Tyś nasza moc, nasz Bóg i Pan.  
   
-Ref.: Przyjdź do nas, Panie, nasz dobry Boże,  
-Przyjdź i nie spóźniaj się.  
-Przyjdź do nas, Panie, Przyjdź z łaską Swoją,  
-Przyjdź i nie spóźniaj się.  
+---
+Ref. Przyjdź do nas, Panie,  
+nasz dobry Boże,  
+przyjdź i nie spóźniaj się.  
+Przyjdź do nas, Panie,  
+przyjdź z łaską swoją,  
+przyjdź i nie spóźniaj się.  
 ---
 name:#124
-Raduje się dusza ma, wielbi Pana swego  
-Będę Ci śpiewał z całej siły  
-Sławić Cię będę za Twe dzieła  
-Będę Ci śpiewał z całej siły  
-Błogosławić będę Twoje Imię  
-Jest miłosierny Pan Zastępów  
-Moc Jego ramienia nad Swym ludem  
-Pan mój Zbawca  
-  
-  
-  
+class:small
+Raduje się dusza ma,  
+wielbi Pana swego,  
+będę Ci śpiewał z całej siły!  
+Sławić Cię będę za Twe dzieła,  
+będę Ci śpiewał z całej siły!  
+Błogosławić będę Twoje Imię,  
+jest miłosierny Pan Zastępów.  
+Moc Jego ramienia nad swym  
+ludem. Pan mój Zbawca!  
 ---
 name:#125
 1\. Zabierz, Panie, i przyjmij  
