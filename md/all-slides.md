@@ -40,8 +40,8 @@ miłość wielką rozbudzi w nas.
 ---
 name:psalm
 class:big,center,middle
-Gdy zmartwychwstanę,  
-będę widział Boga.
+Przybądź, o Panie,  
+aby nas wybawić. 
 ---
 name:gloria
 class:tiny
@@ -2317,7 +2317,7 @@ Jego miłość wciąż pokrzepia mnie,
 w Eucharystii On nam daje się.  
 ---
 name:#108
-2x: Pokorna Służebnico Pana  
+Pokorna Służebnico Pana  
 Łamiąca strzały nieprzyjaciela  
 Miażdżąca głowę węża  
   
@@ -2464,7 +2464,7 @@ W Nim moja siła, nie jestem sam
   
 ---
 name:#118
-class:small,middle
+class:small
 Ty masz moc uzdrowienia, Jezu.  
 Wierzę Tobie, bo obiecałeś:  
 "Przyjdźcie do Mnie, Ja was  
@@ -2787,13 +2787,15 @@ Ref. Emmanuel /x6
   
 ---
 name:#135
-  
-Oto idzie mój Bóg, oto idzie mój Król,  
-Oto Zbawiciel mój, a imię Jego: Jezus /x2  
-  
-Tęsknię za Tobą, Panie  
+class:small
+Oto idzie mój Bóg,  
+oto idzie mój Król.  
+Oto Zbawiciel mój,  
+a Imię Jego: Jezus.  
+
+Ref. Tęsknię za Tobą, Panie  
 Wiem, że przyjdziesz niebawem,  
-Z głębi serca dziś wołam: Maranatha /x2  
+Z głębi serca dziś wołam: Maranatha!  
   
 ---
 name:#136
@@ -3650,3 +3652,53 @@ Jestem cały Twój, Twym ogniem płonę.
 jestem cały Twój.  
 Widzę Twoją twarz, słyszę Twój głos,  
 trzymam rękę Twą, nie puszczę nie puszczę już.  
+---
+name:#183
+class:small
+1\. Z okrzykiem radości  
+wracamy na Syjon  
+W korowodzie chwały,  
+tańcu uwielbienia  
+Krzyczymy z uciechy,  
+bo nasz Pan powraca  
+Góry mkną w podskokach,  
+zakwita pustynia
+---
+Ref. Wyśpiewajmy  
+nową pieśń Panu,  
+Ludu Pański, rodzie królewski!  
+Ciesz się Panem, o Izraelu,  
+Odkupieniem raduj się ziemio!  
+---
+class:small
+2\. Przodem idą starcy,  
+na końcu dziewczęta  
+Weseli młodzieńcy  
+mocno klaszczą w dłonie  
+Dźwięczą pięknie harfy,  
+tańczą małe dzieci  
+Rozbrzmiewają głośno  
+bębny na Syjonie  
+---
+Ref. Wyśpiewajmy  
+nową pieśń Panu,  
+Ludu Pański, rodzie królewski!  
+Ciesz się Panem, o Izraelu,  
+Odkupieniem raduj się ziemio!  
+---
+class:small
+Powrócą na Syjon ludy  
+i oddadzą Panu chwałę.  
+Będą śpiewem chwalić Pana,  
+tańcem wielbić Jego Imię!  
+
+Powrócą na Syjon ludy  
+i oddadzą Panu chwałę.  
+Będą śpiewem chwalić Pana,  
+tańcem wielbić swego Króla!  
+---
+Ref. Wyśpiewajmy  
+nową pieśń Panu,  
+Ludu Pański, rodzie królewski!  
+Ciesz się Panem, o Izraelu,  
+Odkupieniem raduj się ziemio!  
