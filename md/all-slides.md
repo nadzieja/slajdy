@@ -40,8 +40,8 @@ miłość wielką rozbudzi w nas.
 ---
 name:psalm
 class:big,center,middle
-Przybądź, o Panie,  
-aby nas wybawić. 
+Uwielbią Pana  
+wszystkie ludy ziemi
 ---
 name:gloria
 class:tiny
@@ -755,7 +755,8 @@ name:#028
 Żadnych ozdób ani flag  
 Bez trąbek i bez tłumów  
 Żadnych pieśni ani braw  
-  
+---
+class:small
 Ref. Oto Król dziś się narodził  
 Tu na ziemię zszedł  
 Z nadzieją Nań czekano  
@@ -763,16 +764,22 @@ Z wielką wiarą w sercach swych
 Lecz On miał tylko stajnię małą  
 Bez pałacu, tronu, sług  
 Przyszedł jako Dziecię małe  
-Chociaż wielki Królem był...  
-  
-2\. Bez petard, strzałów armat, zwyczajna, cicha noc.  
-Bez kwiatów czy też fanfar, skryta w ciszy Boża moc.  
-  
-Ref. Oto Król dziś się narodził…  
-  
-  
-  
-  
+Chociaż wielkim Królem był...  
+---
+2\. Bez petard, strzałów armat,  
+zwyczajna, cicha noc.  
+Bez kwiatów czy też fanfar,  
+skryta w ciszy Boża moc.  
+---
+class:small
+Ref. Oto Król dziś się narodził  
+Tu na ziemię zszedł  
+Z nadzieją Nań czekano  
+Z wielką wiarą w sercach swych  
+Lecz On miał tylko stajnię małą  
+Bez pałacu, tronu, sług  
+Przyszedł jako Dziecię małe  
+Chociaż wielkim Królem był...  
 ---
 name:#029
 Ref. Rozpięty na ramionach  
@@ -2754,20 +2761,24 @@ Ref. To jest Baranka Ciało, Jego Krew…
   
 ---
 name:#134
+class:small
 1\. Wielkie światło, które dałeś  
 ciemność zwyciężyło  
-rozświetlając nasze życie prawdę objawiło  
+rozświetlając nasze życie  
+prawdę objawiło  
 w Twoim mieście pod tym niebem  
 dla całego świata  
 Ojciec daje nam Jezusa, Zbawiciela  
-  
-Bridge: Będąc tu  
+---
+Będąc tu,  
 stojąc w tym samym świetle  
 W cieniu Twojego krzyża  
 śpiewamy jednym głosem:  
   
-Ref. Emmanuel /x6  
-  
+Ref. Emmanuel,  
+Emmanuel, Emmanuel  
+---
+class:small
 2\. Wielki dar samego Boga  
 Chrystus Pan Syn Jego  
 cała ludzkość odnowiona  
@@ -2776,15 +2787,13 @@ Jedyny Bóg - Prawdziwy Człowiek
 On jest Chlebem Życia  
 Wszystkim ludziom Swoim braciom  
 On daje się  
-  
-Bridge: I my z Nim, objęci Jego światłem  
+---
+I my z Nim, objęci Jego światłem  
 złączeni Jego krzyżem  
 śpiewamy jednym głosem:  
   
-Ref. Emmanuel /x6  
-  
-  
-  
+Ref. Emmanuel,  
+Emmanuel, Emmanuel  
 ---
 name:#135
 class:small
