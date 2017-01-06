@@ -3702,3 +3702,22 @@ nową pieśń Panu,
 Ludu Pański, rodzie królewski!  
 Ciesz się Panem, o Izraelu,  
 Odkupieniem raduj się ziemio!  
+---
+name:#184
+class:small
+1\. Mizerna, cicha, stajenka licha,  
+Pełna niebieskiej chwały.  
+Oto leżący, przed nami śpiący  
+W promieniach Jezus mały.  
+
+2\. Nad nim anieli w locie stanęli  
+I pochyleni klęczą  
+Z włosy złotymi, skrzydły białymi,  
+Pod malowaną tęczą.  
+---
+3\. Wielkie zdziwienie,  
+wszelkie stworzenie  
+Cały świat orzeźwiony.  
+Mądrość Mądrości,  
+Światłość Światłości,  
+Bóg - Człowiek tu wcielony!  
