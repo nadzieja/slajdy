@@ -40,8 +40,8 @@ miłość wielką rozbudzi w nas.
 ---
 name:psalm
 class:big,center,middle
-Uwielbią Pana  
-wszystkie ludy ziemi
+Błogosławieni  
+słuchający Pana
 ---
 name:gloria
 class:tiny
@@ -1704,19 +1704,34 @@ Zgładził grzech, Baranek na wieki,
 Królów Król i Panów Pan.  
 ---
 name:#072
+class:small
 1\. Duchu Święty, obiecany nam  
 Przypominaj to, co mówi Pan.  
   
 Ref. Z Tobą Słowo Boże  
 żywe staje się.  
-W moim życiu, Duchu  
+W moim życiu, Duchu,  
 prowadź mnie.  
-  
+---
+class:small
 2\. Duchu Prawdy, Ty umacniaj mnie  
-W drodze życia, gdzie wybrałeś mnie.  
-  
-3\. Daj mi spotkać dzisiaj twarzą w twarz  
-Żyjącego Pana pośród nas.  
+W drodze życia, gdzie  
+wybrałeś mnie.  
+
+Ref. Z Tobą Słowo Boże  
+żywe staje się.  
+W moim życiu, Duchu,  
+prowadź mnie.  
+---
+class:small  
+3\. Daj mi spotkać  
+dzisiaj twarzą w twarz  
+żyjącego Pana pośród nas.  
+
+Ref. Z Tobą Słowo Boże  
+żywe staje się.  
+W moim życiu, Duchu,  
+prowadź mnie.  
 ---
 name:#073
 1\. Patrzę w moje serce, widzę krew i rany  
@@ -1785,7 +1800,7 @@ od wieków na wieki.
 Amen.
 ---
 name:#078
-class:small,middle
+class:small
 1\. Wodę zamieniłeś w wino.  
 Ślepi przy Tobie znów widzą.  
 Któż jest jak Ty? Tylko Ty!  
@@ -1794,7 +1809,6 @@ Któż jest jak Ty? Tylko Ty!
 Człowiek powstaje z marności.  
 Któż jest jak Ty? Tylko Ty!  
 ---
-class:middle
 Ref. Nasz Bóg jest wielki,  
 nasz Bóg jest silny.  
 Boże, nikt inny  
@@ -1803,7 +1817,6 @@ Nasz Bóg uzdrawia,
 jest Wszechmogący
 Nasz Bóg, nasz Bóg!  
 ---
-class:middle
 Jeśli nasz Bóg jest przy nas,  
 już nic nas nie zatrzyma.  
 Jeśli nasz Bóg jest z nami,  
@@ -3730,3 +3743,42 @@ Cały świat orzeźwiony.
 Mądrość Mądrości,  
 Światłość Światłości,  
 Bóg - Człowiek tu wcielony!  
+---
+name:#185
+class:small
+1\. Przyjdź jak deszcz ożyw dziś  
+suchą ziemię naszych serc  
+Przyjdź jak deszcz  
+na spragniony świat  
+
+Dotknij nas tak jak wiatr  
+rozpędź smutek, otrzyj łzy  
+zabierz tam, gdzie się  
+w radość zmienia strach  
+---
+Wszystko dziś nowe staje się  
+Panie, przyjdź i napełnij mnie!  
+
+Ref. Przyjdź jak deszcz  
+do spragnionych serc  
+tak pragniemy Ciebie, Panie  
+niech Twa moc dziś objawi się, pokaż swoją chwałę!  
+---
+class:small
+2\. Przyjdź jak deszcz, Panie nasz,  
+obmyj gorycz, żal i ból  
+Pozwól dziś niech  
+nadzieja kwitnie w nas.  
+
+To, co złe zniknie gdzieś,  
+nowy dzień nastaje już  
+Jesteś jak słońca blask  
+w pochmurny czas.  
+---
+Wszystko dziś nowe staje się  
+Panie, przyjdź i napełnij mnie!  
+
+Ref. Przyjdź jak deszcz  
+do spragnionych serc  
+tak pragniemy Ciebie, Panie  
+niech Twa moc dziś objawi się, pokaż swoją chwałę!  
