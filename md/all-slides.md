@@ -40,8 +40,8 @@ miłość wielką rozbudzi w nas.
 ---
 name:psalm
 class:big,center,middle
-Błogosławieni  
-słuchający Pana
+Okaż swą łaskę  
+ufającym Tobie
 ---
 name:gloria
 class:tiny
@@ -1650,7 +1650,7 @@ Jeden duch, jedna wiara,
 jeden Bóg i Ojciec nasz.  
 ---
 name:#068
-class:tiny,middle
+class:tiny
 1\. Tylko w Bogu moje jest zbawienie.  
 W Nim jedynie duszy ukojenie.  
 Moja chwała i skała,  
@@ -1661,7 +1661,6 @@ Wylewajcie przed Nim serca Wasze.
 Ludzie lżejsi niż tchnienie,  
 tylko w Bogu jest zbawienie.  
 ---
-class:middle
 Ref. Sprawiedliwy jest nasz Pan,  
 każdy zbierze to co siał,  
 kto uwierzy nie zawiedzie się.  
