@@ -604,19 +604,16 @@ który Jezus cierpiał za mnie,
 Jezus cierpiał za mnie.  
 ---
 name:#023
-class:middle
 1\. Drzewo krzyża surowe,  
 Tyś ciało Chrystusowe dźwigało.  
 Marii Panny lamenty  
 I bok święty rozcięty widziało.
 ---
-class:middle
 2\. Na Ciebie krew i woda  
 i łaska Chrystusowa spłynęły.  
 Na Tobie Kościół święty  
 i wiary fundamenty stanęły.  
 ---
-class:middle
 3\. Potężnym majestatem  
 wysoko ponad światem górujesz.  
 Przemija postać świata,  
@@ -715,40 +712,50 @@ I chodź ze Mną zbawiać świat
 Kolejny już wiek.  
 ---
 name:#027
-1\. Ten którego pocałuję w twarz,  
+class:small
+1\. Ten, którego pocałuję w twarz,  
 Ten będzie wasz, Tego wam wskażę.  
 Wy Go sądzić będziecie, nie ja.  
 Ja tylko powiem, tylko pokażę.  
   
 Ref. To będzie Jezus, Jezus, Jezus.  
 Żydowski Król, Boży Syn.  
+---
+class:tiny
+2\. Poznaję Twoją twarz, tyś był  
+razem z Nim. Przyznaj, że Go znasz.  
+Na co czekasz? Tyś jest Kefas!  
+Nie znam tego człowieka!  
+Tyś uczniem Jego był, twoja mowa cię  
+zdradza. Mów nie zwlekaj.  
+Nie znam tego człowieka!  
   
-2\. Poznaję Twoją twarz, tyś był razem z Nim.  
-Przyznaj, że Go znasz. Na co czekasz? Tyś jest Kefas.  
-NIE ZNAM TEGO CZŁOWIEKA!  
-Tyś uczniem Jego był, twoja mowa cię zdradza. Mów nie zwlekaj.  
-NIE ZNAM TEGO CZŁOWIEKA!  
+Ref. Słyszał to Jezus, Jezus, Jezus.  
+Żydowski Król, Boży Syn.  
+---
+3\. Nie znajduję w Nim żadnej winy,  
+umywam obie ręce.  
+Dla mnie ten człowiek niewinny,  
+a zginie w okrutnej męce.  
   
-Ref. Słyszał to Jezus, Jezus, Jezus. Żydowski król, Boży Syn.  
+Ref. To zginie Jezus, Jezus, Jezus.  
+Żydowski Król, Boży Syn.  
+---
+4\. Rozwścieczeni żołnierze,  
+uzbrojeni siepacze.  
+Ogromne drzewo Krzyża,  
+łzy od śmiechu i płaczu.  
   
-3\. Nie znajduję w Nim żadnej winy, umywam obie ręce  
-Dla mnie ten człowiek niewinny, a zginie w okrutnej męce  
+Ref. I jeden Jezus, Jezus, Jezus.  
+Żydowski Król, Boży Syn.  
+---
+5\. Okrutnie grobowa cisza  
+i nagle śmiertelny jęk.  
+To Jezus zawołał z krzyża,  
+że wykonało się.  
   
-Ref. To zginie Jezus, Jezus, Jezus. Żydowski król, Boży Syn.  
-  
-4\. Rozwścieczeni żołnierze, uzbrojeni siepacze.  
-Ogromne drzewo Krzyża, łzy od śmiechu i płaczu  
-  
-Ref. I jeden Jezus, Jezus, Jezus. Żydowski król, Boży Syn.  
-  
-5\. Okrutnie grobowa cisza i nagle śmiertelny jęk.  
-To Jezus zawołał z krzyża, że wykonało się.  
-  
-Umiera Jezus, Jezus, Jezus. Żydowski król, Boży Syn.  
-  
-  
-  
-  
+Ref. Umiera Jezus, Jezus, Jezus.  
+Żydowski Król, Boży Syn.  
 ---
 name:#028
 1\. Bez wstążek lub balonów  
@@ -764,7 +771,7 @@ Z wielką wiarą w sercach swych
 Lecz On miał tylko stajnię małą  
 Bez pałacu, tronu, sług  
 Przyszedł jako Dziecię małe  
-Chociaż wielkim Królem był...  
+Chociaż wielkim Królem był.  
 ---
 2\. Bez petard, strzałów armat,  
 zwyczajna, cicha noc.  
@@ -779,73 +786,99 @@ Z wielką wiarą w sercach swych
 Lecz On miał tylko stajnię małą  
 Bez pałacu, tronu, sług  
 Przyszedł jako Dziecię małe  
-Chociaż wielkim Królem był...  
+Chociaż wielkim Królem był.  
 ---
 name:#029
-Ref. Rozpięty na ramionach  
-Jak sokół na niebie,  
-Chrystusie, Synu Boga,  
-Spójrz, proszę, na ziemię.  
-  
+class:tiny
+Ref. Rozpięty na ramionach jak sokół na  
+niebie, Chrystusie, Synu Boga, spójrz,  
+proszę, na ziemię.  
+
 1\. Na ruchliwe ulice, zabieganych ludzi,  
-Gdy dzień się już kończy, a ranek się budzi.  
-Uśmiechnij się przyjaźnie  
-Z wysokiego krzyża, do ciężko pracujących,  
-Cierpiących na pryczach.  
-  
-Ref.: Rozpięty…  
-  
-2\. Pociesz zrozpaczonych, zrozum głodujących,  
-Modlących się wysłuchaj, wybacz umierającym.  
-Spójrz, cierpienia sokole na wszechświat, na ziemię,  
-Na cichy, ciemny kościół, dziecko wzywające Ciebie.  
-  
-Ref.: Rozpięty...  
-  
-3\. A gdy nas będziesz sądził, Boskie miłosierdzie,  
-Prosimy, Twoje dzieci, nie sądź na miarę siebie.  
-  
-Ref.: Rozpięty…  
-  
-  
-  
-  
+Gdy dzień się już kończy, a ranek się  
+budzi. Uśmiechnij się przyjaźnie  
+z wysokiego krzyża, do ciężko  
+pracujących, których głód poniża.  
+---
+class:tiny
+Ref. Rozpięty na ramionach jak sokół na  
+niebie, Chrystusie, Synu Boga, spójrz,  
+proszę, na ziemię.  
+
+2\. Pociesz zrozpaczonych, zrozum  
+głodujących, modlących się wysłuchaj,  
+wybacz umierającym. Spójrz, cierpienia  
+sokole na wszechświat, na ziemię,  
+Na cichy, ciemny kościół, dziecko  
+wzywające Ciebie.  
+---
+class:tiny
+Ref. Rozpięty na ramionach jak sokół na  
+niebie, Chrystusie, Synu Boga, spójrz,  
+proszę, na ziemię.  
+
+3\. A gdy nas będziesz sądził, Boskie  
+Miłosierdzie, prosimy, Twoje dzieci,  
+nie sądź na miarę siebie.  
 ---
 name:#030
-Ref.: Śpiewajcie Panu, bo wielka Jego moc i chwała!  
+Ref. Śpiewajcie Panu,  
+bo wielka Jego moc i chwała!  
 On z niewoli zła swój lud ocala!  
   
-1\. Będę śpiewał na cześć Pana, który wspaniale potęgę okazał,  
-gdy konia i jeźdźca pogrążył w morskiej przepaści.  
-  
-2\. Pan jest moją mocą i źródłem męstwa,  
+1\. Będę śpiewał na cześć Pana,  
+który wspaniale potęgę okazał,  
+gdy konia i jeźdźca  
+pogrążył w morskiej przepaści.  
+---
+class:tiny
+Ref. Śpiewajcie Panu,  
+bo wielka Jego moc i chwała!  
+On z niewoli zła swój lud ocala!  
+
+2\. Pan jest moją mocą  
+i źródłem męstwa,  
 Jemu zawdzięczam moje ocalenie.  
 On Bogiem moim, uwielbiać Go będę,  
-On Bogiem Ojca mego, będę Go wywyższał.  
-  
-3\. Rzucił w morze rydwany faraona i jego wojsko.  
-Wybrani jego wodzowie zginęli w Morzu Czerwonym.  
-Przepaści ich ogarnęły, jak głaz runęli w głębinę.  
-  
+On Bogiem Ojca mego,  
+będę Go wywyższał.  
+---
+class:tiny
+Ref. Śpiewajcie Panu,  
+bo wielka Jego moc i chwała!  
+On z niewoli zła swój lud ocala!  
+
+3\. Rzucił w morze rydwany  
+faraona i jego wojsko.  
+Wybrani jego wodzowie  
+zginęli w Morzu Czerwonym.  
+Przepaści ich ogarnęły,  
+jak głaz runęli w głębinę.  
+---
+class:tiny
+Ref. Śpiewajcie Panu,  
+bo wielka Jego moc i chwała!  
+On z niewoli zła swój lud ocala!  
+
 4\. Wyprowadziłeś swój lud i osadziłeś  
 na górze Twojego dziedzictwa,  
-w miejscu, które uczyniłeś swoim mieszkaniem.  
-Pan Bóg jest Królem na zawsze, na wieki.  
+w miejscu, które uczyniłeś  
+swoim mieszkaniem.  
+Pan Bóg jest Królem  
+na zawsze i na wieki.  
 ---
 name:#031
-Uwielbiam Imię Twoje, Panie  
-Wywyższam Cię i daję Ci hołd  
-W przedsionku chwały Twej staję  
-Z radością śpiewam Ci pieśń  
-O Panie Jezu, chcę wyznać, że  
-Ja kocham Ciebie,  
-Ty zmieniasz mnie!  
+class:tiny
+Uwielbiam Imię Twoje, Panie!  
+Wywyższam Cię i daję Ci hołd!  
+W przedsionku chwały Twej staję,  
+Z radością śpiewam Ci pieśń! 
+
+Ref. O Panie Jezu, chcę wyznać, że  
+Ja kocham Ciebie, Ty zmieniasz mnie!  
 Chcę Ci dziękować  
 dziś ze wszystkich sił  
 Dajesz mi siebie, bym na wieki żył!  
-  
-  
-  
 ---
 name:#032
 class:tiny
@@ -883,7 +916,7 @@ Rzeki niechaj klaszczą w dłonie,
 góry niech z radości śpiewają!  
 ---
 name:#033
-class:tiny,middle
+class:tiny
 1\. Po szabacie pierwszego dnia z rana  
 biegła Maria z Magdali  
 do grobu, do Pana.  
@@ -894,15 +927,15 @@ Swym ciepłym tchnieniem
 suszyło trawę,  
 całowało litośnie oczy łzawe.  
 ---
-class:small,middle
+class:small
 Ref. To dzień, dzień, dzień  
 zmartwychwstania.  
 To dzień, dzień, dzień ukazania się.  
 Dzień, dzień, dzień  
 zmartwychwstania to dzień.  
 ---
-class:tiny,middle
-2\. I spiesząc odurzona rankiem,  
+class:tiny
+2\. I spiesząc, odurzona rankiem,  
 tęsknotą, stanęła przed żałobną grotą.  
 Zdziwiona spostrzegła, że właśnie  
 tym razem grób nie jest zamkniety  
@@ -910,7 +943,7 @@ jak zawsze głazem.
 Niemało strwożona, z pobladłymi usty,  
 zagląda do wnętrza, grób cały pusty.  
 ---
-class:small,middle
+class:small
 Ref. To dzień, dzień, dzień  
 zmartwychwstania.  
 To dzień, dzień, dzień ukazania się.  
@@ -918,18 +951,16 @@ Dzień, dzień, dzień
 zmartwychwstania to dzień.  
 ---
 name:#034
+class:small
 Wody nie ugaszą jej,  
-nie da zdławić się  
-przez wiatr.  
+nie da zdławić się przez wiatr.  
 Rzeki nie zatopią jej,  
 a jej żar to ognia żar.  
-Jak śmierć jest miłość,  
+
+Ref. Jak śmierć jest miłość,  
 tak potężna jest,  
 jak śmierć jest miłość,  
 potężniejsza jest.  
-  
-  
-  
 ---
 name:#035
 class:small
@@ -1009,68 +1040,104 @@ Zbliżmy się do ołtarza,
 Bogu oddajmy cześć!  
 ---
 name:#036
-Ref. Oto są baranki młode, oto ci, co zawołali: alleluja!  
+Ref. Oto są baranki młode,  
+oto ci, co zawołali: alleluja!  
 Dopiero przyszli do zdrojów,  
-światłością się napełnili, alleluja, alleluja!  
-  
+światłością się napełnili,  
+alleluja, alleluja!  
+---
+class:small
 1\. Na Baranka Pańskich godach,  
 W szat świątecznych czystej bieli,  
-Po krwawego morza wodach, nieśmy Panu pieśń weseli.  
-2\. W Swej miłości wiekuistej On nas Swoją Krwią częstuje,  
-Nam też Ciało Swe przeczyste Chrystus Kapłan ofiaruje.  
-  
-Ref. Oto są baranki młode...  
-  
+Po krwawego morza wodach,  
+nieśmy Panu pieśń weseli.  
+
+2\. W Swej miłości wiekuistej  
+On nas Swoją Krwią częstuje,  
+Nam też Ciało Swe przeczyste  
+Chrystus Kapłan ofiaruje.  
+---
+Ref. Oto są baranki młode,  
+oto ci, co zawołali: alleluja!  
+Dopiero przyszli do zdrojów,  
+światłością się napełnili,  
+alleluja, alleluja!  
+---
+class:small
 3\. Na drzwi świętą Krwią skropione  
 Anioł mściciel z lękiem wziera,  
-Pędzi morze rozdzielone, wrogów w nurtach swych pożera.  
-4\. Już nam Paschą Tyś, o Chryste, Wielkanocną też ofiarą,  
-Tyś przaśniki nasze czyste dla dusz prostych z szczerą wiarą.  
-  
-Ref. Oto są baranki młode...  
-  
-5\. O Ofiaro niebios święta, Ty moc piekła pokonywasz,  
-Zrywasz ciężkie śmieci pęta, wieniec życia nam zdobywasz.  
-6\. Chrystus piekło pogromiwszy, swój zwycięski znak roztacza,  
-Niebo ludziom otworzywszy, króla mroków w więzy wtłacza.  
-  
-Ref. Oto są baranki młode...  
-  
-7\. Byś nam wiecznie, Jezu drogi, Wielkanocną był radością,  
-Strzeż od grzechu, śmierci srogiej odrodzonych Twą miłością.  
-8\. Chwała Ojcu i Synowi, który z martwych żywy wstaje  
-I świętemu też Duchowi niech na wieki nie ustaje.  
-  
-Ref. Oto są baranki młode…  
+Pędzi morze rozdzielone,  
+wrogów w nurtach swych pożera.  
+
+4\. Już nam Paschą Tyś, o Chryste,  
+Wielkanocną też ofiarą,  
+Tyś przaśniki nasze czyste  
+dla dusz prostych z szczerą wiarą.  
+---
+Ref. Oto są baranki młode,  
+oto ci, co zawołali: alleluja!  
+Dopiero przyszli do zdrojów,  
+światłością się napełnili,  
+alleluja, alleluja!  
+---
+class:small
+5\. O Ofiaro niebios święta,  
+Ty moc piekła pokonywasz,  
+Zrywasz ciężkie śmieci pęta,  
+wieniec życia nam zdobywasz.  
+
+6\. Chrystus piekło pogromiwszy,  
+swój zwycięski znak roztacza,  
+Niebo ludziom otworzywszy,  
+króla mroków w więzy wtłacza.  
+---
+Ref. Oto są baranki młode,  
+oto ci, co zawołali: alleluja!  
+Dopiero przyszli do zdrojów,  
+światłością się napełnili,  
+alleluja, alleluja!  
+---
+class:small
+7\. Byś nam wiecznie, Jezu drogi,  
+Wielkanocną był radością,  
+Strzeż od grzechu, śmierci srogiej  
+odrodzonych Twą miłością.  
+
+8\. Chwała Ojcu i Synowi,  
+który z martwych żywy wstaje  
+I świętemu też Duchowi  
+niech na wieki nie ustaje.  
+---
+Ref. Oto są baranki młode,  
+oto ci, co zawołali: alleluja!  
+Dopiero przyszli do zdrojów,  
+światłością się napełnili,  
+alleluja, alleluja!  
 ---
 name:#037
-1\. Gdy drogi pomyli los zły  
-I oczy mgłą zasnuje  
-Miej w sobie tę ufność  
-Nie lękaj się  
-A kiedy gniew świat Ci przysłoni  
-I zazdrość jak chwast zakiełkuje  
-Miej w sobie tę ufność  
-Nie lękaj się!  
+class:tiny
+1\. Gdy drogi pomyli los zły i oczy mgłą  
+zasnuje, miej w sobie tę ufność nie  
+lękaj się! A kiedy gniew świat Ci  
+przysłoni i zazdrość jak chwast  
+zakiełkuje, miej w sobie tę ufność,  
+nie lękaj się!  
   
-Ref. Ty tylko mnie poprowadź  
-Tobie powierzam mą drogę  
-Ty tylko mnie poprowadź  
-Panie mój /2x  
-  
-2\. Poprowadź jak Jego prowadzisz  
-Przez drogi najprostsze z możliwych  
-I pokaż mi jedną  
-Tę jedną z nich  
+Ref. Ty tylko mnie poprowadź, Tobie  
+powierzam mą drogę. Ty tylko mnie 
+poprowadź, Panie mój  
+---
+class:tiny
+2\. Poprowadź, jak jego prowadzisz,  
+przez drogi najprostsze z możliwych  
+i pokaż mi jedną, Tę jedną z nich.  
 A kiedy już głos Twój usłyszę  
-I karmić się będę nim co dzień  
-Miej w sobie tę ufność  
-Nie lękaj się!  
+i karmić się będę nim co dzień,  
+miej w sobie tę ufność, nie lękaj się!  
   
-Ref. Ty tylko mnie poprowadź  
-Tobie powierzam mą drogę  
-Ty tylko mnie poprowadź  
-Panie mój /2x  
+Ref. Ty tylko mnie poprowadź, Tobie  
+powierzam mą drogę. Ty tylko mnie 
+poprowadź, Panie mój  
 ---
 name:#038
 class:big,center,middle
@@ -1078,7 +1145,7 @@ Swojego Ducha, Panie,
 wylej na nas dziś!  
 ---
 name:#039
-  
+class:tiny
 1\. Bóg w raju piękny zasiał dar,  
 mężczyźnie i kobiecie dał  
 tę miłość, która wiecznie niechaj trwa.  
@@ -1086,16 +1153,17 @@ Więc chwalmy Pana głośno tak
 za miłość, za jej wielki dar,  
 śpiewajmy i wołajmy: Alleluja!  
   
-Ref. Alleluja, alleluja,  
-alleluja, alleluja!  
-  
+Ref. Alleluja, alleluja, alleluja, alleluja!  
+---
+class:tiny
 2\. O, Panie, dzisiaj w domu Twym  
 rozbrzmiewa ten miłości hymn,  
 bo sławić Ciebie pragnę z całych sił.  
 Błogosław więc miłości tej  
 daj siłę w każdy wspólny dzień.  
 Prosimy Cię, wołając: Alleluja!  
-Ref. Alleluja…  
+
+Ref. Alleluja, alleluja, alleluja, alleluja!  
 ---
 name:#040
 class:small
@@ -1149,42 +1217,44 @@ Ref. Bez Ciebie nie mogę już żyć.
 Dla Ciebie me serce chce bić.
 ---
 name:#043
-1\. Kochany bracie,  
-kochana siostro,  
-nie wiem, kim jesteś,  
-nie wiem, gdzie żyjesz,  
-lecz ja chcę dla ciebie  
-poświęcić wszystko,  
-chcę dać ci siebie.  
+class:tiny
+1\. Kochany bracie, kochana siostro,  
+nie wiem, kim jesteś, nie wiem,  
+gdzie żyjesz, lecz ja chcę dla ciebie  
+poświęcić wszystko, chcę dać ci siebie.  
   
-Ref.: Takie jest prawo miłości,  
-które dał Pan.  
-Takie jest prawo miłości,  
-jest kluczem do nieba bram.  
-Takie jest prawo miłości  
-i jego strzeżmy,  
-i miłość wszystkim dokoła  
-ze sobą nieśmy.  
+Ref. Takie jest prawo miłości, które  
+dał Pan. Takie jest prawo miłości,  
+jest kluczem do nieba bram. Takie jest  
+prawo miłości i jego strzeżmy, i miłość  
+wszystkim dokoła ze sobą nieśmy.  
+---
+class:tiny
+2\. Kimkolwiek jesteś, gdziekolwiek  
+żyjesz, na jakiejkolwiek spotkam cię  
+drodze, zawsze otwarte moje ramiona  
+przygarną ciebie.  
   
-2\. Kimkolwiek jesteś, gdziekolwiek żyjesz,  
-na jakiejkolwiek spotkam cię drodze,  
-zawsze otwarte moje ramiona przygarną ciebie.  
-  
-Ref. Takie jest prawo miłości...  
-  
+Ref. Takie jest prawo miłości, które  
+dał Pan. Takie jest prawo miłości,  
+jest kluczem do nieba bram. Takie jest  
+prawo miłości i jego strzeżmy, i miłość  
+wszystkim dokoła ze sobą nieśmy.  
+---
+class:tiny
 3\. Kochany bracie, kochana siostro,  
-już wiem, kim jesteś, już wiem, gdzie żyjesz,  
-ja chcę dla ciebie przychylić nieba,  
-chcę dać ci Boga.  
+już wiem, kim jesteś, już wiem, gdzie  
+żyjesz, ja chcę dla ciebie przychylić  
+nieba, chcę dać ci Boga.  
   
-Ref. Takie jest prawo miłości…  
-  
-  
-  
-  
+Ref. Takie jest prawo miłości, które  
+dał Pan. Takie jest prawo miłości,  
+jest kluczem do nieba bram. Takie jest  
+prawo miłości i jego strzeżmy, i miłość  
+wszystkim dokoła ze sobą nieśmy.  
 ---
 name:#044
-class:small,middle
+class:small
 Pan jest Pasterzem moim,  
 niczego mi nie braknie,  
 na zielonych niwach pasie mnie.  
@@ -1194,29 +1264,23 @@ i duszę mą pokrzepia,
 i wiedzie mnie ścieżkami  
 sprawiedliwości Swojej.  
 ---
-class:tiny,middle
 Ref. Choćbym nawet szedł  
 ciemną doliną,  
-zła się nie ulęknę,  
-boś Ty ze mną,  
-laska Twoja i kij Twój mnie  
-pocieszają.  
+zła się nie ulęknę, boś Ty ze mną,  
+laska Twoja i kij Twój  
+mnie pocieszają.  
 ---
 name:#045
-Do Ciebie, Panie  
-woła dusza moja,  
-tęskni ciało me  
-Gdy nie ma Cię  
-moje serce ogarnia lęk  
-Przyjdź, dotknij mnie,  
-rozraduj mnie  
+class:small
+Do Ciebie, Panie woła dusza moja,  
+tęskni ciało me. Gdy nie ma Cię  
+moje serce ogarnia lęk.  
+Przyjdź, dotknij mnie, rozraduj mnie  
   
-Ref: Jezu, pragnę blisko Ciebie być  
-Jezu, w Twych ramionach się skryć  
-Słodycz Twą poznawać co dnia  
-Przy sercu Twym trwać.  
-  
-  
+Ref: Jezu, pragnę blisko Ciebie być.  
+Jezu, w Twych ramionach się skryć.  
+Słodycz Twą poznawać co dnia,  
+przy sercu Twym trwać.  
 ---
 name:#046
   
