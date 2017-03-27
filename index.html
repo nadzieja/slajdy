@@ -5,65 +5,66 @@
     <meta name="keywords" content="lyrics,christian,music,slides,tchnienie,Boga" />
     <meta name="description" content="Slajdy - Tchnienie Boga" />
     <title>Slajdy - Tchnienie Boga</title>
-    <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+    <script src="js/jquery-3.2.0.min.js" type="text/javascript"> </script>
     <script src="js/remark-0.9.1.min.js" type="text/javascript"> </script>
     <link rel="stylesheet" type="text/css" href="css/style.css"/>
   </head>
   <body>
     <script>
+      function setupSlideshow(source) {
+        function addKeydown(code, callback) {
+          document.body.addEventListener('keydown', function(event) {
+            var keyCode = event.which || event.keyCode;
+            if (keyCode === code) {
+              event.preventDefault();
+              callback();
+            }
+          });
+        }
+
+        var slideshow = remark.create({
+          ratio: '3:2',
+          source: source
+        });
+
+        var allNames = slideshow.getSlides()
+        .map(slide => slide.properties.name)
+        .filter(name => name);
+
+        function addNamedSlidesHandler(slideNames) {
+          function cycleArray(values) {
+            var idx = 0;
+            return function() {
+              var value = values[idx];
+              idx = idx + 1 < values.length ? idx + 1 : 0;
+              return value;
+            };
+          }
+          var nextSlideName = cycleArray(slideNames);
+
+          addKeydown(116, function() { // F5
+            slideshow.gotoSlide(nextSlideName());
+          });
+          addKeydown(27, function() { // Escape
+            slideshow.gotoSlide(nextSlideName());
+          });
+        }
+        addNamedSlidesHandler(allNames);
+
+        addKeydown(190, function() { // dot
+          slideshow.toggleBlackout();
+        });
+
+      }
+
+      $.get('md/all-slides.md', setupSlideshow, 'text');
+
       // var source = 'name:' + names.map(function(name) {
       //   return result.responseText.split(/---\nname:/).find(function (slide) {
       //     return slide.split(/\n/)[0] === name
       //   });
       // }).join('---\nname:');
 
-      var slideshow = remark.create({
-        ratio: '3:2',
-        sourceUrl: 'md/all-slides.md'
-      });
-
-      var allNames = slideshow.getSlides()
-        .map(function(slide) {
-          return slide.properties.name;
-        })
-        .filter(function(name) {
-          return name;
-        });
-
-      function addKeydown(code, callback) {
-        document.body.addEventListener('keydown', function(event) {
-          var keyCode = event.which || event.keyCode;
-          if (keyCode === code) {
-            event.preventDefault();
-            callback();
-          }
-        });
-      }
-
-      var names = [];
-      function addNamedSlidesHandler(slideNames) {
-        function cycleArray(values) {
-          var idx = 0;
-          return function() {
-            var value = values[idx];
-            idx = idx + 1 < values.length ? idx + 1 : 0;
-            return value;
-          };
-        }
-        var nextSlideName = cycleArray(slideNames);
-
-        addKeydown(116, function() { // F5
-          slideshow.gotoSlide(nextSlideName());
-        });
-        addKeydown(27, function() { // Escape
-          slideshow.gotoSlide(nextSlideName());
-        });
-      }
-      addNamedSlidesHandler(names);
-
-      addKeydown(190, function() { // dot
-        slideshow.toggleBlackout();
-      });
 
       function getQueryString() {
         var result = {}, queryString = location.search.slice(1),
@@ -100,20 +101,6 @@
       var data = getQueryString()['data'];
       var url = data && 'md/' + data + '.txt';
       document.title = data && 'Slajdy ' + data + ' - Tchnienie Boga' || 'Slajdy - Tchnienie Boga';
-
-      getSlideNames(url, function(slideNames) {
-        if (!slideNames) {
-          allNames.forEach(function(name) {
-            names.push(name);
-          }); 
-        } else {
-          slideNames.forEach(function(name) {
-            if (allNames.indexOf(name) >= 0) {
-              names.push(name);
-            }
-          });
-        }
-      });
 
     </script>
   </body>
