@@ -124,7 +124,7 @@ Chwała Jedynemu Bogu!
 Chwała na wysokości!  
 Chwała, a ludziom pokój!  
 ---
-name:o_uslysz
+name:o-uslysz
 class:center,middle
 O usłysz mój głos!  
 O usłysz mój głos!  
@@ -144,7 +144,7 @@ w imię Twoje, Panie
 Hosanna, hosanna,  
 hosanna na wysokości!  
 ---
-name:ojcze_nasz
+name:ojcze-nasz
 class:tiny
 Ojcze nasz, który jesteś w niebie  
 Święć się imię Twoje, przyjdź królestwo  
@@ -185,7 +185,7 @@ class:tiny
 Wspomagaj nas w walce, a przeciw niegodziwości i zasadzkom złego ducha bądź naszą obroną. Oby go Bóg pogromić raczył, pokornie o to prosimy. A Ty, Wodzu niebieskich zastępów, szatana i inne duchy złe, które na zgubę dusz ludzkich po tym świecie krążą, mocą Bożą strąć do piekła.
 Amen.  
 ---
-name:#009
+name:*009
 class:small
 1\. Tryumfy Króla Niebieskiego  
 zstąpiły z nieba wysokiego /x2 
@@ -219,7 +219,7 @@ radują!
 Jezusowi śpiewają x2  
 śpiewają!
 ---
-name:#010
+name:*010
 1\. Gdy śliczna Panna Syna kołysała  
 Z wielkim weselem tak jemu śpiewała:  
 Li, li, li, li, laj, moje Dzieciąteczko  
@@ -242,7 +242,7 @@ Li, li, li, li, laj, mój wonny
 kwiateczku. Li, li, li, li, laj,  
 w ubogim żłóbeczku  
 ---
-name:#011
+name:*011
 class:small
 1\. Lulajże Jezuniu, moja perełko,  
 Lulaj ulubione me Pieścidełko.  
@@ -262,7 +262,7 @@ Ref. Lulajże, Jezuniu...
 4\. Lulajże, Różyczko, najozdobniejsza. Lulajże, Lilijko, najprzyjemniejsza.  
 Ref. Lulajże, Jezuniu...
 ---
-name:#012
+name:*012
 1\. Z Narodzenia Pana dzień dziś  
 wesoły. Wyśpiewują chwałę Bogu  
 żywioły.  
@@ -307,7 +307,7 @@ Bo ten Jezus z nieba dany,
 weźmie nas między niebiany,  
 tylko Go z całego serca miłujmy!  
 ---
-name:#013
+name:*013
 class:small
 1\. Przybieżeli do Betlejem pasterze, 
 grając skocznie  
@@ -333,7 +333,7 @@ i myśleli, co to będzie za Dziecię?
 
 Ref. Chwała na wysokości...  
 ---
-name:#014
+name:*014
 class:small
 1\. Dzisiaj w Betlejem, dzisiaj  
 w Betlejem wesoła nowina,  
@@ -365,7 +365,7 @@ i dary Panu kosztowne złożyli.
 
 Ref. Chrystus się rodzi, nas oswobodzi anieli grają, króle witają. Pasterze śpiewają, bydlęta klękają, cuda, cuda ogłaszają. 
 ---
-name:#015
+name:*015
 class:small
 Nie płaczże, mój Syneczku, nie płacz, woda będzie w balijce ciepła.  
 Kolebeczki Bóg Ci poskąpił, za to Matka ukołysa, ukąpie. Matka ukołysa, ukąpie.  
@@ -390,7 +390,7 @@ Wyprosimy sobie giezłeczko
 Lulaj, Synku, lulaj, Syneczku.  
 Lulaj, Synku, lulaj, Syneczku.  
 ---
-name:#016
+name:*016
 1\. Cicha noc, święta noc,  
 pokój niesie ludziom wszem,  
 a u żłobka Matka Święta  
@@ -414,7 +414,7 @@ niesie dziś całemu światu
 odkupienie win,  
 odkupienie win.  
 ---
-name:#017
+name:*017
 1\. Jezusa narodzonego wszyscy witajmy, Jemu po kolędzie dary wzajem oddajmy.  
 
 Ref. Oddajmy wesoło, skłaniajmy swe czoło, skłaniajmy swe czoło,  
@@ -439,7 +439,7 @@ Panu naszemu.
 Ref. Oddajmy wesoło, skłaniajmy swe czoło, skłaniajmy swe czoło,  
 Panu naszemu.  
 ---
-name:#018
+name:*018
 1\. Pastuszkowie bracia mili  
 gdzieście po ten czas chodzili  
 
@@ -480,7 +480,7 @@ Ref. Przez narodzenie Jezusa
 będzie w niebie nasza dusza,  
 królowała. /x2  
 ---
-name:#019
+name:*019
 class:small
 1\. Gdy się Chrystus rodzi  
 i na świat przychodzi.  
@@ -525,7 +525,7 @@ On osłodzi wasze troski".
 Gloria, gloria, gloria,  
 in excelsis Deo!  
 ---
-name:#020
+name:*020
 class:small
 1\. Pójdźmy wszyscy do stajenki,  
 Do Jezusa i Panienki!  
@@ -548,7 +548,7 @@ witaj, dwakroć narodzony
 Raz z Ojca przed wieków wiekiem,  
 a teraz z Matki człowiekiem.  
 ---
-name:#021
+name:*021
 class:small
 1\. Ciemne niebo świat otula,  
 nad Betlejem gwiazda wschodzi.  
@@ -579,7 +579,7 @@ zaśpiewali aniołowie.
 Pokój ludziom dobrej woli,  
 przyniósł Chrystus w Swej osobie.  
 ---
-name:#022
+name:*022
 class:tiny
 1\. Prawda jedyna słowa Jezusa  
 z Nazaretu, że Swego Syna posłał  
@@ -604,7 +604,7 @@ Ref. Dzięki Ci, Boże mój, za ten krzyż,
 który Jezus cierpiał za mnie,  
 Jezus cierpiał za mnie.  
 ---
-name:#023
+name:*023
 1\. Drzewo krzyża surowe,  
 Tyś ciało Chrystusowe dźwigało.  
 Marii Panny lamenty  
@@ -620,13 +620,13 @@ wysoko ponad światem górujesz.
 Przemija postać świata,  
 A Ty po wszystkie lata królujesz.  
 ---
-name:#024
+name:*024
 Dzięki za Twój krzyż  
 Dzięki za zwycięstwo Twe  
 Niech Twa Krew oczyszcza mnie  
 Dzięki za miłosierdzie Twe  
 ---
-name:#025
+name:*025
 1\. Golgoto, Golgoto, Golgoto!  
 W tej ciszy przebywam wciąż rad,  
 W tej ciszy daleki jest świat.  
@@ -678,7 +678,7 @@ lecz mój grzech.
 Choć tak dawno to się stało,  
 widziałeś mnie.  
 ---
-name:#026
+name:*026
 class:tiny
 1\. Zbawienie przyszło przez krzyż,  
 Ogromna to tajemnica.  
@@ -712,7 +712,7 @@ To weź swój krzyż na każdy dzień
 I chodź ze Mną zbawiać świat  
 Kolejny już wiek.  
 ---
-name:#027
+name:*027
 class:small
 1\. Ten, którego pocałuję w twarz,  
 Ten będzie wasz, Tego wam wskażę.  
@@ -758,7 +758,7 @@ To Jezus zawołał z krzyża,
 Ref. Umiera Jezus, Jezus, Jezus.  
 Żydowski Król, Boży Syn.  
 ---
-name:#028
+name:*028
 1\. Bez wstążek lub balonów  
 Żadnych ozdób ani flag  
 Bez trąbek i bez tłumów  
@@ -789,7 +789,7 @@ Bez pałacu, tronu, sług
 Przyszedł jako Dziecię małe  
 Chociaż wielkim Królem był.  
 ---
-name:#029
+name:*029
 class:tiny
 Ref. Rozpięty na ramionach jak sokół na  
 niebie, Chrystusie, Synu Boga, spójrz,  
@@ -822,7 +822,7 @@ proszę, na ziemię.
 Miłosierdzie, prosimy, Twoje dzieci,  
 nie sądź na miarę siebie.  
 ---
-name:#030
+name:*030
 Ref. Śpiewajcie Panu,  
 bo wielka Jego moc i chwała!  
 On z niewoli zła swój lud ocala!  
@@ -868,7 +868,7 @@ swoim mieszkaniem.
 Pan Bóg jest Królem  
 na zawsze i na wieki.  
 ---
-name:#031
+name:*031
 class:tiny
 Uwielbiam Imię Twoje, Panie!  
 Wywyższam Cię i daję Ci hołd!  
@@ -881,7 +881,7 @@ Chcę Ci dziękować
 dziś ze wszystkich sił  
 Dajesz mi siebie, bym na wieki żył!  
 ---
-name:#032
+name:*032
 class:tiny
 Ref. Zaśpiewajcie Panu pieśń nową,  
 bo Sam wielkich cudów dokonał.  
@@ -916,7 +916,7 @@ i okrąg świata i jego mieszkańcy.
 Rzeki niechaj klaszczą w dłonie,  
 góry niech z radości śpiewają!  
 ---
-name:#033
+name:*033
 class:tiny
 1\. Po szabacie pierwszego dnia z rana  
 biegła Maria z Magdali  
@@ -951,7 +951,7 @@ To dzień, dzień, dzień ukazania się.
 Dzień, dzień, dzień  
 zmartwychwstania to dzień.  
 ---
-name:#034
+name:*034
 class:small
 Wody nie ugaszą jej,  
 nie da zdławić się przez wiatr.  
@@ -963,7 +963,7 @@ tak potężna jest,
 jak śmierć jest miłość,  
 potężniejsza jest.  
 ---
-name:#035
+name:*035
 class:small
 Ref. Zmartwychwstał Pan i żyje  
 dziś, blaskiem jaśnieje noc.  
@@ -1040,7 +1040,7 @@ jeśli chcesz przez nią wejdź.
 Zbliżmy się do ołtarza,  
 Bogu oddajmy cześć!  
 ---
-name:#036
+name:*036
 Ref. Oto są baranki młode,  
 oto ci, co zawołali: alleluja!  
 Dopiero przyszli do zdrojów,  
@@ -1115,7 +1115,7 @@ Dopiero przyszli do zdrojów,
 światłością się napełnili,  
 alleluja, alleluja!  
 ---
-name:#037
+name:*037
 class:tiny
 1\. Gdy drogi pomyli los zły i oczy mgłą  
 zasnuje, miej w sobie tę ufność nie  
@@ -1140,12 +1140,12 @@ Ref. Ty tylko mnie poprowadź, Tobie
 powierzam mą drogę. Ty tylko mnie 
 poprowadź, Panie mój  
 ---
-name:#038
+name:*038
 class:big,center,middle
 Swojego Ducha, Panie,  
 wylej na nas dziś!  
 ---
-name:#039
+name:*039
 class:tiny
 1\. Bóg w raju piękny zasiał dar,  
 mężczyźnie i kobiecie dał  
@@ -1166,7 +1166,7 @@ Prosimy Cię, wołając: Alleluja!
 
 Ref. Alleluja, alleluja, alleluja, alleluja!  
 ---
-name:#040
+name:*040
 class:small
 1\. Maryjo, Matko mojego wezwania,  
 chcę i pragnę idąc za Twym słowem,  
@@ -1188,7 +1188,7 @@ Ref. Bo tak jest z tymi, którzy
 z Ducha narodzili się, nikt nie wie  
 dokąd pójdą za wolą Twą.  
 ---
-name:#041
+name:*041
 Jesteś blisko mnie  
 Tęsknię za Duchem Twym  
 Kocham kroki Twe  
@@ -1206,7 +1206,7 @@ Twoja miłość sprawia, że
 nieskończenie dobry  
 Święty Duch ogarnia mnie.  
 ---
-name:#042
+name:*042
 class:small
 Powietrzem moim jest x2  
 obecność Twoja  
@@ -1217,7 +1217,7 @@ Twe żywe słowo dane mi dziś.
 Ref. Bez Ciebie nie mogę już żyć.
 Dla Ciebie me serce chce bić.
 ---
-name:#043
+name:*043
 class:tiny
 1\. Kochany bracie, kochana siostro,  
 nie wiem, kim jesteś, nie wiem,  
@@ -1254,7 +1254,7 @@ jest kluczem do nieba bram. Takie jest
 prawo miłości i jego strzeżmy, i miłość  
 wszystkim dokoła ze sobą nieśmy.  
 ---
-name:#044
+name:*044
 class:small
 Pan jest Pasterzem moim,  
 niczego mi nie braknie,  
@@ -1271,7 +1271,7 @@ zła się nie ulęknę, boś Ty ze mną,
 laska Twoja i kij Twój  
 mnie pocieszają.  
 ---
-name:#045
+name:*045
 class:small
 Do Ciebie, Panie woła dusza moja,  
 tęskni ciało me. Gdy nie ma Cię  
@@ -1283,7 +1283,7 @@ Jezu, w Twych ramionach się skryć.
 Słodycz Twą poznawać co dnia,  
 przy sercu Twym trwać.  
 ---
-name:#046
+name:*046
   
 Maryjo, oddana Panu  
 W zaufaniu bez końca  
@@ -1303,7 +1303,7 @@ Za mną proś i ze mną bądź,
 Za mną proś i ze mną  
 Bądź!  
 ---
-name:#047
+name:*047
 class:middle
 Nic, nie musisz mówić nic,  
 odpocznij we Mnie,  
@@ -1312,7 +1312,7 @@ czuj się bezpiecznie.
 Ref. Pozwól kochać się,  
 Miłość pragnie Ciebie.  
 ---
-name:#048
+name:*048
 Ref. Wszystko, co dziś mamy  
 Nie należy do nas już  
 Oto plony całej ziemi,  
@@ -1349,7 +1349,7 @@ chlebów rozmnożenia cud…
   
   
 ---
-name:#049
+name:*049
   
 1\. Chciałbym ciszę znaleźć w domu,  
 By w niej schować smutku ból  
@@ -1373,7 +1373,7 @@ I radować się każdym dniem...
   
 Ref.x2: Ciągle szukam swego domu…  
 ---
-name:#050
+name:*050
 Mój Pan mocą moją jest  
 Skałą i zbawieniem, On Bogiem mym  
   
@@ -1382,7 +1382,7 @@ Ref.: Dla Ciebie otwieram serce me |3x
 Mój Pan Królem moim jest  
 Na zawsze i na wieki. Amen.  
 ---
-name:#051
+name:*051
 Ref. 1. Będziemy tańczyć,  
 będziemy śpiewać,  
 będziemy klaskać w dłonie swe,  
@@ -1420,7 +1420,7 @@ kiedy nasz Pan
 w białych szatach stawi nas  
 przed Ojcem swym, przed Adonai.  
 ---
-name:#052
+name:*052
 1\. Niech wam błogosławi Pan  
 Niechaj was strzeże  
 Niech rozjaśni oblicze Swe nad wami  
@@ -1448,7 +1448,7 @@ Niech wam błogosławi Pan
   
   
 ---
-name:#053
+name:*053
   
   
 Śpiewajcie Panu, sławcie Go!  
@@ -1457,7 +1457,7 @@ On jest naszą pomocą.
 On jest naszą pomocą.  
 Amen, amen, amen |x4  
 ---
-name:#054
+name:*054
   
 Jezus dziś przyszedł do mnie  
 Wziął mnie w ramiona Swoje  
@@ -1466,7 +1466,7 @@ Ja zaś bratem twoim jestem
 Daj mi dłoń  
   
 ---
-name:#055
+name:*055
 Ref. Wykrzykujcie na cześć Pana  
 Wszystkie ziemie  
 Wśród okrzyków i radości  
@@ -1488,13 +1488,13 @@ Albowiem dobry jest Pan
 Jego wierność przez pokolenia  
   
 ---
-name:#056
+name:*056
 Nie bójcie się żyć dla miłości  
 Dla tej miłości warto żyć  
   
   
 ---
-name:#057
+name:*057
 1\. Usłyszałem i ujrzałem  
 głos wielu aniołów  
 Mówiących: Oto jest Pan!  
@@ -1530,7 +1530,7 @@ Ref.x2 Otwierasz niebo, Panie…
   
   
 ---
-name:#058
+name:*058
 1\.Twoje ręce to mój ląd, wiem nie utonę  
 Twoje ręce to mój brzeg, kiedy dokoła sztorm  
 Twoje ręce to mój ląd pokonam drogę  
@@ -1567,7 +1567,7 @@ Wierzę w każde słowo
 Twoje ręce to mój ląd  
   
 ---
-name:#059
+name:*059
 class:tiny,middle
 1\. Schowaj mnie pod skrzydła Twe.  
 Ukryj mnie w silnej dłoni Swej.  
@@ -1588,7 +1588,7 @@ Panie, królem Tyś spienionych wód.
 Ja ufam Ci, Ty jesteś Bóg.  
 Ja ufam Ci, Ty jesteś Bóg.  
 ---
-name:#060
+name:*060
 class:small
 Niechaj zstąpi Duch Twój i odnowi 
 ziemię, życiodajny spłynie deszcz  
@@ -1600,7 +1600,7 @@ mnie życie dał. Chwała Temu, który
 pierwszy umiłował mnie.  
 Jezus, tylko Jezus Panem jest!  
 ---
-name:#061
+name:*061
 class:tiny,middle
 1\. Wznoszę swe oczy ku górom,  
 skąd przyjdzie mi pomoc;  
@@ -1640,7 +1640,7 @@ i ufaj, bo zmartwychwstał i wciąż
 
 Ref. Błogosławieni miłosierni...
 ---
-name:#062
+name:*062
 Stoję dziś,  
 moje serce, ręce tak wyciągam  
 w podziwie dla Tego,  
@@ -1649,7 +1649,7 @@ Stoję dziś,
 moją duszę, Panie, Tobie składam.  
 Ja chcę być jak Ty.  
 ---
-name:#063
+name:*063
 class:tiny
 Mów do mnie, Panie, chcę słyszeć Cię,  
 Przyjąć od Ciebie, co masz dla mnie.  
@@ -1661,7 +1661,7 @@ potężny jesteś, Panie nasz,
 Przed Tobą dziś możemy stać  
 Dzięki łasce, nie dzięki nam samym.  
 ---
-name:#064
+name:*064
 Dotknij Panie moich oczu,  
 abym przejrzał  
 Dotknij Panie moich warg,  
@@ -1674,7 +1674,7 @@ dziś ogarnia mnie.
   
   
 ---
-name:#065
+name:*065
 class:tiny
 Uwielbiajcie Pana ludzkich serc bijące dzwony.
 Padnij na kolana przed Nim ludu utrudzony.
@@ -1685,7 +1685,7 @@ Niepojęty w Swej mądrości, Święty, Święty Bóg Miłości.
 Śpiewaj Panu Ziemio, chwalcie wszystkie  
 świata strony.  
 ---
-name:#066
+name:*066
 Ref. Oto ja, poślij mnie.  
 Dotknij ogniem moich warg.  
 Powiedz, Panie, czego chcesz,  
@@ -1704,7 +1704,7 @@ Panie, Ty wiesz wszystko, objaw mi Twe pragnienia.
   
 Ref. Oto ja, poślij mnie…  
 ---
-name:#067
+name:*067
 W ciele Chrystusa  
 tworzymy jedno,  
 chociaż tak wielu nas jest. x2  
@@ -1714,7 +1714,7 @@ jedna nadzieja w nas jest.
 Jeden duch, jedna wiara,  
 jeden Bóg i Ojciec nasz.  
 ---
-name:#068
+name:*068
 class:tiny
 1\. Tylko w Bogu moje jest zbawienie.  
 W Nim jedynie duszy ukojenie.  
@@ -1733,7 +1733,7 @@ Przychodzimy przed Twój tron,
 chcemy widzieć Twoją moc  
 i doświadczyć, Panie, łaski Twej.  
 ---
-name:#069
+name:*069
 class:tiny,middle
 Więcej miłości! Więcej mocy!  
 Więcej Ciebie w życiu mym!  
@@ -1744,7 +1744,7 @@ Ciebie! Całym swoim życiem uwielbiam
 Ciebie! Tyś jest Bogiem mym,  
 Tyś Panem moim jest!  
 ---
-name:#070
+name:*070
 class:small
 Duchu Święty, Stworzycielu,
 ożywiaj moją modlitwę,  
@@ -1756,7 +1756,7 @@ otwieraj moje uszy, by słyszały,
 serce, aby czuło.  
 Duchu Święty, Ożywicielu, przyjdź!  
 ---
-name:#071
+name:*071
 class:small
 Jezus, najwyższe Imię  
 nasz Zbawiciel, Książę Pokoju  
@@ -1767,7 +1767,7 @@ jedyny Ojca Syn, Umiłowany.
 Zgładził grzech, Baranek na wieki,  
 Królów Król i Panów Pan.  
 ---
-name:#072
+name:*072
 class:small
 1\. Duchu Święty, obiecany nam  
 Przypominaj to, co mówi Pan.  
@@ -1797,7 +1797,7 @@ Ref. Z Tobą Słowo Boże
 W moim życiu, Duchu,  
 prowadź mnie.  
 ---
-name:#073
+name:*073
 1\. Patrzę w moje serce, widzę krew i rany  
 Patrzę głębiej, widzę obraz,  
 obraz piękny, namalowany przez Ojca.  
@@ -1810,7 +1810,7 @@ Ref. Ja dziękuję Ci za Twą świętą Krew,
 która spływa dziś  
 na me serce i oczyszcza je  
 ---
-name:#074
+name:*074
 Duchu Święty, pouczaj mnie.  
 Duchu Święty, poprowadź mnie.  
 Chcę iść za Tobą Duchu Święty,  
@@ -1819,7 +1819,7 @@ chcę iść za Tobą Duchu Święty.
   
   
 ---
-name:#075
+name:*075
 class:middle
 Nasz Pan jest potężny  
 w mocy Swej,  
@@ -1827,7 +1827,7 @@ króluje nad nami dziś.
 Z nieba rządzi w mocy,  
 miłości, mądrości Swej.  
 ---
-name:#076
+name:*076
 Jesteśmy piękni  
 Twoim pięknem, Panie!  
 Jesteśmy piękni  
@@ -1840,7 +1840,7 @@ na piękno Twoje Panie!
 Ty otwierasz nasze oczy, Panie,  
 na Twoje piękno!  
 ---
-name:#077
+name:*077
 class:tiny
 1\. Godzien o godzien jest Bóg,  
 siedzący na tronie,  
@@ -1863,7 +1863,7 @@ Ref. On Panem jest
 od wieków na wieki.  
 Amen.
 ---
-name:#078
+name:*078
 class:small
 1\. Wodę zamieniłeś w wino.  
 Ślepi przy Tobie znów widzą.  
@@ -1886,13 +1886,13 @@ już nic nas nie zatrzyma.
 Jeśli nasz Bóg jest z nami,  
 któż jest przeciwko nam?  
 ---
-name:#079
+name:*079
 class:middle
 Będę śpiewał Tobie, mocy moja.  
 Ty, Panie, jesteś mą nadzieją.  
 Tobie ufam i bać się nie będę.  
 ---
-name:#080
+name:*080
 class:small
 Wszyscy ludzie klaszczą w dłonie,  
 cała ziemia śpiewa, śpiewa.  
@@ -1945,14 +1945,14 @@ zobaczy to każdy z nas.
 Nadejdzie dzień, nadejdzie dzień,  
 uwielbi Go cały świat!  
 ---
-name:#081
+name:*081
 /x2/ Duchu Święty, Duchu Święty  
 1\. O przyjdź i rozpal nas i ulecz nas, miłość nam daj  
 2\. O przyjdź, napełnij nas, rozraduj nas, miłość nam daj  
 3\. O przyjdź i utul nas, rozkochaj nas, miłość nam daj  
   
 ---
-name:#082
+name:*082
 class:small
 Miałem Pana zawsze  
 przed oczami, zawsze miałem Pana,  
@@ -1975,7 +1975,7 @@ Dajesz mi poznać wszystkie drogi
 i napełniasz mnie radością  
 Swoją przed obliczem Twoim.
 ---
-name:#083
+name:*083
 class:tiny
 Oddajmy cześć wiecznemu Panu chwał,  
 Pokłońmy się Temu, który  
@@ -1987,7 +1987,7 @@ Nad nami jest, a niebo Jego tron.
   
 Ref. Bóg to nasz Pan i tylko On.  
 ---
-name:#084
+name:*084
 Panu naszemu pieśni grajcie  
 wysławiajcie Jego święte Imię  
   
@@ -1996,7 +1996,7 @@ Ref. Alleluja, alleluja, alleluja, alleluja.
   
   
 ---
-name:#085
+name:*085
 1\. Moje wędrowanie, moje upadanie,  
 moje powstawanie, Twoje miłowanie.  
   
@@ -2017,7 +2017,7 @@ Jesteś drogą, co nam przez Ojca jest dana
   
 Jesteś dla nas spragnionych…  
 ---
-name:#086
+name:*086
 class:small
 Przyjaciela mam, co pociesza mnie,  
 gdy o Jego ramię oprę się.  
@@ -2026,7 +2026,7 @@ W Nim nadzieję mam, uleciał strach. On najbliżej jest, zawsze troszczy się.
 Ref. Królów Król, z nami Bóg x2  
 Jezus, Jezus x2  
 ---
-name:#087
+name:*087
 class:big
 Jezus, Jezus,  
 Jezus, Jezus, Jezus.
@@ -2036,7 +2036,7 @@ pokonał mój grzech.
 Zmartwychwstał Pan  
 i Królem jest.  
 ---
-name:#088
+name:*088
 Jedyny Pan, prawdziwy Bóg,  
 wszystko, co mam, oddaję Mu.  
 On jedynym Panem jest,  
@@ -2046,7 +2046,7 @@ Szema Izrael!
 Solo gitara  
   
 ---
-name:#089
+name:*089
 class:tiny
 Ref. Jezus uzdrawia dziś. Alleluja!  
 Jezus obecny tu. Pan obecny tu.  
@@ -2059,7 +2059,7 @@ Wolność daje, więzy zrywa.
 Jezus, Pan poprowadzi drogą prostą.  
 On nie zawiedzie mnie.
 ---
-name:#090
+name:*090
 class:small
 Jak dobrze jest dziękować Ci, Panie,  
 i spiewać psalm Twojemu Imieniu,  
@@ -2069,7 +2069,7 @@ a w nocy wierność Twoją
 przy dziesięciostrunnej harfie  
 i lutni, i dźwięcznej cytrze.  
 ---
-name:#091
+name:*091
 class:big
 W Tobie jest światło,  
 każdy mrok rozjaśni.  
@@ -2078,7 +2078,7 @@ ono śmierć zwycięża.
 Ufam Tobie, Miłosierny.  
 Jezu, wybaw nas!  
 ---
-name:#092
+name:*092
 class:small
 1\. O, Panie, Ty nam dajesz  
 Ciało Swe i Krew.  
@@ -2126,7 +2126,7 @@ tam, gdzie jej światu brak.
 Ref. Ty jesteś Bogiem wiernym  
 na wieczny czas. /2x  
 ---
-name:#093
+name:*093
 class:small
 Boże, Ojcze na niebie,  
 przez Syna Twego, Jezusa,  
@@ -2138,7 +2138,7 @@ niech wyzwala nas
 i niech strzeże nas.  
 Niech ogarnia nas Jego moc! x2  
 ---
-name:#094
+name:*094
 Przed Tobą, Wszechmocny,  
 kolana zginamy.  
 Dla Ciebie, żyjemy,  
@@ -2174,7 +2174,7 @@ Ref. x2 Wszystko, co mam…
   
   
 ---
-name:#095
+name:*095
 class:tiny
 Ref. Szukam Cię, Panie, o wschodzie.  
 Wzywam, gdy noc się przybliża.  
@@ -2199,7 +2199,7 @@ dziełach. Jesteś moim Bogiem,
 jedynym Dobrym. Żadna ciemna noc  
 nie może już mnie pochłonąć.
 ---
-name:#096
+name:*096
 class:small
 1\. Śpiewaj Panu, swemu Bogu  
 serce daj i wysławiaj  
@@ -2219,14 +2219,14 @@ ją w niebo jak rybitwę,
 Znów rozwiniesz swe skrzydła  
 jak ten ptak.  
 ---
-name:#097
+name:*097
 Ukaż mi, Panie, Swą twarz.  
 Daj mi usłyszeć Twój głos,  
 bo słodki jest Twój głos  
 i twarz pełna wdzięku  
 Ukaż mi, Panie, Swą twarz.  
 ---
-name:#098
+name:*098
 Panie, Twój tron wznosi się  
 Nad wszystkie ziemie świata  
 Jesteś Najwyższy, Panie mój  
@@ -2239,12 +2239,12 @@ Wywyższamy Cię, Boże nasz.
   
   
 ---
-name:#099
+name:*099
 Nic nie odłączy mnie od miłości Twej  
 Bo góry mogą ustąpić i zachwiać się pagórki  
 Lecz miłość Twoja, Panie wierna jest.  
 ---
-name:#100
+name:*100
 1\. My, którzy wszystko liczymy,  
 Ciebie mamy za darmo.  
 Dajesz nam Siebie w całości  
@@ -2276,7 +2276,7 @@ A co dzień nowy wschód słońca, niech Ciebie nam zapowiada.
 Ref. Każdy wschód słońca…  
   
 ---
-name:#101
+name:*101
 Nie lękajcie się, Ja jestem z wami.  
 Nie lękajcie się, Ja jestem z wami.  
 Nie lękajcie się, Bóg jest miłością.  
@@ -2297,7 +2297,7 @@ Pokoju i Miłosierdzia.
 Nieście wszystkim orędzie nadziei.  
 Moje światło niech świeci wśród was.  
 ---
-name:#102
+name:*102
 class:middle
 Ofiaruję Tobie, Panie mój,  
 całe życie me,  
@@ -2305,7 +2305,7 @@ cały jestem Twój, aż na wieki.
 Oto moje serce, przecież wiesz,  
 Tyś miłością mą jedyną jest.  
 ---
-name:#103
+name:*103
 1\. Ty światłość dnia wszedłeś  
 w moje ciemności,  
 dałeś mi wzrok, abym mógł  
@@ -2327,14 +2327,14 @@ i On zbawi Cię! x4
   
 Ref. x2 Jestem tu, by wielbić…  
 ---
-name:#104
+name:*104
 class:big
 Daję Ci serce moje, Panie,  
 daję Ci silne ręce moje.  
 Dodawaj sił mi nieustannie,  
 by udźwignęły świat ku Tobie.  
 ---
-name:#105
+name:*105
 1\. Jezus daje nam zbawienie  
 Jezus daje pokój nam  
 Jemu składam dziękczynienie  
@@ -2353,7 +2353,7 @@ Jego krew to oczyszczenie, Jego życie chwałą nam.
   
 Ref. Jezus siłą mą…  
 ---
-name:#106
+name:*106
 class:small
 Boże Twa łaska nad nami jest  
 Twoja miłość przychodzi wciąż  
@@ -2365,7 +2365,7 @@ Więcej Ciebie więcej łaski Twej
 Pragniemy  
 Więcej mocy więcej miłości Twojej  
 ---
-name:#107
+name:*107
 class:small
 1\. Szedłem kiedyś Jezu  
 ciemną drogą wstecz,  
@@ -2400,7 +2400,7 @@ ma mieszkanie Chrystus Bóg.
 Jego miłość wciąż pokrzepia mnie,  
 w Eucharystii On nam daje się.  
 ---
-name:#108
+name:*108
 Pokorna Służebnico Pana  
 Łamiąca strzały nieprzyjaciela  
 Miażdżąca głowę węża  
@@ -2412,7 +2412,7 @@ Na wzór mego Mistrza i Pana
   
   
 ---
-name:#109
+name:*109
 class:small
 1\. Nie zastanawiał się długo,  
 kiedy stwarzał świat,  
@@ -2450,7 +2450,7 @@ Jestem do Niego podobny,
 wystarczy jeden krok, a On,  
 dokończy wszystko swoją siłą.  
 ---
-name:#110
+name:*110
 Będę z aniołami śpiewał: Alleluja!  
 Będę tańczył ze świętymi. Alleluja!  
 Radość duszy mojej chcę  
@@ -2460,7 +2460,7 @@ pokój, prowadź mnie zawsze.
 Ref. Alleluja, radość duszy mojej!   
 Alleluja!  
 ---
-name:#111
+name:*111
 class:big
 Ref. Zbudowani na Chrystusie  
 W Nim zakorzenieni  
@@ -2484,14 +2484,14 @@ Bo On jest Źródłem Życia
 
 Alleluja, alleluja!
 ---
-name:#112
+name:*112
 class:big,center,middle
 Duchu Miłości  
 wylewaj się na nas  
 Z przebitego serca  
 Jezusa, Jezusa.  
 ---
-name:#113
+name:*113
 class:small
 Albowiem tak Bóg umiłował świat,  
 Że Syna Jednorodzonego dał,  
@@ -2503,7 +2503,7 @@ by mógł żyć na wieki,
 Lecz by mógł żyć na wieki,  
 by mógł żyć na wieki.  
 ---
-name:#114
+name:*114
 class:small
 1\. W kruszynie chleba Panie jesteś  
 schowany, wielki Ty Pan.  
@@ -2522,21 +2522,21 @@ Ty Panie kochasz nas.
 I proszę Ciebie, by tak było  
 wciąż, przez wiele lat.  
 ---
-name:#115
+name:*115
 Spocznij na nas, Duchu Pana,  
 Duchu mądrości i rozumu  
 Duchu poznania i bojaźni Bożej  
 Duchu miłości i mocy,  
 Duchu miłości i mocy.  
 ---
-name:#116
+name:*116
 Uwielbiam Cię, błogosławię Cię  
 Swym Duchem napełnij mnie.  
 Uwielbiam Cię, chcę widzieć Twoją  
 świętą twarz  
 i w miłość Twoją wtopić się.  
 ---
-name:#117
+name:*117
 Pan jest mocą Swojego ludu  
 Pieśnią moją jest Pan  
 Moja tarcza i moja moc  
@@ -2547,7 +2547,7 @@ W Nim moja siła, nie jestem sam
   
   
 ---
-name:#118
+name:*118
 class:small
 Ty masz moc uzdrowienia, Jezu.  
 Wierzę Tobie, bo obiecałeś:  
@@ -2570,7 +2570,7 @@ możesz wszystko, jesteś Bogiem.
 Kocham, prowadź mnie bezpiecznie.  
 Kocham, uzdrów dzisiaj mnie.  
 ---
-name:#119
+name:*119
 class:small
 Łaską jesteśmy zbawieni,  
 z łaski możemy tu stać.  
@@ -2581,7 +2581,7 @@ przed Twój w niebie tron
 My łaską obdarzeni  
 Tobie składamy hołd.  
 ---
-name:#120
+name:*120
 class:small
 Ref. Kiedyś wino i chleb, teraz Ciało i Krew. Możesz wierzyć lub nie, to naprawdę dzieje się.  
 
@@ -2601,7 +2601,7 @@ A ja przypomnę, że
 W ciszy i przy blasku świec  
 Cud największy dzieje się  
 ---
-name:#121
+name:*121
 Duchu Święty ogarnij mnie  
 Otwórz oczy mego serca, napełnij miłością  
 Duchu święty ja kocham  
@@ -2610,7 +2610,7 @@ Niech Twa święta wola spełni się
   
   
 ---
-name:#122
+name:*122
 Ref. Fundamentem jest miłość  
 Fundamentem miłosierdzie  
 Fundamentem jest miłość  
@@ -2650,7 +2650,7 @@ Ref. Fundamentem jest miłość
 Fundamentem miłosierdzie  
 Fundamentem jest miłość.  
 ---
-name:#123
+name:*123
 1\. Czekam na Ciebie, dobry Boże,  
 przyjdź do mnie, Panie,  
 pospiesz się.  
@@ -2680,7 +2680,7 @@ Przyjdź do nas, Panie,
 przyjdź z łaską swoją,  
 przyjdź i nie spóźniaj się.  
 ---
-name:#124
+name:*124
 class:small
 Raduje się dusza ma,  
 wielbi Pana swego,  
@@ -2692,7 +2692,7 @@ jest miłosierny Pan Zastępów.
 Moc Jego ramienia nad swym  
 ludem. Pan mój Zbawca!  
 ---
-name:#125
+name:*125
 1\. Zabierz, Panie, i przyjmij  
 całą wolność moją,  
 Pamięć moją i rozum, i wolę mą całą.  
@@ -2715,7 +2715,7 @@ albowiem to mi wystarczy.
 Twoje jest wszystko, amen.  
   
 ---
-name:#126
+name:*126
   
 Ty jesteś zawsze wierna,  
 Ucz nas ufać do końca  
@@ -2729,7 +2729,7 @@ naszego zawierzenia Panu.
   
   
 ---
-name:#127
+name:*127
 Chcę wywyższać Imię Twe,  
 Chcę zaśpiewać Tobie chwałę.  
 Panie, dziś raduję się,  
@@ -2743,7 +2743,7 @@ Nieba Królem jesteś Ty
 Chcę wywyższać Imię Twe  
   
 ---
-name:#128
+name:*128
 Ref. Nadzieja nosi niebieską sukienkę,  
 Bo ta nadzieja jest z nieba,  
 Każdy, kto kocha, ten wie.  
@@ -2760,14 +2760,14 @@ Ref. Nadzieja nosi niebieską sukienkę...
   
 Ref. Nadzieja nosi niebieską sukienkę…  
 ---
-name:#129
+name:*129
 Ubi caritas et amor, ubi caritas Deus ibi est.  
 Tam gdzie miłość jest i dobroć, tam gdzie miłość jest  
   
   
   
 ---
-name:#130
+name:*130
 1\. Kocham, więc nie muszę się bać  
 zabierz mój strach!  
 Jezus mówi ci, że miłość ta  
@@ -2778,7 +2778,7 @@ Ref.: Oo, Jezus, Jezus /4x
 3\. Jezus daje ci miłość Swą, nie lękaj się!  
 Jezus mówi ci, że miłość ta zabiera strach!  
 ---
-name:#131
+name:*131
 W lekkim powiewie  
 przychodzisz do mnie Panie /x2  
 Nie przez wicher ogromny i nie przez ogień  
@@ -2786,7 +2786,7 @@ ale w lekkim powiewie
 przychodzisz do mnie  
 W lekkim powiewie nawiedzasz duszę mą  
 ---
-name:#132
+name:*132
 1\. Hosanna, hosanna, hosanna na niebiosach.  
   
 Ref. Sławić chcemy Cię wciąż  
@@ -2801,7 +2801,7 @@ Wywyższony bądź Boże nasz. Królowi królów chwała, cześć!
   
   
 ---
-name:#133
+name:*133
 Ref. To jest Baranka Ciało, Jego Krew  
 Chleb, który dał za życie świata  
 Winne grono zmiażdżył, poi mnie  
@@ -2837,7 +2837,7 @@ Ref. To jest Baranka Ciało, Jego Krew…
   
   
 ---
-name:#134
+name:*134
 class:small
 1\. Wielkie światło, które dałeś  
 ciemność zwyciężyło  
@@ -2872,7 +2872,7 @@ złączeni Jego krzyżem
 Ref. Emmanuel,  
 Emmanuel, Emmanuel  
 ---
-name:#135
+name:*135
 class:small
 Oto idzie mój Bóg,  
 oto idzie mój Król.  
@@ -2884,7 +2884,7 @@ Wiem, że przyjdziesz niebawem,
 Z głębi serca dziś wołam: Maranatha!  
   
 ---
-name:#136
+name:*136
   
 1\. Pomódl się Miriam,  
 aby Twój Syn żył we mnie.  
@@ -2897,7 +2897,7 @@ Moim Niebem jest Twój Syn
 Weź mnie, Weź mnie, do Swego łona,  
 Bym bóstwem Jezusa zajaśniał jak Ty.  
 ---
-name:#137
+name:*137
 class:tiny
 Maryjo, wzorze prostoty,  
 przez Ducha Świętego napełniona.  
@@ -2909,7 +2909,7 @@ prowadź nas ścieżką Ducha Świętego
 wszędzie tam, gdzie człowiek  
 czeka sam.  
 ---
-name:#138
+name:*138
 1\. Jestem dzieckiem Boga,  
 Synem, na którego czekał Bóg,  
 Królewskim płaszczem Pan odział mnie,  
@@ -2931,7 +2931,7 @@ Potężnego Ojca w niebie masz,
 Królewskim dziedzicem Pan już nazwał cię,  
 W przestronnych komnatach znalazł dla ciebie dom.  
 ---
-name:#139
+name:*139
 /x3/ Jezus jest z nami tu  
 Jezus jest z nami tu  
   
@@ -2945,7 +2945,7 @@ Jezus jest z nami tu.
   
   
 ---
-name:#140
+name:*140
 Ref. Alleluja, Alleluja, Alleluja, Alleluja!  
   
 1\. Niech zabrzmi Panu chwała w niebiosach,  
@@ -2977,7 +2977,7 @@ przez wszystkie wieki wieków. Amen!
   
   
 ---
-name:#141
+name:*141
 1\. Pan kiedyś stanął nad brzegiem,  
 szukał ludzi, gotowych pójść za Nim,  
 by łowić serca Słów Bożych prawdą.  
@@ -3007,7 +3007,7 @@ Ref. O Panie…
   
   
 ---
-name:#142
+name:*142
 1\. Panie, dla Ciebie nie ma rzeczy  
 niemożliwych.  
 Ty przychodzisz do mnie  
@@ -3024,7 +3024,7 @@ W dniu zbawienia przyjdę ci z pomocą, przyjdę i wysłucham Cię
   
 Bo Ja Jestem, Ja Jestem, Ja Jestem, Ja Jestem, Ja Jestem |x2  
 ---
-name:#143
+name:*143
   
   
 Jezu, Źródło nie ginącej miłości Ojca  
@@ -3038,7 +3038,7 @@ Jezu, Źródło nie ginącej miłości Ojca
 Otworzyło się, obmywając z grzechów mnie.  
   
 ---
-name:#144
+name:*144
   
 Nie bój się  
 wypłyń na głębię  
@@ -3046,7 +3046,7 @@ Jest przy Tobie Chrystus
   
   
 ---
-name:#145
+name:*145
   
 1\. Z głębokości mórz aż po szczyty gór  
 Stworzenie objawia Majestat Twój  
@@ -3082,7 +3082,7 @@ Ref.x3 Niepojęty, niezmierzony...
   
   
 ---
-name:#146
+name:*146
 1\. Witaj Pokarmie, w którym niezmierzony  
 nieba i ziemi Twórca jest zamkniony,  
 Witaj napoju zupełnie gaszący  
@@ -3112,7 +3112,7 @@ K Tobie wołają.
   
   
 ---
-name:#147
+name:*147
 Ref. Chrystus Pan karmi nas  
 Swoim świętym Ciałem,  
 Chwalmy Go na wieki!  
@@ -3134,7 +3134,7 @@ Wobec tego, kto Mu służy i chce zostać Jemu wierny.
 5\. On, który Swą moc objawia, gdy wyniosłość serc uniża,  
 Każdy zamiar może zburzyć, który pychą Mu ubliża  
 ---
-name:#148
+name:*148
   
 O Jezu, w Hostii utajony  
 Serce moje Cię czuje  
@@ -3142,14 +3142,14 @@ I choć kryją Cię zasłony
 Ty wiesz, jak Cię miłuję  
 (....Panie mój!)  
 ---
-name:#149
+name:*149
 Ta Krew z grzechu obmywa mnie  
 Ta Krew czyni mnie bielszym od śniegu  
 Ta Krew z grzechu obmywa mnie  
 To jest Baranka święta Krew  
   
 ---
-name:#150
+name:*150
 class:tiny
 Przyodziałeś mnie Panie w Swoją moc,  
 Duch Twój na mnie spoczął.  
@@ -3162,14 +3162,14 @@ wybawiłeś. Dzięki Ci za to, żeś
 uchronił moje życie od śmierci,  
 nogi od upadku i oczy od łez. (x2)  
 ---
-name:#151
+name:*151
 Jezus, Królem naszym jest  
 Jezus, nasz Umiłowany. /x2  
   
 Ref. Daj wielki pokój nam.  
 Przyjdź i zamieszkaj z nami. /x2  
 ---
-name:#152
+name:*152
 Ref. Wypłyń na głębię /x2  
 Pan tak blisko jest  
 Z Nim zarzucisz swą sieć.  
@@ -3180,7 +3180,7 @@ Ja Jestem, odwagi
 Czemu wątpisz w łaskę Mą.  
   
 ---
-name:#153
+name:*153
 Ref. Idzie mój Pan, idzie mój Pan  
 On teraz biegnie, by spotkać mnie  
 Mija góry, łąki, lasy  
@@ -3188,7 +3188,7 @@ By komunii stał się cud
 On chce chlebem nas nakarmić  
 By nasycić życia głód  
 ---
-name:#154
+name:*154
 Ty, który jesteś samą Prawdą,  
 Duchu Święty, bądź uwielbiony.  
 Duchu, Prawdo odwieczna, |  
@@ -3217,7 +3217,7 @@ W chwale Ojca
   
   
 ---
-name:#155
+name:*155
   
 1\. Nie jestem sam, Ciebie w sobie mam,  
 W mych myślach, w mym sercu, Jezu. /x2  
@@ -3239,12 +3239,12 @@ abym nie oddalił się.
 Abym Ciebie zaniósł innym. /x2  
   
 ---
-name:#156
+name:*156
 Już teraz we mnie kwitną Twe ogrody,  
 już teraz we mnie Twe królestwo jest. x2  
   
 ---
-name:#157
+name:*157
 Z Tobą ciemność nie będzie ciemna  
 Wokół mnie  
 A noc tak jak dzień zajaśnieje  
@@ -3253,7 +3253,7 @@ A noc tak jak dzień zajaśnieje
   
   
 ---
-name:#158
+name:*158
 Solo gitara fis E cis7 D7+ h7 cis7 E fis (E) |x2  
   
 1\. Mrok ogarnął całą ziemię  
@@ -3279,7 +3279,7 @@ Jesteś przecież jeszcze młody
 Wiele możesz zdziałać.  
   
 ---
-name:#159
+name:*159
 Rzekł Pan, stało się: Jam Alfa i Omega  
 Początek i Koniec  
 Ja pragnącemu dam darmo pić ze źródła wody życia  
@@ -3290,7 +3290,7 @@ Ze źródła wody życia.
   
   
 ---
-name:#160
+name:*160
 1\. Zwykły chleb przemieniasz, Panie,  
 w Ciało Swe,  
 Zwykły chleb przemieniasz, Panie,  
@@ -3311,7 +3311,7 @@ By z nas każdy w niebie społem stanąć mógł.
 Bóg jest pełen Swej miłości w naszych sercach brak wdzięczności,  
 W naszych sercach brak wdzięczności za ten cud.  
 ---
-name:#161
+name:*161
 1\. Ty wyzwoliłeś nas Panie  
 Z kajdan i samych siebie  
 A Chrystus stając się bratem  
@@ -3326,7 +3326,7 @@ I przygarniając do siebie uczynił Swoimi dziećmi.
 Tej prawdy nic już nie zaćmi, i teraz jest jej godzina.  
   
 ---
-name:#162
+name:*162
 Ref.: Błogosław duszo moja Pana  
 wszystko, co we mnie, Jego Najświętsze Imię!  
 Błogosław duszo moja Pana Jego dobroci  
@@ -3363,7 +3363,7 @@ Bło-go-sław-cie Go! O o o o...
   
 Ref.: Błogosław duszo moja Pana…  
 ---
-name:#163
+name:*163
 W Swym Sercu na wieki ukryłeś nas,  
 Odnaleźć Twą miłość już czas.  
 Podnoszę me dłonie, oddając Ci cześć,  
@@ -3399,13 +3399,13 @@ Umiłował mnie Pan alleluja, alleluja.
 Ref. Jezu, Serce Twoje….  
   
 ---
-name:#164
+name:*164
 Podnieś mnie, Jezu i prowadź do Ojca  
 Podnieś mnie, Jezu i prowadź do Ojca  
 Zanurz mnie w wodzie Jego Miłosierdzia  
 Amen, Amen  
 ---
-name:#165
+name:*165
 1\. Ja wierzę, że to Jezus  
 Wierzę, że On Synem Boga jest  
 On zmarł i powstał, aby żyć  
@@ -3427,7 +3427,7 @@ Masz moc nas teraz uzdrawiać
 (uzdrowienia moc)  
 Masz przebaczenia dar  
 ---
-name:#166
+name:*166
 Jesteś Królem, jesteś Królem  
 Królem jest Bóg! |2x    
   
@@ -3435,7 +3435,7 @@ Podnieśmy wszyscy nasze serca
 Podnieśmy wszyscy nasze dłonie  
 Stawajmy przed obliczem Pana, wielbiąc Go  
 ---
-name:#167
+name:*167
 1\. Przyjdź, królestwo Twoje  
 Twoja miłość, o Panie  
 Jest większa, niż całe zło  
@@ -3450,7 +3450,7 @@ Twojego królestwa.
   
 Ref.: Jestem Twoim dzieckiem… Aaaa… aaaa… aaaa…  
 ---
-name:#168
+name:*168
 Ref. Jesteś perłą w życiu mym  
 Skarbem, który darmo jest  
 Jezu kochać Cię chcę z całych moich sił  
@@ -3472,7 +3472,7 @@ Ojcze dziękuję Ci!
 Ref. Jesteś perłą w życiu mym…  
   
 ---
-name:#169
+name:*169
 Ref.: Lud Twój, Panie, lud pielgrzymi  
 prosi, byś był Światłem.  
 Byś na drodze do Królestwa  
@@ -3500,7 +3500,7 @@ z Twego serca płynie nowe przebaczenie.
   
 Ref. Lud Twój, Panie…  
 ---
-name:#170
+name:*170
 Otwórz me oczy, chcę widzieć Jezusa  
 i być bliżej Niego, i kochać goręcej.  
 Otwórz me uszy i naucz mnie słuchać.  
@@ -3508,7 +3508,7 @@ Otwórz me oczy, chcę widzieć Jezusa
   
   
 ---
-name:#171
+name:*171
 Ref. Duchu Święty, błagam nie zwlekaj!  
 Duchu Święty, błagam przyjdź!  
   
@@ -3528,7 +3528,7 @@ Wszystko inne to detale i ozdoby
   
 Ref. Duchu Święty…  
 ---
-name:#172
+name:*172
 Ref.: Nie, nie, nie lękaj się  
 Nie, nie poddawaj się  
 Bo dobry Bóg jest tu  
@@ -3545,7 +3545,7 @@ Usiądź może, bo Ktoś czeka całe życie, aby spotkać cię.
 Przebacz może, będzie łatwiej żyć i kochać tak, jak tego chcesz!  
   
 ---
-name:#173
+name:*173
 1\. Za to, że mnie ukochałeś  
 Boską miłością Swą  
 Za to, że się zatopiłem  
@@ -3564,7 +3564,7 @@ Imię moje brzmi: Dziękuję Ci
 Bo za wszystko chcę Tobie dziękować  
 Dzięki Ci, dzięki Ci.  
 ---
-name:#174
+name:*174
 Jezu, Tyś wszystkim dla mnie jest,  
 Jak żyć bez miłości Twej?  
 Jezu, otwórz me oczy,  
@@ -3577,13 +3577,13 @@ Tyś pokoju Księciem, Lekarzem dusz
 Jesteś Światłem, co w ciemnościach  
 nie gaśnie.  
 ---
-name:#175
+name:*175
 Pan mnie strzeże, Pan mnie strzeże. Czuwa  
 nade mną Bóg, On jest moim cieniem.  
 Ref. Czuwa nade mną Bóg, /x3 Mój Bóg!  
   
 ---
-name:#176
+name:*176
 Ref. Aaa, alleluja, w Tobie cała nadzieja ma  
 Alleluja, alleluja, tak, w Tobie nadzieja ma!  
   
@@ -3603,20 +3603,20 @@ Któż ostoi się?
 Zła nie ulęknę, nie ulęknę się!  
 Bo wiem, że Ty, choć jest ciemno, Zawsze jesteś ze mną!  
 ---
-name:#177
+name:*177
 To mój Pan, wiele mi uczynił  
 On moim Bogiem  
 To mój Pan, wiele mi uczynił  
 On mnie uzdrowił  
 ---
-name:#178
+name:*178
 Niech będzie chwała i cześć i uwielbienie  
 Chwała i cześć Jezusowi!  
 Chwała, niech będzie chwała.  
 Tak, Jemu chwała i cześć!  
   
 ---
-name:#179
+name:*179
 h Fis D A h Fis h h Fis D A h Fis h H 7  
 Ref.: e A D h E A 7 D D 7 e A D h E A 7 h  
   
@@ -3654,7 +3654,7 @@ Zgoda, więc wstaję i biegnę do Ciebie...
   
   
 ---
-name:#180
+name:*180
 class:small
 1\. Godzien chwały jest Baranek,  
 ten, co poszedł na śmierć.  
@@ -3703,7 +3703,7 @@ Królowi Królów cześć.
 Tyś wszystkim dla mnie jest  
 i Ciebie uwielbiam.  
 ---
-name:#181
+name:*181
 Ref. Oddaję Ci życie swe  
 Ty Panie wiesz, jakie jest  
 za wszystko przepraszam Cię,  
@@ -3733,13 +3733,13 @@ Zbawicielem mym
   
 Ref. Daj Ducha świętego mi…  
 ---
-name:#182
+name:*182
 Jestem cały Twój, Twym ogniem płonę.  
 jestem cały Twój.  
 Widzę Twoją twarz, słyszę Twój głos,  
 trzymam rękę Twą, nie puszczę nie puszczę już.  
 ---
-name:#183
+name:*183
 class:small
 1\. Z okrzykiem radości  
 wracamy na Syjon  
@@ -3789,7 +3789,7 @@ Ludu Pański, rodzie królewski!
 Ciesz się Panem, o Izraelu,  
 Odkupieniem raduj się ziemio!  
 ---
-name:#184
+name:*184
 class:small
 1\. Mizerna, cicha, stajenka licha,  
 Pełna niebieskiej chwały.  
@@ -3808,7 +3808,7 @@ Mądrość Mądrości,
 Światłość Światłości,  
 Bóg - Człowiek tu wcielony!  
 ---
-name:#185
+name:*185
 class:small
 1\. Przyjdź jak deszcz ożyw dziś  
 suchą ziemię naszych serc  

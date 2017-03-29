@@ -26,8 +26,9 @@
           ratio: '3:2',
           source: source
         });
-
-        var allNames = slideshow.getSlides()
+        var queryParams = getQueryString();
+        var slideNames = queryParams.slajdy && queryParams.slajdy.split(',');
+        var allNames = slideNames || slideshow.getSlides()
         .map(slide => slide.properties.name)
         .filter(name => name);
 
