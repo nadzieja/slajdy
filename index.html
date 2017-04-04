@@ -12,6 +12,31 @@
   <body>
     <script>
       function setupSlideshow(source) {
+        function getQueryString() {
+          var result = {}, queryString = location.search.slice(1),
+          re = /([^&=]+)=([^&]*)/g, m;
+
+          while (m = re.exec(queryString)) {
+            result[decodeURIComponent(m[1])] = decodeURIComponent(m[2]);
+          }
+
+          return result;
+        }
+
+        function filterSlidesByName() {
+          var getSlideName = slide => slide.split(/\n/).shift();
+          var slides = source.split(/name:/);
+          slides.shift();
+          var allSlideNames = slides.map(getSlideName);
+          var queryParams = getQueryString();
+          var slideNames = queryParams.names && queryParams.names.split(',');
+          var effectiveNames = slideNames && slideNames.filter(name => allSlideNames.indexOf(name) >= 0) 
+            || allSlideNames;
+          var effectiveSlides = effectiveNames.map(name => slides.find(slide => getSlideName(slide) === name));
+          var effectiveSource = 'name:' + effectiveSlides.join('class:black\n---\nname:') + 'class:black';
+          return effectiveSource;
+        }
+
         function addKeydown(code, callback) {
           document.body.addEventListener('keydown', function(event) {
             var keyCode = event.which || event.keyCode;
@@ -21,16 +46,6 @@
             }
           });
         }
-
-        var slideshow = remark.create({
-          ratio: '3:2',
-          source: source
-        });
-        var queryParams = getQueryString();
-        var slideNames = queryParams.slajdy && queryParams.slajdy.split(',');
-        var allNames = slideNames || slideshow.getSlides()
-        .map(slide => slide.properties.name)
-        .filter(name => name);
 
         function addNamedSlidesHandler(slideNames) {
           function cycleArray(values) {
@@ -50,58 +65,20 @@
             slideshow.gotoSlide(nextSlideName());
           });
         }
+
+        var slideshow = remark.create({
+          ratio: '3:2',
+          source: filterSlidesByName()
+        });
+        var allNames = slideshow.getSlides().map(slide => slide.properties.name).filter(name => name);
         addNamedSlidesHandler(allNames);
 
         addKeydown(190, function() { // dot
           slideshow.toggleBlackout();
         });
-
       }
 
       $.get('md/all-slides.md', setupSlideshow, 'text');
-
-      // var source = 'name:' + names.map(function(name) {
-      //   return result.responseText.split(/---\nname:/).find(function (slide) {
-      //     return slide.split(/\n/)[0] === name
-      //   });
-      // }).join('---\nname:');
-
-
-      function getQueryString() {
-        var result = {}, queryString = location.search.slice(1),
-        re = /([^&=]+)=([^&]*)/g, m;
-
-        while (m = re.exec(queryString)) {
-          result[decodeURIComponent(m[1])] = decodeURIComponent(m[2]);
-        }
-
-        return result;
-      }
-
-      function getSlideNames(url, callback) {
-        if (!url) {
-          callback();
-          return;
-        }
-        var xhr = new XMLHttpRequest();
-        xhr.responseType = 'text';
-        xhr.onreadystatechange = function() {
-          if (xhr.readyState === 4) {
-            if (xhr.status === 200) {
-              var slideNames = xhr.response.split(/\s+/);
-              callback(slideNames);
-            } else {
-              callback();
-            }
-          }
-        }
-        xhr.open('GET', url, true);
-        xhr.send(null);
-      }
-
-      var data = getQueryString()['data'];
-      var url = data && 'md/' + data + '.txt';
-      document.title = data && 'Slajdy ' + data + ' - Tchnienie Boga' || 'Slajdy - Tchnienie Boga';
 
     </script>
   </body>

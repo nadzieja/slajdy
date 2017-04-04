@@ -1,4 +1,3 @@
----
 name:logo-tb
 class:logo-tb
 ---
@@ -3846,3 +3845,4 @@ Ref. Przyjdź jak deszcz
 do spragnionych serc  
 tak pragniemy Ciebie, Panie  
 niech Twa moc dziś objawi się, pokaż swoją chwałę!  
+---
