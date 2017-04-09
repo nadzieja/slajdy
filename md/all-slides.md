@@ -39,9 +39,9 @@ Niech Twe przebaczenie
 miłość wielką rozbudzi w nas.   
 ---
 name:psalm
-class:big,center,middle
-Okaż swą łaskę  
-ufającym Tobie
+class:center,middle
+Boże mój, Boże  
+czemuś mnie opuścił?
 ---
 name:gloria
 class:tiny
@@ -2786,18 +2786,22 @@ przychodzisz do mnie
 W lekkim powiewie nawiedzasz duszę mą  
 ---
 name:*132
-1\. Hosanna, hosanna, hosanna na niebiosach.  
+1\. Hosanna, hosanna,  
+hosanna na niebiosach.  
   
 Ref. Sławić chcemy Cię wciąż  
 z radością i czcią  
 Wywyższony bądź Boże nasz.  
 Hosanna niechaj ciągle brzmi.  
-  
-2\. Chwała, chwała królowi królów chwała cześć.  
-  
-Ref. Sławić chcemy Cię wciąż z radością i czcią.  
-Wywyższony bądź Boże nasz. Królowi królów chwała, cześć!  
-  
+
+---
+2\. Chwała, chwała  
+królowi królów chwała cześć.  
+
+Ref. Sławić chcemy Cię wciąż  
+z radością i czcią  
+Wywyższony bądź Boże nasz.  
+Hosanna niechaj ciągle brzmi.  
   
 ---
 name:*133
@@ -3845,4 +3849,115 @@ Ref. Przyjdź jak deszcz
 do spragnionych serc  
 tak pragniemy Ciebie, Panie  
 niech Twa moc dziś objawi się, pokaż swoją chwałę!  
+---
+name:*186
+class:small
+Ref. Niegodny  
+jestem Panie przyjąć Cię  
+do mej duszy, lecz niech  
+to wyznanie niech Cię  
+żal mój wzruszy.  
+Pociesz mnie przebaczeniem,  
+daruj mi winy, zbrodnie  
+i uświęć Swym wejrzeniem,  
+bym Cię przyjął godnie.  
+---
+class:tiny
+1\. Dzieci, niegodne tak wielkiej ofiary,  
+Z Twego stołu dary biorą,  
+Ręce do Ojca podnoszą po dary  
+I z ufnością, i z pokorą.  
+Panem Tyś naszym i Ojcem na wieki,  
+Chociaż mali pobłądzimy,  
+Przecież spod Twojej  
+nie wyjdziem opieki,  
+Gdy Cię pośród nas czujemy.  
+---
+class:small
+Ref. Niegodny  
+jestem Panie przyjąć Cię  
+do mej duszy, lecz niech  
+to wyznanie niech Cię  
+żal mój wzruszy.  
+Pociesz mnie przebaczeniem,  
+daruj mi winy, zbrodnie  
+i uświęć Swym wejrzeniem,  
+bym Cię przyjął godnie.  
+---
+class:tiny
+2\. My za Chrystusa idziemy przykładem  
+Czy w nieszczęściu, czy w niedoli.  
+On nam wytyczył i drogi, i szlaki,  
+Jak żyć według Ojca woli.  
+Boży Baranku  
+co gładzisz grzech świata,  
+Aby lud Twój żył bezpieczny,  
+Uproś nam wiarę i miłość do brata,  
+Daj nam pokój, pokój wieczny.  
+---
+name:*187
+
+Ref. x2 Alleluja, alleluja, alleluja, alleluja	d C B a d
+
+1. Niech zabrzmi Panu chwała w niebiosach,	d C d
+na wysokościach cześć niech oddadzą. 	a B C d
+Wielbijcie Pana, Duchy niebieskie, 	d C B d
+wielbijcie Pana, Jego zastępy!	d C a d
+
+2. Słońce, Księżycu, wielbijcie Pana,
+gwiazdy świecące, wielbijcie Pana,
+niebiosa niebios, wielbijcie Pana,
+wody podniebne, wielbijcie Pana!
+
+3. Niech wszyscy wielbią Imię Pana,
+bo Jego Słowo stwarza wciąż wszystko,
+bo tylko Jego Imię jest wzniosłe,
+niechaj na wieki brzmi Jego chwała!
+
+4. On daje siłę swemu ludowi,
+z prochu podnosi swoich przyjaciół. 
+Jest Bogiem bliskim dla Izraela, 
+swoich wybranych On sam umacnia!
+
+5. Niech zabrzmi chwała Ojcu, co stwarza, 
+Jego Synowi, który jest Panem,
+Duchowi, który w nas zamieszkuje, 
+przez wszystkie wieki wieków! Amen!
+
+---
+name:*188
+
+Ref. Ooo... Chwała Panu i cześć	C G a C F G	D A h D G A
+Ooo… Chwała Panu i cześć	d A d F G C	e H e G A D
+Ooo… Chwała Panu i cześć	a E a F G C	h Fis h G A D
+Chwała Panu i cześć	F G C	G A D
+
+1. Śpiewaj Panu nową pieśń, grajmy Panu radujmy się.
+Niech cała ziemia wielbi Go!
+
+2. Błogosławiony jest nasz Pan, nasza siła i moc.
+Śpiewajmy mu dziękczynną pieśń!
+
+3. On ze mną jest, nie lękam się. On, moja moc i moja pieśń.
+Dziękujmy Mu, bo dobry jest!
+
+4. Niechaj słońce śpiewa Mu. Ogniu i żarze, śpiewajcie Mu.
+Rosy śniegi, śpiewajcie Mu!
+
+5. Morza i góry, śpiewajcie Mu. Rośliny, śpiewajcie Mu.
+Niechaj to, co żyje, śpiewa Mu!
+
+6. Źródła, śpiewajcie Mu. Ptaki, śpiewajcie Mu.
+Niech cała ziemia wielbi Go!
+
+7. Dni i noce, śpiewajcie Mu. Ranne zorze, śpiewajcie Mu.
+Gwiazdy, śpiewajcie Mu!
+
+8. Synowie ludzcy wielbią Go. Słudzy Pańscy chronią Go.
+Pokorni sercem wielbią Go!
+
+9. Kapłani Pana chwalcie Go, z ufnością śpiewajcie Mu.
+W świecie uwielbiajcie Go!
+
+10. We wszystkich słowach wierny jest. We wszystkich dziełach Święty jest. Jest blisko wzywających Go.
 ---
