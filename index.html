@@ -11,6 +11,16 @@
   </head>
   <body>
     <script>
+      function addKeydown(code, callback) {
+        document.body.addEventListener('keydown', function(event) {
+          var keyCode = event.which || event.keyCode;
+          if (keyCode === code) {
+            event.preventDefault();
+            callback();
+          }
+        });
+      }
+
       function setupSlideshow(source) {
         function getQueryString() {
           var result = {}, queryString = location.search.slice(1),
@@ -35,16 +45,6 @@
           var effectiveSlides = effectiveNames.map(name => slides.find(slide => getSlideName(slide) === name));
           var effectiveSource = 'name:' + effectiveSlides.join('class:black\n---\nname:') + 'class:black';
           return effectiveSource;
-        }
-
-        function addKeydown(code, callback) {
-          document.body.addEventListener('keydown', function(event) {
-            var keyCode = event.which || event.keyCode;
-            if (keyCode === code) {
-              event.preventDefault();
-              callback();
-            }
-          });
         }
 
         function addNamedSlidesHandler(slideNames) {
@@ -78,7 +78,10 @@
         });
       }
 
-      $.get('md/all-slides.md', setupSlideshow, 'text');
+      $.get('md/all-slides.md', setupSlideshow, 'text');  
+      addKeydown(115, function() { // F4
+        window.location.href = '?names=logo-tb,logo-odnowa,psalm1,*030,psalm3,psalm4,lit-wsz-swietych,*187,*048,*036,*140,*188,*035,*087,jozef,*033';
+      });
 
     </script>
   </body>

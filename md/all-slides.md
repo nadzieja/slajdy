@@ -1312,6 +1312,7 @@ Ref. Pozwól kochać się,
 Miłość pragnie Ciebie.  
 ---
 name:*048
+class:small
 Ref. Wszystko, co dziś mamy  
 Nie należy do nas już  
 Oto plony całej ziemi,  
@@ -1320,23 +1321,34 @@ Oto nasze dłonie
 Niech Ci służą, tak jak chcesz  
 By nie brakło w świecie chleba,  
 Którym karmisz dzieci Twe.  
-  
+---
 1\. Dałeś moim dłoniom  
 Ziarno cudu, teraz wiem.  
 Oddam Ci je Panie,  
 Bo ode mnie tego chcesz.  
-A........, a.........  
-A ziarno maleńkie to,  
-We wszechmocnych dłoniach Twych  
+A ziarno maleńkie to we  
+Wszechmocnych dłoniach Twych  
 Świeżym chlebem stanie się.  
-  
-Ref. Wszystko, co dziś mamy…  
-  
-2\. Wszystkie nasze ziarna, które Ty przemieniasz w chleb,  
-staną się pokarmem życia dla łaknących serc.  
-A........, a......... Bo długo już czeka świat  
-na miłości wielki znak, na powszedni miłości chleb.  
-  
+---
+class:small
+Ref. Wszystko, co dziś mamy  
+Nie należy do nas już  
+Oto plony całej ziemi,  
+Które Ty rozmnożyć chciej.  
+Oto nasze dłonie  
+Niech Ci służą, tak jak chcesz  
+By nie brakło w świecie chleba,  
+Którym karmisz dzieci Twe.  
+---
+2\. Wszystkie nasze ziarna,  
+które Ty przemieniasz w chleb,  
+staną się pokarmem życia  
+dla łaknących serc.  
+Bo długo już czeka świat  
+na miłości wielki znak,  
+na powszedni miłości chleb.  
+---
+class:small
 Ref. Na dalekich drogach świata  
 wiatr ze sobą będzie niósł  
 dar tych ziaren dla każdego,  
@@ -1344,9 +1356,7 @@ by nie było głodnych już.
 Miłość plon podzieli  
 i u Pana złoży stóp,  
 Aby świat zobaczył znowu  
-chlebów rozmnożenia cud…  
-  
-  
+chlebów rozmnożenia cud  
 ---
 name:*049
   
@@ -2949,36 +2959,57 @@ Jezus jest z nami tu.
   
 ---
 name:*140
-Ref. Alleluja, Alleluja, Alleluja, Alleluja!  
+class:small
+Ref. Alleluja, Alleluja,  
+Alleluja, Alleluja!  
   
-1\. Niech zabrzmi Panu chwała w niebiosach,  
-na wysokościach cześć niech oddadzą,  
-wielbijcie Pana, duchy niebieskie,  
-wielbicie Pana, Jego zastępy  
-  
-2\. Słońce, księżycu, wielbijcie Pana,  
+1\. Niech zabrzmi Panu  
+chwała w niebiosach,  
+na wysokościach  
+cześć niech oddadzą,  
+wielbijcie Pana duchy niebieskie,  
+wielbicie Pana Jego zastępy.  
+---
+class:small
+Ref. Alleluja, Alleluja,  
+Alleluja, Alleluja!  
+
+2\. Słońce, Księżycu,  
+wielbijcie Pana,  
 gwiazdy świecące wielbijcie Pana,  
 niebiosa niebios, wielbijcie Pana,  
 wody podniebne wielbijcie Pana!  
-  
+---
+class:small
+Ref. Alleluja, Alleluja,  
+Alleluja, Alleluja!  
+
 3\. Niech wszyscy wielbią Imię Pana,  
-bo Jego Słowo stwarza wciąż wszystko,  
+bo Jego Słowo  
+stwarza wciąż wszystko,  
 bo tylko Jego Imię jest wzniosłe,  
 niechaj na wieki brzmi Jego chwała!  
-  
+---
+class:small
+Ref. Alleluja, Alleluja,  
+Alleluja, Alleluja!  
+
 4\. On daje siłę Swemu ludowi,  
 z prochu podnosi Swoich przyjaciół,  
 jest Bogiem bliskim dla Izraela,  
-Swoich wybranych On Sam umacnia.  
-  
-5\. Niech zabrzmi chwała Ojcu, co stwarza,  
+Swoich wybranych  
+On Sam umacnia.  
+---
+class:small
+Ref. Alleluja, Alleluja,  
+Alleluja, Alleluja!  
+
+5\. Niech zabrzmi chwała  
+Ojcu, co stwarza,  
 Jego Synowi, który jest Panem,  
 Duchowi, który w nas zamieszkuje,  
-przez wszystkie wieki wieków. Amen!  
-  
-  
-  
-  
+przez wszystkie wieki wieków,
+Amen!  
 ---
 name:*141
 1\. Pan kiedyś stanął nad brzegiem,  
@@ -3896,68 +3927,178 @@ Uproś nam wiarę i miłość do brata,
 Daj nam pokój, pokój wieczny.  
 ---
 name:*187
-
-Ref. x2 Alleluja, alleluja, alleluja, alleluja	d C B a d
-
-1. Niech zabrzmi Panu chwała w niebiosach,	d C d
-na wysokościach cześć niech oddadzą. 	a B C d
-Wielbijcie Pana, Duchy niebieskie, 	d C B d
-wielbijcie Pana, Jego zastępy!	d C a d
-
-2. Słońce, Księżycu, wielbijcie Pana,
-gwiazdy świecące, wielbijcie Pana,
-niebiosa niebios, wielbijcie Pana,
-wody podniebne, wielbijcie Pana!
-
-3. Niech wszyscy wielbią Imię Pana,
-bo Jego Słowo stwarza wciąż wszystko,
-bo tylko Jego Imię jest wzniosłe,
-niechaj na wieki brzmi Jego chwała!
-
-4. On daje siłę swemu ludowi,
-z prochu podnosi swoich przyjaciół. 
-Jest Bogiem bliskim dla Izraela, 
-swoich wybranych On sam umacnia!
-
-5. Niech zabrzmi chwała Ojcu, co stwarza, 
-Jego Synowi, który jest Panem,
-Duchowi, który w nas zamieszkuje, 
-przez wszystkie wieki wieków! Amen!
-
+class:big
+Chwała Bogu Ojcu,  
+w chwale Jego Syn,  
+chwała Tobie Duchu,  
+tworzysz jedno z Nim.  
 ---
 name:*188
-
-Ref. Ooo... Chwała Panu i cześć	C G a C F G	D A h D G A
-Ooo… Chwała Panu i cześć	d A d F G C	e H e G A D
-Ooo… Chwała Panu i cześć	a E a F G C	h Fis h G A D
-Chwała Panu i cześć	F G C	G A D
-
-1. Śpiewaj Panu nową pieśń, grajmy Panu radujmy się.
-Niech cała ziemia wielbi Go!
-
-2. Błogosławiony jest nasz Pan, nasza siła i moc.
+Ref. Ooo... Chwała Panu i cześć!  
+Ooo... Chwała Panu i cześć!  
+Ooo... Chwała Panu i cześć!  
+Chwała Panu i cześć!  
+---
+1\. Śpiewajcie Panu nową pieśń,  
+\- Chwała Panu i cześć!  
+grajmy Panu radujmy się.  
+\- Chwała Panu i cześć!  
+Niech cała ziemia wielbi Go!  
+\- Chwała Panu i cześć!  
+\- Chwała Panu i cześć!  
+---
+2\. Błogosławiony jest nasz Pan,  
+\- Chwała Panu i cześć!  
+nasza siła i moc.  
+\- Chwała Panu i cześć!  
 Śpiewajmy mu dziękczynną pieśń!
+\- Chwała Panu i cześć!  
+\- Chwała Panu i cześć!  
+---
+3\. On ze mną jest, nie lękam się.  
+\- Chwała Panu i cześć!  
+On, moja moc i moja pieśń.  
+\- Chwała Panu i cześć!  
+Dziękujmy Mu, bo dobry jest!  
+\- Chwała Panu i cześć!  
+\- Chwała Panu i cześć!  
+---
+4\. Niechaj słońce śpiewa Mu.  
+\- Chwała Panu i cześć!  
+Ogniu i żarze, śpiewajcie Mu.  
+\- Chwała Panu i cześć!  
+Rosy śniegi, śpiewajcie Mu!  
+\- Chwała Panu i cześć!  
+\- Chwała Panu i cześć!  
+---
+5\. Morza i góry, śpiewajcie Mu.  
+\- Chwała Panu i cześć!  
+Rośliny, śpiewajcie Mu.  
+\- Chwała Panu i cześć!  
+Niechaj to, co żyje, śpiewa Mu!  
+\- Chwała Panu i cześć!  
+\- Chwała Panu i cześć!  
+---
+6\. Źródła, śpiewajcie Mu.  
+\- Chwała Panu i cześć!  
+Ptaki, śpiewajcie Mu.  
+\- Chwała Panu i cześć!  
+Niech cała ziemia wielbi Go!  
+\- Chwała Panu i cześć!  
+\- Chwała Panu i cześć!  
+---
+7\. Dni i noce, śpiewajcie Mu.  
+\- Chwała Panu i cześć!  
+Ranne zorze, śpiewajcie Mu.  
+\- Chwała Panu i cześć!  
+Gwiazdy, śpiewajcie Mu!  
+\- Chwała Panu i cześć!  
+\- Chwała Panu i cześć!  
+---
+8\. Synowie ludzcy wielbią Go.  
+\- Chwała Panu i cześć!  
+Słudzy Pańscy chronią Go.  
+\- Chwała Panu i cześć!  
+Pokorni sercem wielbią Go!  
+\- Chwała Panu i cześć!  
+\- Chwała Panu i cześć!  
+---
+9\. Kapłani Pana chwalcie Go,  
+\- Chwała Panu i cześć!  
+z ufnością śpiewajcie Mu.  
+\- Chwała Panu i cześć!  
+W świecie uwielbiajcie Go!  
+\- Chwała Panu i cześć!  
+\- Chwała Panu i cześć!  
+---
+10\. We wszystkich słowach  
+wierny jest \- Chwała Panu i cześć!  
+We wszystkich dziełach  
+Święty jest. \- Chwała Panu i cześć!  
+Jest blisko wzywających Go.  
+\- Chwała Panu i cześć!  
+\- Chwała Panu i cześć!  
+---
+name:psalm1
+class:center,middle
+Pełna jest ziemia  
+łaskawości Pana.
+---
+name:psalm3
+class:center,middle
+Będziecie czerpać  
+ze zdrojów zbawienia.  
+---
+name:psalm4
+class:center,middle
+Boga żywego  
+pragnie dusza moja.  
+---
+name:lit-wsz-swietych
+Kyrie eleison, Kyrie eleison  
+Christe eleison, Christe eleison  
+Kyrie eleison, Kyrie eleison  
 
-3. On ze mną jest, nie lękam się. On, moja moc i moja pieśń.
-Dziękujmy Mu, bo dobry jest!
+Święta Maryjo, módl się za nami.  
+Święty Michale,  
+Święci Aniołowie Boży,  
+---
+Święty Janie Chrzcicielu,  
+Święta Anno,  
+Święty Józefie,  
+Święci Piotrze i Pawle,  
+Święty Andrzeju,  
+Święty Janie,  
+Święta Mario Magdaleno,  
+---
+Święty Szczepanie,  
+Święty Ignacy Antiocheński,  
+Święty Wawrzyńcze,  
+Święte Perpetuo i Felicyto,  
+Święta Agnieszko,  
+Święty Grzegorzu,  
+Święty Augustynie,  
+---
+Święty Atanazy,  
+Święty Bazyli,  
+Święty Marcinie,  
+Święty Benedykcie,  
+Święci Franciszku i Dominiku,  
+Święty Jacku,  
+Święty Franciszku Ksawery,  
+---
+Święty Janie Mario Vianneyu,  
+Święta Katarzyno Sieneńska,  
+Święta Tereso z Avilla,  
+Święci Wojciechu i Dominiku,  
+Święta Jadwigo,  
+Wszyscy święci i święte Boże,  
+---
+Bądź nam miłościw,  
+\- wybaw nas Panie  
+Od zła wszelkiego,  
+Od grzechu każdego,  
+Od śmierci wiecznej,  
+Przez Twoje wcielenie,  
+---
+Przez Twoją śmierć  
+i zmartwychwstanie,  
+Przez zesłanie Ducha Świętego,  
 
-4. Niechaj słońce śpiewa Mu. Ogniu i żarze, śpiewajcie Mu.
-Rosy śniegi, śpiewajcie Mu!
+Prosimy Cię my, grzesznicy  
+\- wysłuchaj nas, Panie.  
+---
+Prosimy Cię, abyś uświęcił tę  
+wodę, przez którą mają się  
+odrodzić Twoje dzieci,  
+\- wysłuchaj nas, Panie.  
+Prosimy Cię, Jezu,  
+Synu Boga żywego,  
+\- wysłuchaj nas, Panie.  
+---
 
-5. Morza i góry, śpiewajcie Mu. Rośliny, śpiewajcie Mu.
-Niechaj to, co żyje, śpiewa Mu!
-
-6. Źródła, śpiewajcie Mu. Ptaki, śpiewajcie Mu.
-Niech cała ziemia wielbi Go!
-
-7. Dni i noce, śpiewajcie Mu. Ranne zorze, śpiewajcie Mu.
-Gwiazdy, śpiewajcie Mu!
-
-8. Synowie ludzcy wielbią Go. Słudzy Pańscy chronią Go.
-Pokorni sercem wielbią Go!
-
-9. Kapłani Pana chwalcie Go, z ufnością śpiewajcie Mu.
-W świecie uwielbiajcie Go!
-
-10. We wszystkich słowach wierny jest. We wszystkich dziełach Święty jest. Jest blisko wzywających Go.
+Chryste, usłysz nas.  
+\- Chryste, usłysz nas.  
+Chryste, wysłuchaj nas.  
+\- Chryste, wysłuchaj nas.  
 ---
