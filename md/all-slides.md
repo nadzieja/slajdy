@@ -40,8 +40,8 @@ miłość wielką rozbudzi w nas.
 ---
 name:psalm
 class:center,middle
-Boże mój, Boże  
-czemuś mnie opuścił?
+Okaż swą łaskę  
+ufającym Tobie
 ---
 name:gloria
 class:tiny
@@ -4019,21 +4019,6 @@ Jest blisko wzywających Go.
 \- Chwała Panu i cześć!  
 \- Chwała Panu i cześć!  
 ---
-name:psalm1
-class:center,middle
-Pełna jest ziemia  
-łaskawości Pana.
----
-name:psalm3
-class:center,middle
-Będziecie czerpać  
-ze zdrojów zbawienia.  
----
-name:psalm4
-class:center,middle
-Boga żywego  
-pragnie dusza moja.  
----
 name:lit-wsz-swietych
 Kyrie eleison, Kyrie eleison  
 Christe eleison, Christe eleison  
@@ -4101,4 +4086,59 @@ Chryste, usłysz nas.
 \- Chryste, usłysz nas.  
 Chryste, wysłuchaj nas.  
 \- Chryste, wysłuchaj nas.  
+---
+name:*189
+class:big
+Ref. Chwalcie Pana Niebios,  
+chwalcie Go na cytrze.  
+Chwalcie Króla świata,  
+bo On Bogiem jest.  
+---
+class:small
+1\. Chwal duszo moja  
+Pana mego Króla  
+Chcę chwalić Pana,  
+jak długo będę żył  
+Chcę śpiewać memu Bogu,  
+póki będę istniał  
+Chcę Go wysławiać,  
+śpiewać Alleluja!  
+---
+class:big
+Ref. Chwalcie Pana Niebios,  
+chwalcie Go na cytrze.  
+Chwalcie Króla świata,  
+bo On Bogiem jest.  
+---
+class:small
+2\. Szczęśliwy ten, któremu  
+Pan jest pomocą  
+Kto ma nadzieję  
+w Panu Bogu swym  
+W Bogu, który stworzył  
+niebo i ziemię  
+Wszystko, co żyje,  
+śpiewa Alleluja!  
+---
+class:big
+Ref. Chwalcie Pana Niebios,  
+chwalcie Go na cytrze.  
+Chwalcie Króla świata,  
+bo On Bogiem jest.  
+---
+class:small
+3\. Pan Bóg króluje,  
+wesel się ziemio  
+Bóg Twój Syjonie  
+przez pokolenia  
+On dał Ci życie,  
+On da ci wszystko  
+Śpiewaj Mu  
+wysławiaj Go Alleluja!  
+---
+class:big
+Ref. Chwalcie Pana Niebios,  
+chwalcie Go na cytrze.  
+Chwalcie Króla świata,  
+bo On Bogiem jest.  
 ---
