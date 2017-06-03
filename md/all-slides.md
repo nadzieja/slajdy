@@ -184,59 +184,6 @@ class:tiny
 Wspomagaj nas w walce, a przeciw niegodziwości i zasadzkom złego ducha bądź naszą obroną. Oby go Bóg pogromić raczył, pokornie o to prosimy. A Ty, Wodzu niebieskich zastępów, szatana i inne duchy złe, które na zgubę dusz ludzkich po tym świecie krążą, mocą Bożą strąć do piekła.
 Amen.  
 ---
-name:hymn-do-ducha
-class:small
-O Stworzycielu, Duchu, przyjdź,  
-Nawiedź dusz wiernych Tobie krąg.  
-Niebieską łaskę zesłać racz  
-Sercom, co dziełem są Twych rąk.  
-
-Pocieszycielem jesteś zwan  
-I najwyższego Boga dar.  
-Tyś namaszczeniem naszych dusz  
-Zdrój żywy, miłość, ognia żar.  
----
-class:small
-Ty darzysz łaską siedemkroć,  
-Bo moc z prawicy Ojca masz,  
-Przez Ojca obiecany nam,  
-Mową wzbogacasz język nasz.  
-
-Światłem rozjaśnij naszą myśl,  
-W serca nam miłość świętą wlej,  
-I wątłą słabość naszych ciał,  
-Pokrzep stałością mocy swej.  
----
-class:small
-Nieprzyjaciela odpędź w dal  
-I Twym pokojem obdarz wraz.  
-Niech w drodze za przewodem Twym  
-Miniemy zło, co kusi nas  
-
-Daj nam przez Ciebie Ojca znać,  
-Daj, by i Syn poznany był,  
-I Ciebie, jedno Tchnienie Dwóch,  
-Niech wyznajemy z wszystkich sił.  
----
-class:small
-Niech Bogu Ojcu chwała brzmi,  
-Synowi, który zmartwychwstał,  
-I Temu, co pociesza nas,  
-Niech hołd wieczystych  
-płynie chwał. Amen.
----
-name:o-zbawcza-hostio
-class:small
-O Zbawcza Hostio godna czci,  
-Co lud do niebios wiedziesz bram:  
-Znój srogi nęka wiernych Ci,  
-Daj siłę, pomoc ześlij nam.  
-Jednemu w Trójcy Władcy ziem,  
-Niech będzie chwała w każdy czas.  
-Niech On wieczystym życiem swym.  
-w Ojczyźnie rajskiej darzy nas.  
-Amen.  
----
 name:*009
 class:small
 1\. Tryumfy Króla Niebieskiego  
@@ -4201,4 +4148,67 @@ Ref. Chwalcie Pana Niebios,
 chwalcie Go na cytrze.  
 Chwalcie Króla świata,  
 bo On Bogiem jest.  
+---
+name:*190
+Wszystkie narody klaskajcie w dłonie  
+Wykrzykujcie Bogu radosnym głosem,  
+Bo Pan najwyższym jest  
+królem nad całą ziemią.  
+ 
+Ref. Śpiewajcie, wszystkie narody  
+Śpiewajcie, radosnym głosem  
+Śpiewajcie, Królowi  
+---
+name:*191
+class:small
+O Stworzycielu, Duchu, przyjdź,  
+Nawiedź dusz wiernych Tobie krąg.  
+Niebieską łaskę zesłać racz  
+Sercom, co dziełem są Twych rąk.  
+
+Pocieszycielem jesteś zwan  
+I najwyższego Boga dar.  
+Tyś namaszczeniem naszych dusz  
+Zdrój żywy, miłość, ognia żar.  
+---
+class:small
+Ty darzysz łaską siedemkroć,  
+Bo moc z prawicy Ojca masz,  
+Przez Ojca obiecany nam,  
+Mową wzbogacasz język nasz.  
+
+Światłem rozjaśnij naszą myśl,  
+W serca nam miłość świętą wlej,  
+I wątłą słabość naszych ciał,  
+Pokrzep stałością mocy swej.  
+---
+class:small
+Nieprzyjaciela odpędź w dal  
+I Twym pokojem obdarz wraz.  
+Niech w drodze za przewodem Twym  
+Miniemy zło, co kusi nas  
+
+Daj nam przez Ciebie Ojca znać,  
+Daj, by i Syn poznany był,  
+I Ciebie, jedno Tchnienie Dwóch,  
+Niech wyznajemy z wszystkich sił.  
+---
+class:small
+Niech Bogu Ojcu chwała brzmi,  
+Synowi, który zmartwychwstał,  
+I Temu, co pociesza nas,  
+Niech hołd wieczystych  
+płynie chwał. Amen.
+---
+name:*192
+class:small
+O Zbawcza Hostio godna czci,  
+Co lud do niebios wiedziesz bram:  
+Znój srogi nęka wiernych Ci,  
+Daj siłę, pomoc ześlij nam.  
+Jednemu w Trójcy Władcy ziem,  
+Niech będzie chwała w każdy czas.  
+Niech On wieczystym życiem swym.  
+w Ojczyźnie rajskiej darzy nas.  
+Amen.  
 ---
