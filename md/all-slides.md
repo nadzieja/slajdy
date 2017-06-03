@@ -40,8 +40,8 @@ miłość wielką rozbudzi w nas.
 ---
 name:psalm
 class:center,middle
-Okaż swą łaskę  
-ufającym Tobie
+Niech zstąpi Duch Twój  
+i odnowi ziemię
 ---
 name:gloria
 class:tiny
@@ -182,6 +182,59 @@ name:michal
 class:tiny
 Święty Michale Archaniele!   
 Wspomagaj nas w walce, a przeciw niegodziwości i zasadzkom złego ducha bądź naszą obroną. Oby go Bóg pogromić raczył, pokornie o to prosimy. A Ty, Wodzu niebieskich zastępów, szatana i inne duchy złe, które na zgubę dusz ludzkich po tym świecie krążą, mocą Bożą strąć do piekła.
+Amen.  
+---
+name:hymn-do-ducha
+class:small
+O Stworzycielu, Duchu, przyjdź,  
+Nawiedź dusz wiernych Tobie krąg.  
+Niebieską łaskę zesłać racz  
+Sercom, co dziełem są Twych rąk.  
+
+Pocieszycielem jesteś zwan  
+I najwyższego Boga dar.  
+Tyś namaszczeniem naszych dusz  
+Zdrój żywy, miłość, ognia żar.  
+---
+class:small
+Ty darzysz łaską siedemkroć,  
+Bo moc z prawicy Ojca masz,  
+Przez Ojca obiecany nam,  
+Mową wzbogacasz język nasz.  
+
+Światłem rozjaśnij naszą myśl,  
+W serca nam miłość świętą wlej,  
+I wątłą słabość naszych ciał,  
+Pokrzep stałością mocy swej.  
+---
+class:small
+Nieprzyjaciela odpędź w dal  
+I Twym pokojem obdarz wraz.  
+Niech w drodze za przewodem Twym  
+Miniemy zło, co kusi nas  
+
+Daj nam przez Ciebie Ojca znać,  
+Daj, by i Syn poznany był,  
+I Ciebie, jedno Tchnienie Dwóch,  
+Niech wyznajemy z wszystkich sił.  
+---
+class:small
+Niech Bogu Ojcu chwała brzmi,  
+Synowi, który zmartwychwstał,  
+I Temu, co pociesza nas,  
+Niech hołd wieczystych  
+płynie chwał. Amen.
+---
+name:o-zbawcza-hostio
+class:small
+O Zbawcza Hostio godna czci,  
+Co lud do niebios wiedziesz bram:  
+Znój srogi nęka wiernych Ci,  
+Daj siłę, pomoc ześlij nam.  
+Jednemu w Trójcy Władcy ziem,  
+Niech będzie chwała w każdy czas.  
+Niech On wieczystym życiem swym.  
+w Ojczyźnie rajskiej darzy nas.  
 Amen.  
 ---
 name:*009
@@ -1383,12 +1436,14 @@ I radować się każdym dniem...
 Ref.x2: Ciągle szukam swego domu…  
 ---
 name:*050
-Mój Pan mocą moją jest  
-Skałą i zbawieniem, On Bogiem mym  
+class:small
+1\. Mój Pan mocą moją jest  
+Skałą i zbawieniem,  
+On Bogiem mym  
   
-Ref.: Dla Ciebie otwieram serce me |3x  
+Ref. Dla Ciebie otwieram serce me  
   
-Mój Pan Królem moim jest  
+2\. Mój Pan Królem moim jest  
 Na zawsze i na wieki. Amen.  
 ---
 name:*051
@@ -1577,7 +1632,7 @@ Twoje ręce to mój ląd
   
 ---
 name:*059
-class:tiny,middle
+class:tiny
 1\. Schowaj mnie pod skrzydła Twe.  
 Ukryj mnie w silnej dłoni Swej.  
   
@@ -1587,7 +1642,7 @@ Panie, królem Tyś spienionych wód.
 Ja ufam Ci, Ty jesteś Bóg.  
 Ja ufam Ci, Ty jesteś Bóg.  
 ---
-class:tiny,middle
+class:tiny
 2\. Odpocznę dziś, w ramionach Twych.  
 Dusza ma, w Tobie będzie trwać.  
   
@@ -1743,15 +1798,15 @@ chcemy widzieć Twoją moc
 i doświadczyć, Panie, łaski Twej.  
 ---
 name:*069
-class:tiny,middle
+class:small
 Więcej miłości! Więcej mocy!  
 Więcej Ciebie w życiu mym!  
   
-Ref. Bo całym swoim sercem uwielbiam  
-Ciebie! Całą swoją duszą uwielbiam  
-Ciebie! Całym swoim życiem uwielbiam  
-Ciebie! Tyś jest Bogiem mym,  
-Tyś Panem moim jest!  
+Ref. Bo całym swoim sercem  
+uwielbiam Ciebie! Całą swoją duszą  
+uwielbiam Ciebie! Całym swoim  
+życiem uwielbiam Ciebie! Tyś jest  
+Bogiem mym, Tyś Panem moim jest!  
 ---
 name:*070
 class:small
@@ -2000,10 +2055,8 @@ name:*084
 Panu naszemu pieśni grajcie  
 wysławiajcie Jego święte Imię  
   
-Ref. Alleluja, alleluja, alleluja, alleluja.  
-  
-  
-  
+Ref. Alleluja, alleluja,  
+alleluja, alleluja.  
 ---
 name:*085
 1\. Moje wędrowanie, moje upadanie,  
@@ -2549,12 +2602,9 @@ name:*117
 Pan jest mocą Swojego ludu  
 Pieśnią moją jest Pan  
 Moja tarcza i moja moc  
-On jest mym Bogiem, nie jestem sam  
+On jest mym Bogiem,  
+nie jestem sam  
 W Nim moja siła, nie jestem sam  
-  
-  
-  
-  
 ---
 name:*118
 class:small
@@ -2612,8 +2662,9 @@ Cud największy dzieje się
 ---
 name:*121
 Duchu Święty ogarnij mnie  
-Otwórz oczy mego serca, napełnij miłością  
-Duchu święty ja kocham  
+Otwórz oczy mego serca,  
+napełnij miłością  
+Duchu święty ja kocham Cię  
 Niech Twa święta wola spełni się  
   
   
@@ -3738,16 +3789,18 @@ Tyś wszystkim dla mnie jest
 i Ciebie uwielbiam.  
 ---
 name:*181
+class:small
 Ref. Oddaję Ci życie swe  
 Ty Panie wiesz, jakie jest  
 za wszystko przepraszam Cię,  
 co było grzechem i złem  
-  
+
 1\. Oczyść Panie duszę mą  
 zapomnij mi moje winy  
 obmyj mnie Swą świętą krwią  
 podaruj mi nowe życie  
-  
+---
+class:small
 Ref. Daj Ducha świętego mi  
 by odtąd prowadził mnie  
 rozpalił dziś w sercu mym  
@@ -3757,15 +3810,22 @@ ognisko miłości Twej
 z Twą łaską i miłosierdziem  
 otocz mnie ramieniem Swym  
 bo ja...  
-  
-Ref. Oddaję Ci życie swe...  
+---
+class:small
+Ref. Oddaję Ci życie swe  
+Ty Panie wiesz, jakie jest  
+za wszystko przepraszam Cię,  
+co było grzechem i złem  
   
 3\. Wybawiłeś duszę mą  
 umarłeś za moje winy  
 Jezu jesteś Panem mym  
 Zbawicielem mym  
-  
-Ref. Daj Ducha świętego mi…  
+---
+Ref. Daj Ducha świętego mi  
+by odtąd prowadził mnie  
+rozpalił dziś w sercu mym  
+ognisko miłości Twej  
 ---
 name:*182
 Jestem cały Twój, Twym ogniem płonę.  
