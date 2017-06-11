@@ -40,8 +40,8 @@ miłość wielką rozbudzi w nas.
 ---
 name:psalm
 class:center,middle
-Niech zstąpi Duch Twój  
-i odnowi ziemię
+Chwalebny jesteś,  
+wiekuisty Boże
 ---
 name:gloria
 class:tiny
@@ -3396,40 +3396,36 @@ Bło-go-sław-cie Go! O o o o...
 Ref.: Błogosław duszo moja Pana…  
 ---
 name:*163
+class:tiny
 W Swym Sercu na wieki ukryłeś nas,  
 Odnaleźć Twą miłość już czas.  
-Podnoszę me dłonie, oddając Ci cześć,  
-Mocy moja, uwielbiam Cię. |x2  
+Podnoszę me dłonie, oddając Ci cześć.  
+Mocy moja, uwielbiam Cię.  
   
-Ref. Jezu, Serce Twoje schronieniem mym  
-Panie, w Sercu Twoim mój dom.  
-Umiłował mnie Pan  
-I mogę w Sercu Jego trwać  
-Umiłował mnie Pan  
-  
-W Swym Sercu na wieki ukryłeś nas,  
-Odnaleźć Twą miłość już czas.  
-Podnoszę me dłonie,  
-oddając Ci cześć,  
-Mocy moja, uwielbiam Cię. |x2  
-  
-Ref. Jezu, Serce Twoje  
-schronieniem mym  
-Panie, w Sercu Twoim mój dom.  
-Umiłował mnie Pan  
-I mogę w Sercu Jego trwać  
-Umiłował mnie Pan, na wieki.  
+Ref.  
 Jezu, Serce Twoje schronieniem mym  
 Panie, w Sercu Twoim mój dom.  
-Do nas zniżył się Pan, by Serce Swoje oddać nam,  
+Umiłował mnie Pan i mogę w Sercu  
+Jego trwać, umiłował mnie Pan  
+---
+W Swym Sercu na wieki  
+ukryłeś nas,  
+Odnaleźć Twą miłość już czas.  
+Podnoszę me dłonie,  
+oddając Ci cześć.  
+Mocy moja, uwielbiam Cię.  
+---
+class:tiny
+Ref. Jezu, Serce Twoje schronieniem  
+mym. Panie, w Sercu Twoim mój dom.  
+Umiłował mnie Pan i mogę w Sercu  
+Jego trwać, umiłował mnie Pan  
+na wieki.  
+Jezu, Serce Twoje schronieniem mym. 
+Panie, w Sercu Twoim mój dom.  
+Do nas zniżył się Pan,  
+by Serce Swoje oddać nam,  
 Do nas zniżył się Pan, alleluja.  
-  
-Ref. Jezu, Serce Twoje…  
-  
-Umiłował mnie Pan alleluja, alleluja.  
-  
-Ref. Jezu, Serce Twoje….  
-  
 ---
 name:*164
 Podnieś mnie, Jezu i prowadź do Ojca  
@@ -3616,24 +3612,49 @@ Ref. Czuwa nade mną Bóg, /x3 Mój Bóg!
   
 ---
 name:*176
-Ref. Aaa, alleluja, w Tobie cała nadzieja ma  
-Alleluja, alleluja, tak, w Tobie nadzieja ma!  
+class:small
+Ref. Aaa, alleluja,  
+w Tobie cała nadzieja ma  
+Alleluja, alleluja,  
+tak, w Tobie nadzieja ma!  
   
-1\. Kiedy duch mój omdlewa, serce zamiera, dusza pragnie Cię.  
-jak zeschła ziemia, ogrodu ulewa. Prędko wysłuchaj mnie.  
-  
-2\. Twój dobry Duch mnie wyprowadzi,  
-Po równej ziemi zaprowadzi mnie.  
-Bo wiem, że ci, co we łzach sieją, żąć będą w radości.  
-  
+1\. Kiedy duch mój omdlewa,  
+serce zamiera, dusza pragnie Cię.  
+jak zeschła ziemia, ogrodu ulewa.  
+Prędko wysłuchaj mnie.  
+---
+class:small
+Ref. Aaa, alleluja,  
+w Tobie cała nadzieja ma  
+Alleluja, alleluja,  
+tak, w Tobie nadzieja ma!  
+
+2\. Twój dobry Duch mnie  
+wyprowadzi, po równej ziemi  
+zaprowadzi mnie. Bo wiem, że ci, co  
+we łzach sieją, żąć będą w radości.  
+---
+class:small
+Ref. Aaa, alleluja,  
+w Tobie cała nadzieja ma  
+Alleluja, alleluja,  
+tak, w Tobie nadzieja ma!  
+
 3\. Z głębokości wołam do Ciebie,  
-Nakłoń Swe ucho, głośno błagam Cię.  
-Bo jeśli zachowasz pamięć o grzechach,  
-Któż ostoi się?  
-  
-4\. Gdybym szedł przez ciemną dolinę,  
-Zła nie ulęknę, nie ulęknę się!  
-Bo wiem, że Ty, choć jest ciemno, Zawsze jesteś ze mną!  
+Nakłoń Swe ucho, głośno błagam  
+Cię, bo jeśli zachowasz pamięć  
+o grzechach, któż ostoi się?  
+---
+class:small
+Ref. Aaa, alleluja,  
+w Tobie cała nadzieja ma  
+Alleluja, alleluja,  
+tak, w Tobie nadzieja ma!  
+
+4\. Gdybym szedł przez ciemną  
+dolinę, zła nie ulęknę,  
+nie ulęknę się! Bo wiem, że Ty, choć  
+jest ciemno, zawsze jesteś ze mną!  
 ---
 name:*177
 To mój Pan, wiele mi uczynił  
